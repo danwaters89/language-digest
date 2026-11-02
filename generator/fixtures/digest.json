@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-02",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-02T12:00:00.000Z",
+  "stories": [
+    {
+      "id": "2026-11-02-1",
+      "headline": { "es": "Líderes hablan del clima", "en": "Leaders talk about the climate" },
+      "source": { "name": "BBC World", "url": "https://www.bbc.com/news/world-fixture-1" },
+      "sentences": [
+        {
+          "es": "Líderes de muchos países se reúnen esta semana para hablar del clima.",
+          "en": "Leaders from many countries are meeting this week to talk about the climate.",
+          "words": [
+            { "surface": "Líderes", "lemma": "líder", "en": "leaders", "pos": "noun" },
+            { "surface": "reúnen", "lemma": "reunirse", "en": "meet, gather", "pos": "verb" }
+          ]
+        },
+        {
+          "es": "Quieren reducir la contaminación de las fábricas y los autos.",
+          "en": "They want to reduce pollution from factories and cars.",
+          "words": [
+            { "surface": "reducir", "lemma": "reducir", "en": "to reduce", "pos": "verb" },
+            { "surface": "contaminación", "lemma": "contaminación", "en": "pollution", "pos": "noun" },
+            { "surface": "fábricas", "lemma": "fábrica", "en": "factories", "pos": "noun" }
+          ]
+        },
+        {
+          "es": "Algunos países dicen que necesitan más dinero para cambiar.",
+          "en": "Some countries say they need more money to change.",
+          "words": []
+        },
+        {
+          "es": "La reunión termina el viernes y habrá un acuerdo final.",
+          "en": "The meeting ends on Friday and there will be a final agreement.",
+          "words": [
+            { "surface": "reunión", "lemma": "reunión", "en": "meeting", "pos": "noun" },
+            { "surface": "habrá", "lemma": "haber", "en": "there will be", "pos": "verb" },
+            { "surface": "acuerdo", "lemma": "acuerdo", "en": "agreement", "pos": "noun" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-2",
+      "headline": { "es": "Un nuevo puente para bicicletas", "en": "A new bridge for bicycles" },
+      "source": { "name": "NPR News", "url": "https://www.npr.org/fixture-2" },
+      "sentences": [
+        {
+          "es": "Una ciudad de Europa abre un nuevo puente para bicicletas.",
+          "en": "A city in Europe opens a new bridge for bicycles.",
+          "words": [
+            { "surface": "puente", "lemma": "puente", "en": "bridge", "pos": "noun" },
+            { "surface": "bicicletas", "lemma": "bicicleta", "en": "bicycles", "pos": "noun" }
+          ]
+        },
+        {
+          "es": "El puente cruza un río y conecta dos barrios.",
+          "en": "The bridge crosses a river and connects two neighborhoods.",
+          "words": [
+            { "surface": "cruza", "lemma": "cruzar", "en": "crosses", "pos": "verb" },
+            { "surface": "conecta", "lemma": "conectar", "en": "connects", "pos": "verb" },
+            { "surface": "barrios", "lemma": "barrio", "en": "neighborhoods", "pos": "noun" }
+          ]
+        },
+        {
+          "es": "Mucha gente quiere ir al trabajo sin usar el auto.",
+          "en": "Many people want to go to work without using a car.",
+          "words": []
+        },
+        {
+          "es": "El alcalde dice que la obra costó diez millones de euros.",
+          "en": "The mayor says the construction project cost ten million euros.",
+          "words": [
+            { "surface": "alcalde", "lemma": "alcalde", "en": "mayor", "pos": "noun" },
+            { "surface": "obra", "lemma": "obra", "en": "construction project", "pos": "noun" },
+            { "surface": "costó", "lemma": "costar", "en": "cost", "pos": "verb" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-3",
+      "headline": { "es": "Científicos encuentran un planeta pequeño", "en": "Scientists find a small planet" },
+      "source": { "name": "BBC World", "url": "https://www.bbc.com/news/science-fixture-3" },
+      "sentences": [
+        {
+          "es": "Un grupo de científicos encontró un planeta pequeño.",
+          "en": "A group of scientists found a small planet.",
+          "words": [
+            { "surface": "científicos", "lemma": "científico", "en": "scientists", "pos": "noun" },
+            { "surface": "encontró", "lemma": "encontrar", "en": "found", "pos": "verb" }
+          ]
+        },
+        {
+          "es": "El planeta está muy lejos de la Tierra.",
+          "en": "The planet is very far from Earth.",
+          "words": [
+            { "surface": "lejos", "lemma": "lejos", "en": "far", "pos": "adverb" },
+            { "surface": "Tierra", "lemma": "tierra", "en": "Earth", "pos": "noun" }
+          ]
+        },
+        {
+          "es": "Usaron un telescopio grande que está en el espacio.",
+          "en": "They used a large telescope that is in space.",
+          "words": [
+            { "surface": "Usaron", "lemma": "usar", "en": "they used", "pos": "verb" },
+            { "surface": "telescopio", "lemma": "telescopio", "en": "telescope", "pos": "noun" }
+          ]
+        },
+        {
+          "es": "Ahora quieren saber si tiene agua.",
+          "en": "Now they want to find out if it has water.",
+          "words": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#1f5f8b" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png" />
+    <title>Resumen diario</title>
+    <script type="module" src="/src/main.ts"></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <h1 class="brand" lang="es">Resumen diario</h1>
+      <nav aria-label="Main">
+        <a href="#today" data-route="today">Today</a>
+        <a href="#archive" data-route="archive">Archive</a>
+        <a href="#words" data-route="words">Words</a>
+        <a href="#settings" data-route="settings">Settings</a>
+      </nav>
+    </header>
+    <main id="main" tabindex="-1"></main>
+  </body>
+</html>

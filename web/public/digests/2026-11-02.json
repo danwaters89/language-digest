@@ -1,0 +1,966 @@
+{
+  "date": "2026-11-02",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-02T17:54:03.714Z",
+  "stories": [
+    {
+      "id": "2026-11-02-1",
+      "headline": {
+        "es": "Un ataque cibernético daña congeladores en tiendas de Europa",
+        "en": "Cyber-attack damages freezers in shops across Europe"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un ataque cibernético afectó los congeladores de tiendas en siete países europeos.",
+          "en": "A cyber-attack affected freezers in shops in seven European countries.",
+          "words": [
+            {
+              "surface": "ataque cibernético",
+              "lemma": "ataque cibernético",
+              "en": "cyber-attack"
+            },
+            {
+              "surface": "congeladores",
+              "lemma": "congelador",
+              "en": "freezers"
+            },
+            {
+              "surface": "afectó",
+              "lemma": "afectar",
+              "en": "affected"
+            }
+          ]
+        },
+        {
+          "es": "La temperatura dentro de los congeladores subió hasta 50 grados Celsius.",
+          "en": "The temperature inside the freezers rose to as high as 50 degrees Celsius.",
+          "words": [
+            {
+              "surface": "temperatura",
+              "lemma": "temperatura",
+              "en": "temperature"
+            },
+            {
+              "surface": "congeladores",
+              "lemma": "congelador",
+              "en": "freezers"
+            },
+            {
+              "surface": "subió",
+              "lemma": "subir",
+              "en": "rose"
+            }
+          ]
+        },
+        {
+          "es": "Este problema causó daños graves en los alimentos almacenados.",
+          "en": "This problem caused serious damage to the stored food.",
+          "words": [
+            {
+              "surface": "problema",
+              "lemma": "problema",
+              "en": "problem"
+            },
+            {
+              "surface": "causó",
+              "lemma": "causar",
+              "en": "caused"
+            },
+            {
+              "surface": "daños",
+              "lemma": "daño",
+              "en": "damage"
+            },
+            {
+              "surface": "alimentos",
+              "lemma": "alimento",
+              "en": "food"
+            },
+            {
+              "surface": "almacenados",
+              "lemma": "almacenar",
+              "en": "stored"
+            }
+          ]
+        },
+        {
+          "es": "Las tiendas perdieron muchos productos que no podían vender.",
+          "en": "The shops lost many products that they could not sell.",
+          "words": [
+            {
+              "surface": "tiendas",
+              "lemma": "tienda",
+              "en": "shops"
+            },
+            {
+              "surface": "perdieron",
+              "lemma": "perder",
+              "en": "lost"
+            },
+            {
+              "surface": "productos",
+              "lemma": "producto",
+              "en": "products"
+            }
+          ]
+        },
+        {
+          "es": "Los expertos investigan quién fue responsable del ataque.",
+          "en": "Experts are investigating who was responsible for the attack.",
+          "words": [
+            {
+              "surface": "expertos",
+              "lemma": "experto",
+              "en": "experts"
+            },
+            {
+              "surface": "investigan",
+              "lemma": "investigar",
+              "en": "are investigating"
+            },
+            {
+              "surface": "responsable",
+              "lemma": "responsable",
+              "en": "responsible"
+            },
+            {
+              "surface": "ataque",
+              "lemma": "ataque",
+              "en": "attack"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-2",
+      "headline": {
+        "es": "El gobierno pide a la Corte Suprema que intervenga en votaciones de California",
+        "en": "Government asks Supreme Court to intervene in California voting"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump"
+      },
+      "sentences": [
+        {
+          "es": "El gobierno solicita a la Corte Suprema que revise una decisión sobre las boletas electorales en California.",
+          "en": "The government requests the Supreme Court to review a decision about ballots in California.",
+          "words": [
+            {
+              "surface": "gobierno",
+              "lemma": "gobierno",
+              "en": "government"
+            },
+            {
+              "surface": "solicita",
+              "lemma": "solicitar",
+              "en": "requests"
+            },
+            {
+              "surface": "Corte Suprema",
+              "lemma": "Corte Suprema",
+              "en": "Supreme Court"
+            },
+            {
+              "surface": "revise",
+              "lemma": "revisar",
+              "en": "review"
+            },
+            {
+              "surface": "decisión",
+              "lemma": "decisión",
+              "en": "decision"
+            },
+            {
+              "surface": "boletas electorales",
+              "lemma": "boleta electoral",
+              "en": "ballots"
+            }
+          ]
+        },
+        {
+          "es": "El gobierno dice que algunos votantes no son ciudadanos estadounidenses.",
+          "en": "The government says that some voters are not U.S. citizens.",
+          "words": [
+            {
+              "surface": "gobierno",
+              "lemma": "gobierno",
+              "en": "government"
+            },
+            {
+              "surface": "dice",
+              "lemma": "decir",
+              "en": "says"
+            },
+            {
+              "surface": "votantes",
+              "lemma": "votante",
+              "en": "voters"
+            },
+            {
+              "surface": "ciudadanos",
+              "lemma": "ciudadano",
+              "en": "citizens"
+            },
+            {
+              "surface": "estadounidenses",
+              "lemma": "estadounidense",
+              "en": "U.S."
+            }
+          ]
+        },
+        {
+          "es": "Los tribunales inferiores ya rechazaron la solicitud del gobierno.",
+          "en": "Lower courts already rejected the government's request.",
+          "words": [
+            {
+              "surface": "tribunales",
+              "lemma": "tribunal",
+              "en": "courts"
+            },
+            {
+              "surface": "inferiores",
+              "lemma": "inferior",
+              "en": "lower"
+            },
+            {
+              "surface": "rechazaron",
+              "lemma": "rechazar",
+              "en": "rejected"
+            },
+            {
+              "surface": "solicitud",
+              "lemma": "solicitud",
+              "en": "request"
+            }
+          ]
+        },
+        {
+          "es": "Esta decisión ocurre poco antes de las elecciones nacionales.",
+          "en": "This decision occurs shortly before the national elections.",
+          "words": [
+            {
+              "surface": "decisión",
+              "lemma": "decisión",
+              "en": "decision"
+            },
+            {
+              "surface": "ocurre",
+              "lemma": "ocurrir",
+              "en": "occurs"
+            },
+            {
+              "surface": "elecciones",
+              "lemma": "elección",
+              "en": "elections"
+            },
+            {
+              "surface": "nacionales",
+              "lemma": "nacional",
+              "en": "national"
+            }
+          ]
+        },
+        {
+          "es": "La Corte Suprema debe decidir si interviene en este asunto.",
+          "en": "The Supreme Court must decide whether to intervene in this matter.",
+          "words": [
+            {
+              "surface": "Corte Suprema",
+              "lemma": "Corte Suprema",
+              "en": "Supreme Court"
+            },
+            {
+              "surface": "decidir",
+              "lemma": "decidir",
+              "en": "decide"
+            },
+            {
+              "surface": "interviene",
+              "lemma": "intervenir",
+              "en": "intervene"
+            },
+            {
+              "surface": "asunto",
+              "lemma": "asunto",
+              "en": "matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-3",
+      "headline": {
+        "es": "Supermercados tiran toneladas de comida tras ataque cibernético",
+        "en": "Supermarkets dump tons of food after cyber-attack"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Docenas de supermercados en siete países europeos perdieron sus alimentos congelados.",
+          "en": "Dozens of supermarkets in seven European countries lost their frozen food.",
+          "words": [
+            {
+              "surface": "Docenas",
+              "lemma": "docena",
+              "en": "dozens"
+            },
+            {
+              "surface": "supermercados",
+              "lemma": "supermercado",
+              "en": "supermarkets"
+            },
+            {
+              "surface": "países",
+              "lemma": "país",
+              "en": "countries"
+            },
+            {
+              "surface": "europeos",
+              "lemma": "europeo",
+              "en": "European"
+            },
+            {
+              "surface": "alimentos",
+              "lemma": "alimento",
+              "en": "food"
+            },
+            {
+              "surface": "congelados",
+              "lemma": "congelado",
+              "en": "frozen"
+            }
+          ]
+        },
+        {
+          "es": "Un ataque cibernético dañó los refrigeradores y congeladores de las tiendas.",
+          "en": "A cyber-attack damaged the refrigerators and freezers in the shops.",
+          "words": [
+            {
+              "surface": "ataque cibernético",
+              "lemma": "ataque cibernético",
+              "en": "cyber-attack"
+            },
+            {
+              "surface": "dañó",
+              "lemma": "dañar",
+              "en": "damaged"
+            },
+            {
+              "surface": "refrigeradores",
+              "lemma": "refrigerador",
+              "en": "refrigerators"
+            },
+            {
+              "surface": "congeladores",
+              "lemma": "congelador",
+              "en": "freezers"
+            }
+          ]
+        },
+        {
+          "es": "Las tiendas tuvieron que botar grandes cantidades de comida arruinada.",
+          "en": "The shops had to throw away large quantities of ruined food.",
+          "words": [
+            {
+              "surface": "tiendas",
+              "lemma": "tienda",
+              "en": "shops"
+            },
+            {
+              "surface": "botar",
+              "lemma": "botar",
+              "en": "throw away"
+            },
+            {
+              "surface": "cantidades",
+              "lemma": "cantidad",
+              "en": "quantities"
+            },
+            {
+              "surface": "comida",
+              "lemma": "comida",
+              "en": "food"
+            },
+            {
+              "surface": "arruinada",
+              "lemma": "arruinar",
+              "en": "ruined"
+            }
+          ]
+        },
+        {
+          "es": "Esto causó pérdidas económicas importantes para los negocios.",
+          "en": "This caused significant economic losses for the businesses.",
+          "words": [
+            {
+              "surface": "causó",
+              "lemma": "causar",
+              "en": "caused"
+            },
+            {
+              "surface": "pérdidas",
+              "lemma": "pérdida",
+              "en": "losses"
+            },
+            {
+              "surface": "económicas",
+              "lemma": "económico",
+              "en": "economic"
+            },
+            {
+              "surface": "importantes",
+              "lemma": "importante",
+              "en": "significant"
+            },
+            {
+              "surface": "negocios",
+              "lemma": "negocio",
+              "en": "businesses"
+            }
+          ]
+        },
+        {
+          "es": "Las autoridades investigan el origen del ataque cibernético.",
+          "en": "Authorities are investigating the origin of the cyber-attack.",
+          "words": [
+            {
+              "surface": "autoridades",
+              "lemma": "autoridad",
+              "en": "authorities"
+            },
+            {
+              "surface": "investigan",
+              "lemma": "investigar",
+              "en": "are investigating"
+            },
+            {
+              "surface": "origen",
+              "lemma": "origen",
+              "en": "origin"
+            },
+            {
+              "surface": "ataque cibernético",
+              "lemma": "ataque cibernético",
+              "en": "cyber-attack"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-4",
+      "headline": {
+        "es": "Demócrata respalda candidato republicano en Michigan",
+        "en": "Democrat backs Republican candidate in Michigan"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church"
+      },
+      "sentences": [
+        {
+          "es": "Una política demócrata de Michigan apoyó a un candidato republicano para el Senado.",
+          "en": "A Democratic politician from Michigan supported a Republican candidate for the Senate.",
+          "words": [
+            {
+              "surface": "política",
+              "lemma": "político",
+              "en": "politician"
+            },
+            {
+              "surface": "demócrata",
+              "lemma": "demócrata",
+              "en": "Democratic"
+            },
+            {
+              "surface": "Michigan",
+              "lemma": "Michigan",
+              "en": "Michigan"
+            },
+            {
+              "surface": "apoyó",
+              "lemma": "apoyar",
+              "en": "supported"
+            },
+            {
+              "surface": "candidato",
+              "lemma": "candidato",
+              "en": "candidate"
+            },
+            {
+              "surface": "republicano",
+              "lemma": "republicano",
+              "en": "Republican"
+            },
+            {
+              "surface": "Senado",
+              "lemma": "Senado",
+              "en": "Senate"
+            }
+          ]
+        },
+        {
+          "es": "Este apoyo sorprendió a muchos demócratas en el estado.",
+          "en": "This support surprised many Democrats in the state.",
+          "words": [
+            {
+              "surface": "apoyo",
+              "lemma": "apoyo",
+              "en": "support"
+            },
+            {
+              "surface": "sorprendió",
+              "lemma": "sorprender",
+              "en": "surprised"
+            },
+            {
+              "surface": "demócratas",
+              "lemma": "demócrata",
+              "en": "Democrats"
+            },
+            {
+              "surface": "estado",
+              "lemma": "estado",
+              "en": "state"
+            }
+          ]
+        },
+        {
+          "es": "Los demócratas de Michigan ahora consideran sus opciones políticas.",
+          "en": "Democrats in Michigan are now considering their political options.",
+          "words": [
+            {
+              "surface": "demócratas",
+              "lemma": "demócrata",
+              "en": "Democrats"
+            },
+            {
+              "surface": "Michigan",
+              "lemma": "Michigan",
+              "en": "Michigan"
+            },
+            {
+              "surface": "consideran",
+              "lemma": "considerar",
+              "en": "are considering"
+            },
+            {
+              "surface": "opciones",
+              "lemma": "opción",
+              "en": "options"
+            },
+            {
+              "surface": "políticas",
+              "lemma": "político",
+              "en": "political"
+            }
+          ]
+        },
+        {
+          "es": "Además, los países del Golfo se preparan para un posible ataque estadounidense a Irán.",
+          "en": "Additionally, Gulf countries are preparing for a possible U.S. attack on Iran.",
+          "words": [
+            {
+              "surface": "países",
+              "lemma": "país",
+              "en": "countries"
+            },
+            {
+              "surface": "Golfo",
+              "lemma": "Golfo",
+              "en": "Gulf"
+            },
+            {
+              "surface": "preparan",
+              "lemma": "preparar",
+              "en": "are preparing"
+            },
+            {
+              "surface": "posible",
+              "lemma": "posible",
+              "en": "possible"
+            },
+            {
+              "surface": "ataque",
+              "lemma": "ataque",
+              "en": "attack"
+            },
+            {
+              "surface": "estadounidense",
+              "lemma": "estadounidense",
+              "en": "U.S."
+            },
+            {
+              "surface": "Irán",
+              "lemma": "Irán",
+              "en": "Iran"
+            }
+          ]
+        },
+        {
+          "es": "Esta situación ocurre después de las elecciones intermedias.",
+          "en": "This situation occurs after the midterm elections.",
+          "words": [
+            {
+              "surface": "situación",
+              "lemma": "situación",
+              "en": "situation"
+            },
+            {
+              "surface": "ocurre",
+              "lemma": "ocurrir",
+              "en": "occurs"
+            },
+            {
+              "surface": "elecciones",
+              "lemma": "elección",
+              "en": "elections"
+            },
+            {
+              "surface": "intermedias",
+              "lemma": "intermedio",
+              "en": "midterm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-5",
+      "headline": {
+        "es": "Combates regresan a Jerson después del alto al fuego más largo",
+        "en": "Fighting returns to Kherson after longest ceasefire"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Los combates regresaron a la región de Jerson en Ucrania.",
+          "en": "Fighting returned to the Kherson region in Ukraine.",
+          "words": [
+            {
+              "surface": "combates",
+              "lemma": "combate",
+              "en": "fighting"
+            },
+            {
+              "surface": "regresaron",
+              "lemma": "regresar",
+              "en": "returned"
+            },
+            {
+              "surface": "región",
+              "lemma": "región",
+              "en": "region"
+            },
+            {
+              "surface": "Jerson",
+              "lemma": "Jerson",
+              "en": "Kherson"
+            },
+            {
+              "surface": "Ucrania",
+              "lemma": "Ucrania",
+              "en": "Ukraine"
+            }
+          ]
+        },
+        {
+          "es": "Esto ocurrió después de un alto al fuego de seis días.",
+          "en": "This occurred after a six-day ceasefire.",
+          "words": [
+            {
+              "surface": "ocurrió",
+              "lemma": "ocurrir",
+              "en": "occurred"
+            },
+            {
+              "surface": "alto al fuego",
+              "lemma": "alto al fuego",
+              "en": "ceasefire"
+            },
+            {
+              "surface": "seis",
+              "lemma": "seis",
+              "en": "six"
+            },
+            {
+              "surface": "días",
+              "lemma": "día",
+              "en": "days"
+            }
+          ]
+        },
+        {
+          "es": "El alto al fuego fue el más largo desde el inicio de la guerra.",
+          "en": "The ceasefire was the longest since the start of the war.",
+          "words": [
+            {
+              "surface": "alto al fuego",
+              "lemma": "alto al fuego",
+              "en": "ceasefire"
+            },
+            {
+              "surface": "más largo",
+              "lemma": "largo",
+              "en": "longest"
+            },
+            {
+              "surface": "inicio",
+              "lemma": "inicio",
+              "en": "start"
+            },
+            {
+              "surface": "guerra",
+              "lemma": "guerra",
+              "en": "war"
+            }
+          ]
+        },
+        {
+          "es": "Sin embargo, el alto al fuego no cambió mucho la situación general.",
+          "en": "However, the ceasefire did not change much the overall situation.",
+          "words": [
+            {
+              "surface": "Sin embargo",
+              "lemma": "sin embargo",
+              "en": "however"
+            },
+            {
+              "surface": "alto al fuego",
+              "lemma": "alto al fuego",
+              "en": "ceasefire"
+            },
+            {
+              "surface": "cambió",
+              "lemma": "cambiar",
+              "en": "change"
+            },
+            {
+              "surface": "situación",
+              "lemma": "situación",
+              "en": "situation"
+            },
+            {
+              "surface": "general",
+              "lemma": "general",
+              "en": "overall"
+            }
+          ]
+        },
+        {
+          "es": "La guerra continúa con la misma intensidad que antes.",
+          "en": "The war continues with the same intensity as before.",
+          "words": [
+            {
+              "surface": "guerra",
+              "lemma": "guerra",
+              "en": "war"
+            },
+            {
+              "surface": "continúa",
+              "lemma": "continuar",
+              "en": "continues"
+            },
+            {
+              "surface": "intensidad",
+              "lemma": "intensidad",
+              "en": "intensity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-6",
+      "headline": {
+        "es": "Economistas tienen opiniones diferentes sobre el impuesto a multimillonarios",
+        "en": "Economists have different opinions on billionaire tax"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions"
+      },
+      "sentences": [
+        {
+          "es": "Dos economistas estudiaron un impuesto a los multimillonarios en California.",
+          "en": "Two economists studied a tax on billionaires in California.",
+          "words": [
+            {
+              "surface": "economistas",
+              "lemma": "economista",
+              "en": "economists"
+            },
+            {
+              "surface": "estudiaron",
+              "lemma": "estudiar",
+              "en": "studied"
+            },
+            {
+              "surface": "impuesto",
+              "lemma": "impuesto",
+              "en": "tax"
+            },
+            {
+              "surface": "multimillonarios",
+              "lemma": "multimillonario",
+              "en": "billionaires"
+            },
+            {
+              "surface": "California",
+              "lemma": "California",
+              "en": "California"
+            }
+          ]
+        },
+        {
+          "es": "Los dos expertos llegaron a conclusiones muy diferentes sobre este impuesto.",
+          "en": "The two experts reached very different conclusions about this tax.",
+          "words": [
+            {
+              "surface": "expertos",
+              "lemma": "experto",
+              "en": "experts"
+            },
+            {
+              "surface": "llegaron",
+              "lemma": "llegar",
+              "en": "reached"
+            },
+            {
+              "surface": "conclusiones",
+              "lemma": "conclusión",
+              "en": "conclusions"
+            },
+            {
+              "surface": "diferentes",
+              "lemma": "diferente",
+              "en": "different"
+            },
+            {
+              "surface": "impuesto",
+              "lemma": "impuesto",
+              "en": "tax"
+            }
+          ]
+        },
+        {
+          "es": "Un economista cree que el impuesto llenará las arcas del estado.",
+          "en": "One economist believes that the tax will fill the state's coffers.",
+          "words": [
+            {
+              "surface": "economista",
+              "lemma": "economista",
+              "en": "economist"
+            },
+            {
+              "surface": "cree",
+              "lemma": "creer",
+              "en": "believes"
+            },
+            {
+              "surface": "impuesto",
+              "lemma": "impuesto",
+              "en": "tax"
+            },
+            {
+              "surface": "llenará",
+              "lemma": "llenar",
+              "en": "will fill"
+            },
+            {
+              "surface": "arcas",
+              "lemma": "arca",
+              "en": "coffers"
+            },
+            {
+              "surface": "estado",
+              "lemma": "estado",
+              "en": "state"
+            }
+          ]
+        },
+        {
+          "es": "El otro economista piensa que el impuesto causará problemas económicos.",
+          "en": "The other economist thinks that the tax will cause economic problems.",
+          "words": [
+            {
+              "surface": "economista",
+              "lemma": "economista",
+              "en": "economist"
+            },
+            {
+              "surface": "piensa",
+              "lemma": "pensar",
+              "en": "thinks"
+            },
+            {
+              "surface": "impuesto",
+              "lemma": "impuesto",
+              "en": "tax"
+            },
+            {
+              "surface": "causará",
+              "lemma": "causar",
+              "en": "will cause"
+            },
+            {
+              "surface": "problemas",
+              "lemma": "problema",
+              "en": "problems"
+            },
+            {
+              "surface": "económicos",
+              "lemma": "económico",
+              "en": "economic"
+            }
+          ]
+        },
+        {
+          "es": "Lo que suceda en California puede afectar cómo Estados Unidos grava a los ricos.",
+          "en": "What happens in California could affect how the United States taxes the rich.",
+          "words": [
+            {
+              "surface": "suceda",
+              "lemma": "suceder",
+              "en": "happens"
+            },
+            {
+              "surface": "California",
+              "lemma": "California",
+              "en": "California"
+            },
+            {
+              "surface": "afectar",
+              "lemma": "afectar",
+              "en": "affect"
+            },
+            {
+              "surface": "grava",
+              "lemma": "gravar",
+              "en": "taxes"
+            },
+            {
+              "surface": "ricos",
+              "lemma": "rico",
+              "en": "rich"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

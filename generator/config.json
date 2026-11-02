@@ -1,0 +1,13 @@
+{
+  "level": "A2",
+  "timezone": "America/New_York",
+  "maxStories": 6,
+  "targetSentencesPerStory": 5,
+  "feeds": [
+    { "name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "name": "NPR News", "url": "https://feeds.npr.org/1001/rss.xml" }
+  ],
+  "spanishVariant": "es-MX",
+  "provider": "anthropic",
+  "model": "claude-haiku-4-5"
+}

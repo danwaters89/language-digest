@@ -1,0 +1,17 @@
+{
+  "name": "spanish-digest",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "workspaces": ["generator", "web"],
+  "scripts": {
+    "generate": "npm run generate -w generator --",
+    "test": "vitest run",
+    "build": "npm run build -w web",
+    "dev": "npm run dev -w web"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vitest": "^3.0.0"
+  }
+}
