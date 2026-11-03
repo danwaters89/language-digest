@@ -1,0 +1,661 @@
+{
+  "date": "2026-11-03",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-03T17:10:04.694Z",
+  "stories": [
+    {
+      "id": "2026-11-03-1",
+      "headline": {
+        "es": "Muere la atleta olímpica irlandesa Ciara Mageean",
+        "en": "Irish Olympic athlete Ciara Mageean dies"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Ciara Mageean fue una corredora olímpica de Irlanda.",
+          "en": "Ciara Mageean was an Olympic runner from Ireland.",
+          "words": [
+            {
+              "surface": "corredora",
+              "lemma": "corredor",
+              "en": "runner"
+            },
+            {
+              "surface": "olímpica",
+              "lemma": "olímpico",
+              "en": "Olympic"
+            }
+          ]
+        },
+        {
+          "es": "Ella ganó un campeonato europeo y participó en dos Juegos Olímpicos.",
+          "en": "She won a European championship and participated in two Olympic Games.",
+          "words": [
+            {
+              "surface": "campeonato",
+              "lemma": "campeonato",
+              "en": "championship"
+            },
+            {
+              "surface": "europeo",
+              "lemma": "europeo",
+              "en": "European"
+            },
+            {
+              "surface": "participó",
+              "lemma": "participar",
+              "en": "participated"
+            },
+            {
+              "surface": "Juegos Olímpicos",
+              "lemma": "Juegos Olímpicos",
+              "en": "Olympic Games"
+            }
+          ]
+        },
+        {
+          "es": "Mageean fue diagnosticada con cáncer de colon en etapa cuatro.",
+          "en": "Mageean was diagnosed with stage four bowel cancer.",
+          "words": [
+            {
+              "surface": "diagnosticada",
+              "lemma": "diagnosticar",
+              "en": "diagnosed"
+            },
+            {
+              "surface": "cáncer",
+              "lemma": "cáncer",
+              "en": "cancer"
+            },
+            {
+              "surface": "colon",
+              "lemma": "colon",
+              "en": "bowel"
+            },
+            {
+              "surface": "etapa",
+              "lemma": "etapa",
+              "en": "stage"
+            }
+          ]
+        },
+        {
+          "es": "Las personas que la conocían dicen que fue una persona talentosa e inspiradora.",
+          "en": "People who knew her say she was a talented and inspirational person.",
+          "words": [
+            {
+              "surface": "talentosa",
+              "lemma": "talentoso",
+              "en": "talented"
+            },
+            {
+              "surface": "inspiradora",
+              "lemma": "inspirador",
+              "en": "inspirational"
+            }
+          ]
+        },
+        {
+          "es": "Su muerte es una pérdida importante para el deporte irlandés.",
+          "en": "Her death is a significant loss for Irish sports.",
+          "words": [
+            {
+              "surface": "muerte",
+              "lemma": "muerte",
+              "en": "death"
+            },
+            {
+              "surface": "pérdida",
+              "lemma": "pérdida",
+              "en": "loss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-2",
+      "headline": {
+        "es": "Kherson vive un breve momento de paz durante el alto el fuego",
+        "en": "Kherson experiences a brief moment of peace during the ceasefire"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson"
+      },
+      "sentences": [
+        {
+          "es": "Durante un alto el fuego corto, la ciudad de Kherson en Ucrania tuvo un descanso de los ataques.",
+          "en": "During a short ceasefire, the city of Kherson in Ukraine had a break from attacks.",
+          "words": [
+            {
+              "surface": "alto el fuego",
+              "lemma": "alto el fuego",
+              "en": "ceasefire"
+            },
+            {
+              "surface": "descanso",
+              "lemma": "descanso",
+              "en": "break"
+            },
+            {
+              "surface": "ataques",
+              "lemma": "ataque",
+              "en": "attacks"
+            }
+          ]
+        },
+        {
+          "es": "Los amigos se encontraron en cafés y las familias salieron juntas a las calles.",
+          "en": "Friends met at cafes and families went out together on the streets.",
+          "words": [
+            {
+              "surface": "encontraron",
+              "lemma": "encontrar",
+              "en": "met"
+            }
+          ]
+        },
+        {
+          "es": "Las personas compraron comida y otras cosas que necesitaban en las tiendas.",
+          "en": "People bought food and other things they needed in stores.",
+          "words": [
+            {
+              "surface": "compraron",
+              "lemma": "comprar",
+              "en": "bought"
+            }
+          ]
+        },
+        {
+          "es": "Un habitante dijo que la ciudad parecía viva, como era antes de la guerra.",
+          "en": "A resident said the city seemed alive, like it was before the war.",
+          "words": [
+            {
+              "surface": "habitante",
+              "lemma": "habitante",
+              "en": "resident"
+            },
+            {
+              "surface": "parecía",
+              "lemma": "parecer",
+              "en": "seemed"
+            },
+            {
+              "surface": "viva",
+              "lemma": "vivo",
+              "en": "alive"
+            }
+          ]
+        },
+        {
+          "es": "Este momento mostró cómo la vida normal regresa cuando hay paz.",
+          "en": "This moment showed how normal life returns when there is peace.",
+          "words": [
+            {
+              "surface": "mostró",
+              "lemma": "mostrar",
+              "en": "showed"
+            },
+            {
+              "surface": "regresa",
+              "lemma": "regresar",
+              "en": "returns"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-3",
+      "headline": {
+        "es": "Autoridad religiosa de Libia rechaza la ropa de Nike",
+        "en": "Libya's religious authority rejects Nike clothing"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "La autoridad religiosa más importante de Libia hizo una declaración sobre la ropa de Nike.",
+          "en": "Libya's top religious authority made a statement about Nike clothing.",
+          "words": [
+            {
+              "surface": "autoridad",
+              "lemma": "autoridad",
+              "en": "authority"
+            },
+            {
+              "surface": "religiosa",
+              "lemma": "religioso",
+              "en": "religious"
+            },
+            {
+              "surface": "declaración",
+              "lemma": "declaración",
+              "en": "statement"
+            }
+          ]
+        },
+        {
+          "es": "Nike es una compañía estadounidense que lleva el nombre de una diosa griega.",
+          "en": "Nike is an American company named after a Greek goddess.",
+          "words": [
+            {
+              "surface": "compañía",
+              "lemma": "compañía",
+              "en": "company"
+            },
+            {
+              "surface": "estadounidense",
+              "lemma": "estadounidense",
+              "en": "American"
+            },
+            {
+              "surface": "diosa",
+              "lemma": "diosa",
+              "en": "goddess"
+            },
+            {
+              "surface": "griega",
+              "lemma": "griego",
+              "en": "Greek"
+            }
+          ]
+        },
+        {
+          "es": "La diosa griega Nike representa la victoria en la mitología antigua.",
+          "en": "The Greek goddess Nike represents victory in ancient mythology.",
+          "words": [
+            {
+              "surface": "representa",
+              "lemma": "representar",
+              "en": "represents"
+            },
+            {
+              "surface": "victoria",
+              "lemma": "victoria",
+              "en": "victory"
+            },
+            {
+              "surface": "mitología",
+              "lemma": "mitología",
+              "en": "mythology"
+            },
+            {
+              "surface": "antigua",
+              "lemma": "antiguo",
+              "en": "ancient"
+            }
+          ]
+        },
+        {
+          "es": "La autoridad religiosa dice que usar el logo de Nike no es islámico.",
+          "en": "The religious authority says that wearing Nike's logo is not Islamic.",
+          "words": [
+            {
+              "surface": "logo",
+              "lemma": "logo",
+              "en": "logo"
+            },
+            {
+              "surface": "islámico",
+              "lemma": "islámico",
+              "en": "Islamic"
+            }
+          ]
+        },
+        {
+          "es": "Por esta razón, la autoridad rechaza que las personas usen ropa de esta marca.",
+          "en": "For this reason, the authority rejects people wearing clothes from this brand.",
+          "words": [
+            {
+              "surface": "rechaza",
+              "lemma": "rechazar",
+              "en": "rejects"
+            },
+            {
+              "surface": "marca",
+              "lemma": "marca",
+              "en": "brand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-4",
+      "headline": {
+        "es": "La marina india rescata a 20 marineros de un barco iraní secuestrado",
+        "en": "Indian navy rescues 20 crew members from hijacked Iranian boat"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia"
+      },
+      "sentences": [
+        {
+          "es": "Un barco de pesca iraní fue secuestrado cerca de Somalia en el océano Índico.",
+          "en": "An Iranian fishing boat was hijacked near Somalia in the Indian Ocean.",
+          "words": [
+            {
+              "surface": "barco",
+              "lemma": "barco",
+              "en": "boat"
+            },
+            {
+              "surface": "pesca",
+              "lemma": "pesca",
+              "en": "fishing"
+            },
+            {
+              "surface": "iraní",
+              "lemma": "iraní",
+              "en": "Iranian"
+            },
+            {
+              "surface": "secuestrado",
+              "lemma": "secuestrar",
+              "en": "hijacked"
+            }
+          ]
+        },
+        {
+          "es": "La marina de la India envió un barco de guerra para ayudar a los marineros.",
+          "en": "The Indian navy sent a warship to help the sailors.",
+          "words": [
+            {
+              "surface": "marina",
+              "lemma": "marina",
+              "en": "navy"
+            },
+            {
+              "surface": "barco de guerra",
+              "lemma": "barco de guerra",
+              "en": "warship"
+            },
+            {
+              "surface": "marineros",
+              "lemma": "marinero",
+              "en": "sailors"
+            }
+          ]
+        },
+        {
+          "es": "También usaron un avión para vigilar la zona y comandos especiales para el rescate.",
+          "en": "They also used an aircraft to monitor the area and special commandos for the rescue.",
+          "words": [
+            {
+              "surface": "avión",
+              "lemma": "avión",
+              "en": "aircraft"
+            },
+            {
+              "surface": "vigilar",
+              "lemma": "vigilar",
+              "en": "monitor"
+            },
+            {
+              "surface": "comandos",
+              "lemma": "comando",
+              "en": "commandos"
+            },
+            {
+              "surface": "rescate",
+              "lemma": "rescate",
+              "en": "rescue"
+            }
+          ]
+        },
+        {
+          "es": "Veinte marineros fueron rescatados con seguridad del barco secuestrado.",
+          "en": "Twenty sailors were safely rescued from the hijacked boat.",
+          "words": [
+            {
+              "surface": "rescatados",
+              "lemma": "rescatar",
+              "en": "rescued"
+            }
+          ]
+        },
+        {
+          "es": "Este rescate ocurrió porque la piratería somalí ha aumentado en el Golfo de Adén.",
+          "en": "This rescue happened because Somali piracy has increased in the Gulf of Aden.",
+          "words": [
+            {
+              "surface": "piratería",
+              "lemma": "piratería",
+              "en": "piracy"
+            },
+            {
+              "surface": "somalí",
+              "lemma": "somalí",
+              "en": "Somali"
+            },
+            {
+              "surface": "aumentado",
+              "lemma": "aumentar",
+              "en": "increased"
+            },
+            {
+              "surface": "Golfo de Adén",
+              "lemma": "Golfo de Adén",
+              "en": "Gulf of Aden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-5",
+      "headline": {
+        "es": "Ataques cibernéticos afectan congeladores de supermercados en Europa",
+        "en": "Cyber-attacks affect supermarket freezers across Europe"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Supermercados en diez países europeos sufrieron ataques cibernéticos.",
+          "en": "Supermarkets in ten European countries suffered cyber-attacks.",
+          "words": [
+            {
+              "surface": "Supermercados",
+              "lemma": "supermercado",
+              "en": "supermarkets"
+            },
+            {
+              "surface": "ataques cibernéticos",
+              "lemma": "ataque cibernético",
+              "en": "cyber-attacks"
+            }
+          ]
+        },
+        {
+          "es": "Los ataques afectaron los congeladores de comida en las tiendas.",
+          "en": "The attacks affected the food freezers in the stores.",
+          "words": [
+            {
+              "surface": "congeladores",
+              "lemma": "congelador",
+              "en": "freezers"
+            },
+            {
+              "surface": "afectaron",
+              "lemma": "afectar",
+              "en": "affected"
+            }
+          ]
+        },
+        {
+          "es": "Los países afectados incluyen Estonia, Suecia, Portugal e Italia.",
+          "en": "The affected countries include Estonia, Sweden, Portugal and Italy.",
+          "words": [
+            {
+              "surface": "afectados",
+              "lemma": "afectado",
+              "en": "affected"
+            }
+          ]
+        },
+        {
+          "es": "Muchos supermercados tuvieron que tirar la comida que se dañó.",
+          "en": "Many supermarkets had to throw away the food that was damaged.",
+          "words": [
+            {
+              "surface": "tirar",
+              "lemma": "tirar",
+              "en": "throw away"
+            },
+            {
+              "surface": "dañó",
+              "lemma": "dañar",
+              "en": "damaged"
+            }
+          ]
+        },
+        {
+          "es": "Este problema muestra los riesgos de los ataques cibernéticos en la infraestructura importante.",
+          "en": "This problem shows the risks of cyber-attacks on important infrastructure.",
+          "words": [
+            {
+              "surface": "riesgos",
+              "lemma": "riesgo",
+              "en": "risks"
+            },
+            {
+              "surface": "infraestructura",
+              "lemma": "infraestructura",
+              "en": "infrastructure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-6",
+      "headline": {
+        "es": "Día de elecciones en Estados Unidos y decisión en caso judicial",
+        "en": "Election Day in the United States and court decision in legal case"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy"
+      },
+      "sentences": [
+        {
+          "es": "Hoy es el día de las elecciones en Estados Unidos.",
+          "en": "Today is Election Day in the United States.",
+          "words": [
+            {
+              "surface": "elecciones",
+              "lemma": "elección",
+              "en": "elections"
+            }
+          ]
+        },
+        {
+          "es": "Los votantes van a las urnas para elegir a sus representantes en el Congreso.",
+          "en": "Voters go to the polls to elect their representatives in Congress.",
+          "words": [
+            {
+              "surface": "votantes",
+              "lemma": "votante",
+              "en": "voters"
+            },
+            {
+              "surface": "urnas",
+              "lemma": "urna",
+              "en": "polls"
+            },
+            {
+              "surface": "elegir",
+              "lemma": "elegir",
+              "en": "elect"
+            },
+            {
+              "surface": "representantes",
+              "lemma": "representante",
+              "en": "representatives"
+            },
+            {
+              "surface": "Congreso",
+              "lemma": "Congreso",
+              "en": "Congress"
+            }
+          ]
+        },
+        {
+          "es": "Esta elección es importante porque puede cambiar quién controla el Congreso.",
+          "en": "This election is important because it can change who controls Congress.",
+          "words": [
+            {
+              "surface": "elección",
+              "lemma": "elección",
+              "en": "election"
+            },
+            {
+              "surface": "cambiar",
+              "lemma": "cambiar",
+              "en": "change"
+            },
+            {
+              "surface": "controla",
+              "lemma": "controlar",
+              "en": "controls"
+            }
+          ]
+        },
+        {
+          "es": "Un juez también considera si debe desestimar el caso de asesinato de Lindsay Clancy.",
+          "en": "A judge is also considering whether to dismiss Lindsay Clancy's murder case.",
+          "words": [
+            {
+              "surface": "juez",
+              "lemma": "juez",
+              "en": "judge"
+            },
+            {
+              "surface": "desestimar",
+              "lemma": "desestimar",
+              "en": "dismiss"
+            },
+            {
+              "surface": "caso",
+              "lemma": "caso",
+              "en": "case"
+            },
+            {
+              "surface": "asesinato",
+              "lemma": "asesinato",
+              "en": "murder"
+            }
+          ]
+        },
+        {
+          "es": "Estos dos eventos importantes ocurren el mismo día en Estados Unidos.",
+          "en": "These two important events are happening on the same day in the United States.",
+          "words": [
+            {
+              "surface": "eventos",
+              "lemma": "evento",
+              "en": "events"
+            },
+            {
+              "surface": "ocurren",
+              "lemma": "ocurrir",
+              "en": "are happening"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
