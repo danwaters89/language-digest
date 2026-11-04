@@ -4,7 +4,7 @@ on:
   schedule:
     # 10:00 UTC = 5-6 am America/New_York (the learner's timezone), i.e. before the
     # morning. Adjust the hour if the learner's timezone changes (cron is always UTC).
-    - cron: "0 10 * * *"
+    - cron: "0 16 * * *"
   workflow_dispatch:
   # Code changes deploy too; generation is skipped for push events.
   push:
