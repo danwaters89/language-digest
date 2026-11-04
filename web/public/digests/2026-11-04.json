@@ -1,0 +1,314 @@
+{
+  "date": "2026-11-04",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-04T17:13:51.895Z",
+  "stories": [
+    {
+      "id": "2026-11-04-1",
+      "headline": {
+        "es": "Negociador de Irán dice que estadounidenses votaron 'no a la guerra'",
+        "en": "Iran's chief negotiator says Americans voted 'no to war'"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El negociador principal de Irán, Mohammed Bagher Ghalibaf, habla sobre las elecciones en Estados Unidos.",
+          "en": "Iran's chief negotiator, Mohammed Bagher Ghalibaf, speaks about the elections in the United States.",
+          "words": [
+            {
+              "surface": "negociador",
+              "lemma": "negociador",
+              "en": "negotiator"
+            }
+          ]
+        },
+        {
+          "es": "Ghalibaf dice que los estadounidenses votaron contra la guerra.",
+          "en": "Ghalibaf says that Americans voted against war.",
+          "words": []
+        },
+        {
+          "es": "Él apoya este mensaje sobre el resultado de las elecciones.",
+          "en": "He supports this message about the election result.",
+          "words": []
+        },
+        {
+          "es": "Donald Trump reconoce que el conflicto fue importante en la derrota de su partido.",
+          "en": "Donald Trump acknowledges that the conflict was important in his party's defeat.",
+          "words": [
+            {
+              "surface": "derrota",
+              "lemma": "derrota",
+              "en": "defeat"
+            }
+          ]
+        },
+        {
+          "es": "Los dos líderes hablan sobre la posición de Estados Unidos en temas de guerra.",
+          "en": "The two leaders speak about the United States' position on matters of war.",
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-2",
+      "headline": {
+        "es": "Nuevo senador musulmán de Míchigan apoya el plan de Trump sobre ayuda a Israel",
+        "en": "Michigan's new Muslim senator supports Trump's plan on Israel aid"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid"
+      },
+      "sentences": [
+        {
+          "es": "Abdul El-Sayed es el primer senador musulmán elegido en Míchigan.",
+          "en": "Abdul El-Sayed is the first Muslim senator elected in Michigan.",
+          "words": []
+        },
+        {
+          "es": "El-Sayed gana las elecciones en su estado con una victoria histórica.",
+          "en": "El-Sayed wins the elections in his state with a historic victory.",
+          "words": [
+            {
+              "surface": "histórica",
+              "lemma": "histórico",
+              "en": "historic"
+            }
+          ]
+        },
+        {
+          "es": "Él está de acuerdo con Donald Trump sobre reducir la ayuda militar a Israel.",
+          "en": "He agrees with Donald Trump about reducing military aid to Israel.",
+          "words": []
+        },
+        {
+          "es": "El-Sayed quiere terminar la venta de armas a Israel.",
+          "en": "El-Sayed wants to end arms sales to Israel.",
+          "words": [
+            {
+              "surface": "armas",
+              "lemma": "arma",
+              "en": "weapons"
+            }
+          ]
+        },
+        {
+          "es": "Aunque están de acuerdo en esto, existen divisiones políticas entre los dos.",
+          "en": "Although they agree on this, there are political divisions between the two.",
+          "words": [
+            {
+              "surface": "divisiones",
+              "lemma": "división",
+              "en": "divisions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-3",
+      "headline": {
+        "es": "Portero de Andorra expresa dolor por muerte de jugador",
+        "en": "Andorra goalkeeper expresses pain over player's death"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Jesús Owono es portero del FC Andorra.",
+          "en": "Jesús Owono is a goalkeeper for FC Andorra.",
+          "words": [
+            {
+              "surface": "portero",
+              "lemma": "portero",
+              "en": "goalkeeper"
+            }
+          ]
+        },
+        {
+          "es": "Jesús de Miguel, un delantero del Tenerife, muere recientemente.",
+          "en": "Jesús de Miguel, a forward for Tenerife, dies recently.",
+          "words": [
+            {
+              "surface": "delantero",
+              "lemma": "delantero",
+              "en": "forward"
+            }
+          ]
+        },
+        {
+          "es": "Owono publica un comunicado a través de su club.",
+          "en": "Owono publishes a statement through his club.",
+          "words": [
+            {
+              "surface": "comunicado",
+              "lemma": "comunicado",
+              "en": "statement"
+            }
+          ]
+        },
+        {
+          "es": "En el comunicado, Owono expresa su tristeza y dolor por la muerte.",
+          "en": "In the statement, Owono expresses his sadness and pain over the death.",
+          "words": []
+        },
+        {
+          "es": "Owono dice que estos son los días más difíciles de su vida.",
+          "en": "Owono says that these are the most difficult days of his life.",
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-4",
+      "headline": {
+        "es": "El mundo reacciona a la gran victoria de los demócratas",
+        "en": "The world reacts to the Democrats' sweeping victory"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections"
+      },
+      "sentences": [
+        {
+          "es": "Los demócratas ganan las elecciones en Estados Unidos.",
+          "en": "The Democrats win the elections in the United States.",
+          "words": []
+        },
+        {
+          "es": "Países de todo el mundo observan este resultado importante.",
+          "en": "Countries around the world watch this important result.",
+          "words": []
+        },
+        {
+          "es": "Desde Kyiv hasta Moscú, todos hablan sobre la victoria demócrata.",
+          "en": "From Kyiv to Moscow, everyone talks about the Democratic victory.",
+          "words": []
+        },
+        {
+          "es": "También desde Teherán hasta Tel Aviv, el mundo está atento a este cambio.",
+          "en": "Also from Tehran to Tel Aviv, the world is paying attention to this change.",
+          "words": []
+        },
+        {
+          "es": "Los gobiernos extranjeros piensan en cómo esto afecta las relaciones internacionales.",
+          "en": "Foreign governments think about how this affects international relations.",
+          "words": [
+            {
+              "surface": "relaciones",
+              "lemma": "relación",
+              "en": "relations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-5",
+      "headline": {
+        "es": "Políticos jóvenes con raíces africanas hacen historia en elecciones de EE.UU.",
+        "en": "Young politicians with African roots make history in US elections"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Jóvenes políticos con orígenes africanos ganan en las elecciones estadounidenses.",
+          "en": "Young politicians with African origins win in the US elections.",
+          "words": [
+            {
+              "surface": "orígenes",
+              "lemma": "origen",
+              "en": "origins"
+            }
+          ]
+        },
+        {
+          "es": "Estos políticos representan una nueva generación en Estados Unidos.",
+          "en": "These politicians represent a new generation in the United States.",
+          "words": []
+        },
+        {
+          "es": "Sus victorias son históricas y significativas para muchas personas.",
+          "en": "Their victories are historic and significant for many people.",
+          "words": [
+            {
+              "surface": "históricas",
+              "lemma": "histórico",
+              "en": "historic"
+            }
+          ]
+        },
+        {
+          "es": "Para algunos jóvenes africanos, estas victorias muestran lo que puede pasar en sus países.",
+          "en": "For some young Africans, these victories show what can happen in their countries.",
+          "words": []
+        },
+        {
+          "es": "Los resultados ofrecen esperanza sobre el poder de los votantes nuevos.",
+          "en": "The results offer hope about the power of new voters.",
+          "words": [
+            {
+              "surface": "esperanza",
+              "lemma": "esperanza",
+              "en": "hope"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-6",
+      "headline": {
+        "es": "Demócratas toman control total del Congreso",
+        "en": "Democrats seize full control of Congress"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control"
+      },
+      "sentences": [
+        {
+          "es": "Los demócratas ganan la Cámara de Representantes y el Senado.",
+          "en": "The Democrats win the House of Representatives and the Senate.",
+          "words": [
+            {
+              "surface": "Cámara",
+              "lemma": "cámara",
+              "en": "chamber"
+            }
+          ]
+        },
+        {
+          "es": "Ahora los demócratas controlan todo el Congreso de Estados Unidos.",
+          "en": "Now the Democrats control all of the US Congress.",
+          "words": []
+        },
+        {
+          "es": "Esta es la primera vez que los demócratas tienen este control desde 2023.",
+          "en": "This is the first time that the Democrats have had this control since 2023.",
+          "words": []
+        },
+        {
+          "es": "Varios candidatos hacen historia en diferentes estados.",
+          "en": "Several candidates make history in different states.",
+          "words": []
+        },
+        {
+          "es": "Los resultados de las elecciones muestran cambios importantes en el país.",
+          "en": "The election results show important changes in the country.",
+          "words": []
+        }
+      ]
+    }
+  ]
+}
