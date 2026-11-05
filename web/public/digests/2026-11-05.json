@@ -1,0 +1,726 @@
+{
+  "date": "2026-11-05",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-05T16:53:22.491Z",
+  "stories": [
+    {
+      "id": "2026-11-05-1",
+      "headline": {
+        "es": "Russell Brand es investigado por nuevas acusaciones de violación",
+        "en": "Russell Brand is being investigated over new rape complaints"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "La policía investiga a Russell Brand por dos nuevas acusaciones de violación.",
+          "en": "Police are investigating Russell Brand for two new rape accusations.",
+          "words": [
+            {
+              "surface": "investiga",
+              "lemma": "investigar",
+              "en": "investigates"
+            },
+            {
+              "surface": "acusaciones",
+              "lemma": "acusación",
+              "en": "accusations"
+            },
+            {
+              "surface": "violación",
+              "lemma": "violación",
+              "en": "rape"
+            }
+          ]
+        },
+        {
+          "es": "Un detective espera que otras víctimas posibles tengan valor para hablar.",
+          "en": "A detective hopes that other possible victims will have courage to speak.",
+          "words": [
+            {
+              "surface": "detective",
+              "lemma": "detective",
+              "en": "detective"
+            },
+            {
+              "surface": "víctimas",
+              "lemma": "víctima",
+              "en": "victims"
+            },
+            {
+              "surface": "valor",
+              "lemma": "valor",
+              "en": "courage"
+            }
+          ]
+        },
+        {
+          "es": "El oficial dice que los veredictos culpables pueden dar confianza a más personas.",
+          "en": "The officer says that guilty verdicts can give confidence to more people.",
+          "words": [
+            {
+              "surface": "veredictos",
+              "lemma": "veredicto",
+              "en": "verdicts"
+            },
+            {
+              "surface": "culpables",
+              "lemma": "culpable",
+              "en": "guilty"
+            },
+            {
+              "surface": "confianza",
+              "lemma": "confianza",
+              "en": "confidence"
+            }
+          ]
+        },
+        {
+          "es": "Las nuevas acusaciones son parte de una investigación más grande.",
+          "en": "The new accusations are part of a larger investigation.",
+          "words": [
+            {
+              "surface": "acusaciones",
+              "lemma": "acusación",
+              "en": "accusations"
+            },
+            {
+              "surface": "investigación",
+              "lemma": "investigación",
+              "en": "investigation"
+            }
+          ]
+        },
+        {
+          "es": "La policía anima a las víctimas a presentar sus denuncias.",
+          "en": "Police encourage victims to file their complaints.",
+          "words": [
+            {
+              "surface": "anima",
+              "lemma": "animar",
+              "en": "encourages"
+            },
+            {
+              "surface": "víctimas",
+              "lemma": "víctima",
+              "en": "victims"
+            },
+            {
+              "surface": "denuncias",
+              "lemma": "denuncia",
+              "en": "complaints"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-2",
+      "headline": {
+        "es": "Una canción de rap analiza la economía de estafas en Estados Unidos",
+        "en": "A rap song analyzes the scam economy in the United States"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat"
+      },
+      "sentences": [
+        {
+          "es": "Un crítico de música de NPR habla sobre la cultura del rap actual.",
+          "en": "An NPR music critic talks about current rap culture.",
+          "words": [
+            {
+              "surface": "crítico",
+              "lemma": "crítico",
+              "en": "critic"
+            },
+            {
+              "surface": "música",
+              "lemma": "música",
+              "en": "music"
+            },
+            {
+              "surface": "cultura",
+              "lemma": "cultura",
+              "en": "culture"
+            }
+          ]
+        },
+        {
+          "es": "La canción de Yung Miami es un éxito del verano.",
+          "en": "Yung Miami's song is a summer hit.",
+          "words": [
+            {
+              "surface": "canción",
+              "lemma": "canción",
+              "en": "song"
+            },
+            {
+              "surface": "éxito",
+              "lemma": "éxito",
+              "en": "hit"
+            }
+          ]
+        },
+        {
+          "es": "La canción critica la economía de estafas en América.",
+          "en": "The song criticizes the scam economy in America.",
+          "words": [
+            {
+              "surface": "critica",
+              "lemma": "criticar",
+              "en": "criticizes"
+            },
+            {
+              "surface": "economía",
+              "lemma": "economía",
+              "en": "economy"
+            },
+            {
+              "surface": "estafas",
+              "lemma": "estafa",
+              "en": "scams"
+            }
+          ]
+        },
+        {
+          "es": "El reportero analiza lo que la letra significa para la sociedad.",
+          "en": "The reporter analyzes what the lyrics mean for society.",
+          "words": [
+            {
+              "surface": "reportero",
+              "lemma": "reportero",
+              "en": "reporter"
+            },
+            {
+              "surface": "analiza",
+              "lemma": "analizar",
+              "en": "analyzes"
+            },
+            {
+              "surface": "letra",
+              "lemma": "letra",
+              "en": "lyrics"
+            },
+            {
+              "surface": "sociedad",
+              "lemma": "sociedad",
+              "en": "society"
+            }
+          ]
+        },
+        {
+          "es": "Este tema muestra cómo el rap habla de problemas económicos reales.",
+          "en": "This topic shows how rap talks about real economic problems.",
+          "words": [
+            {
+              "surface": "tema",
+              "lemma": "tema",
+              "en": "topic"
+            },
+            {
+              "surface": "muestra",
+              "lemma": "mostrar",
+              "en": "shows"
+            },
+            {
+              "surface": "económicos",
+              "lemma": "económico",
+              "en": "economic"
+            },
+            {
+              "surface": "problemas",
+              "lemma": "problema",
+              "en": "problems"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-3",
+      "headline": {
+        "es": "Francia tiene nuevas huelgas y protestas de sindicatos",
+        "en": "France holds new strikes and protests by unions"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Cinco sindicatos de Francia organizan una jornada nacional de acción.",
+          "en": "Five French unions organize a national day of action.",
+          "words": [
+            {
+              "surface": "sindicatos",
+              "lemma": "sindicato",
+              "en": "unions"
+            },
+            {
+              "surface": "jornada",
+              "lemma": "jornada",
+              "en": "day"
+            },
+            {
+              "surface": "acción",
+              "lemma": "acción",
+              "en": "action"
+            }
+          ]
+        },
+        {
+          "es": "Los trabajadores hacen huelgas en todo el país.",
+          "en": "Workers strike throughout the country.",
+          "words": [
+            {
+              "surface": "trabajadores",
+              "lemma": "trabajador",
+              "en": "workers"
+            },
+            {
+              "surface": "huelgas",
+              "lemma": "huelga",
+              "en": "strikes"
+            }
+          ]
+        },
+        {
+          "es": "También hay protestas en las calles de varias ciudades.",
+          "en": "There are also protests in the streets of several cities.",
+          "words": [
+            {
+              "surface": "protestas",
+              "lemma": "protesta",
+              "en": "protests"
+            },
+            {
+              "surface": "calles",
+              "lemma": "calle",
+              "en": "streets"
+            },
+            {
+              "surface": "ciudades",
+              "lemma": "ciudad",
+              "en": "cities"
+            }
+          ]
+        },
+        {
+          "es": "Los sindicatos piden respuestas inmediatas del gobierno.",
+          "en": "The unions demand immediate answers from the government.",
+          "words": [
+            {
+              "surface": "sindicatos",
+              "lemma": "sindicato",
+              "en": "unions"
+            },
+            {
+              "surface": "piden",
+              "lemma": "pedir",
+              "en": "demand"
+            },
+            {
+              "surface": "respuestas",
+              "lemma": "respuesta",
+              "en": "answers"
+            },
+            {
+              "surface": "inmediatas",
+              "lemma": "inmediato",
+              "en": "immediate"
+            },
+            {
+              "surface": "gobierno",
+              "lemma": "gobierno",
+              "en": "government"
+            }
+          ]
+        },
+        {
+          "es": "Esta es una onda de protestas que continúa en Francia.",
+          "en": "This is a wave of protests that continues in France.",
+          "words": [
+            {
+              "surface": "onda",
+              "lemma": "onda",
+              "en": "wave"
+            },
+            {
+              "surface": "protestas",
+              "lemma": "protesta",
+              "en": "protests"
+            },
+            {
+              "surface": "continúa",
+              "lemma": "continuar",
+              "en": "continues"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-4",
+      "headline": {
+        "es": "Russell Brand es condenado por violación y recibirá prisión",
+        "en": "Russell Brand is convicted of rape and will receive prison time"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison"
+      },
+      "sentences": [
+        {
+          "es": "Russell Brand es declarado culpable de violación por un juez.",
+          "en": "Russell Brand is found guilty of rape by a judge.",
+          "words": [
+            {
+              "surface": "declarado",
+              "lemma": "declarar",
+              "en": "found"
+            },
+            {
+              "surface": "culpable",
+              "lemma": "culpable",
+              "en": "guilty"
+            },
+            {
+              "surface": "violación",
+              "lemma": "violación",
+              "en": "rape"
+            },
+            {
+              "surface": "juez",
+              "lemma": "juez",
+              "en": "judge"
+            }
+          ]
+        },
+        {
+          "es": "El fiscal describe a Brand como un depredador sexual calculador.",
+          "en": "The prosecutor describes Brand as a calculating sexual predator.",
+          "words": [
+            {
+              "surface": "fiscal",
+              "lemma": "fiscal",
+              "en": "prosecutor"
+            },
+            {
+              "surface": "depredador",
+              "lemma": "depredador",
+              "en": "predator"
+            },
+            {
+              "surface": "sexual",
+              "lemma": "sexual",
+              "en": "sexual"
+            },
+            {
+              "surface": "calculador",
+              "lemma": "calculador",
+              "en": "calculating"
+            }
+          ]
+        },
+        {
+          "es": "Brand niega todas las acusaciones en su contra.",
+          "en": "Brand denies all accusations against him.",
+          "words": [
+            {
+              "surface": "niega",
+              "lemma": "negar",
+              "en": "denies"
+            },
+            {
+              "surface": "acusaciones",
+              "lemma": "acusación",
+              "en": "accusations"
+            }
+          ]
+        },
+        {
+          "es": "El actor dice que nunca obligó a nadie a hacer algo contra su voluntad.",
+          "en": "The actor says he never forced anyone to do something against their will.",
+          "words": [
+            {
+              "surface": "actor",
+              "lemma": "actor",
+              "en": "actor"
+            },
+            {
+              "surface": "obligó",
+              "lemma": "obligar",
+              "en": "forced"
+            },
+            {
+              "surface": "voluntad",
+              "lemma": "voluntad",
+              "en": "will"
+            }
+          ]
+        },
+        {
+          "es": "El juez dice que Brand recibirá una sentencia de prisión.",
+          "en": "The judge says Brand will receive a prison sentence.",
+          "words": [
+            {
+              "surface": "juez",
+              "lemma": "juez",
+              "en": "judge"
+            },
+            {
+              "surface": "sentencia",
+              "lemma": "sentencia",
+              "en": "sentence"
+            },
+            {
+              "surface": "prisión",
+              "lemma": "prisión",
+              "en": "prison"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-5",
+      "headline": {
+        "es": "Seis muertos en incendio de edificio en Nueva York",
+        "en": "Six dead in fire at New York City building"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un incendio en un edificio de Nueva York causa seis muertes.",
+          "en": "A fire in a New York building causes six deaths.",
+          "words": [
+            {
+              "surface": "incendio",
+              "lemma": "incendio",
+              "en": "fire"
+            },
+            {
+              "surface": "edificio",
+              "lemma": "edificio",
+              "en": "building"
+            },
+            {
+              "surface": "muertes",
+              "lemma": "muerte",
+              "en": "deaths"
+            }
+          ]
+        },
+        {
+          "es": "También hay otras personas heridas en el incendio.",
+          "en": "There are also other people injured in the fire.",
+          "words": [
+            {
+              "surface": "heridas",
+              "lemma": "herido",
+              "en": "injured"
+            },
+            {
+              "surface": "incendio",
+              "lemma": "incendio",
+              "en": "fire"
+            }
+          ]
+        },
+        {
+          "es": "Doscientos treinta bomberos y personal médico van al lugar.",
+          "en": "Two hundred thirty firefighters and medical personnel go to the scene.",
+          "words": [
+            {
+              "surface": "bomberos",
+              "lemma": "bombero",
+              "en": "firefighters"
+            },
+            {
+              "surface": "personal",
+              "lemma": "personal",
+              "en": "personnel"
+            },
+            {
+              "surface": "médico",
+              "lemma": "médico",
+              "en": "medical"
+            }
+          ]
+        },
+        {
+          "es": "La causa del incendio todavía no es clara.",
+          "en": "The cause of the fire is still not clear.",
+          "words": [
+            {
+              "surface": "causa",
+              "lemma": "causa",
+              "en": "cause"
+            },
+            {
+              "surface": "incendio",
+              "lemma": "incendio",
+              "en": "fire"
+            },
+            {
+              "surface": "clara",
+              "lemma": "claro",
+              "en": "clear"
+            }
+          ]
+        },
+        {
+          "es": "Las autoridades investigan lo que pasó en el edificio.",
+          "en": "Authorities are investigating what happened in the building.",
+          "words": [
+            {
+              "surface": "autoridades",
+              "lemma": "autoridad",
+              "en": "authorities"
+            },
+            {
+              "surface": "investigan",
+              "lemma": "investigar",
+              "en": "investigate"
+            },
+            {
+              "surface": "edificio",
+              "lemma": "edificio",
+              "en": "building"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-6",
+      "headline": {
+        "es": "Compradores de casa por primera vez pagan en efectivo",
+        "en": "First-time homebuyers pay all cash"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer"
+      },
+      "sentences": [
+        {
+          "es": "Hay pocos compradores de casa por primera vez en el mercado.",
+          "en": "There are few first-time homebuyers in the market.",
+          "words": [
+            {
+              "surface": "compradores",
+              "lemma": "comprador",
+              "en": "buyers"
+            },
+            {
+              "surface": "casa",
+              "lemma": "casa",
+              "en": "home"
+            },
+            {
+              "surface": "mercado",
+              "lemma": "mercado",
+              "en": "market"
+            }
+          ]
+        },
+        {
+          "es": "Pero muchos de ellos pagan la casa completamente en efectivo.",
+          "en": "But many of them pay for the house completely in cash.",
+          "words": [
+            {
+              "surface": "pagan",
+              "lemma": "pagar",
+              "en": "pay"
+            },
+            {
+              "surface": "casa",
+              "lemma": "casa",
+              "en": "house"
+            },
+            {
+              "surface": "completamente",
+              "lemma": "completamente",
+              "en": "completely"
+            },
+            {
+              "surface": "efectivo",
+              "lemma": "efectivo",
+              "en": "cash"
+            }
+          ]
+        },
+        {
+          "es": "La riqueza de las familias hace que haya una diferencia grande.",
+          "en": "Family wealth creates a big difference.",
+          "words": [
+            {
+              "surface": "riqueza",
+              "lemma": "riqueza",
+              "en": "wealth"
+            },
+            {
+              "surface": "familias",
+              "lemma": "familia",
+              "en": "families"
+            },
+            {
+              "surface": "diferencia",
+              "lemma": "diferencia",
+              "en": "difference"
+            }
+          ]
+        },
+        {
+          "es": "Algunas personas no pueden comprar casa porque es muy cara.",
+          "en": "Some people cannot buy a house because it is very expensive.",
+          "words": [
+            {
+              "surface": "comprar",
+              "lemma": "comprar",
+              "en": "buy"
+            },
+            {
+              "surface": "casa",
+              "lemma": "casa",
+              "en": "house"
+            },
+            {
+              "surface": "cara",
+              "lemma": "caro",
+              "en": "expensive"
+            }
+          ]
+        },
+        {
+          "es": "La edad promedio de los compradores nuevos es ahora más alta que antes.",
+          "en": "The average age of new buyers is now higher than before.",
+          "words": [
+            {
+              "surface": "edad",
+              "lemma": "edad",
+              "en": "age"
+            },
+            {
+              "surface": "promedio",
+              "lemma": "promedio",
+              "en": "average"
+            },
+            {
+              "surface": "compradores",
+              "lemma": "comprador",
+              "en": "buyers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
