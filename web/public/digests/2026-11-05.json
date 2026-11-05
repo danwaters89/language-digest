@@ -2,116 +2,111 @@
   "date": "2026-11-05",
   "level": "A2",
   "spanishVariant": "es-MX",
-  "generatedAt": "2026-11-05T16:53:22.491Z",
+  "generatedAt": "2026-11-05T21:52:32.197Z",
   "stories": [
     {
       "id": "2026-11-05-1",
       "headline": {
-        "es": "Russell Brand es investigado por nuevas acusaciones de violación",
-        "en": "Russell Brand is being investigated over new rape complaints"
+        "es": "Las acciones de tecnología caen y el Nasdaq pierde 2.5 billones de dólares",
+        "en": "Tech stocks plummet and Nasdaq loses $2.5 trillion in value"
       },
       "source": {
         "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
       },
       "sentences": [
         {
-          "es": "La policía investiga a Russell Brand por dos nuevas acusaciones de violación.",
-          "en": "Police are investigating Russell Brand for two new rape accusations.",
+          "es": "Los mercados financieros reaccionan a cambios políticos en Estados Unidos.",
+          "en": "Financial markets react to political changes in the United States.",
           "words": [
             {
-              "surface": "investiga",
-              "lemma": "investigar",
-              "en": "investigates"
+              "surface": "mercados",
+              "lemma": "mercado",
+              "en": "markets"
             },
             {
-              "surface": "acusaciones",
-              "lemma": "acusación",
-              "en": "accusations"
-            },
-            {
-              "surface": "violación",
-              "lemma": "violación",
-              "en": "rape"
+              "surface": "financieros",
+              "lemma": "financiero",
+              "en": "financial"
             }
           ]
         },
         {
-          "es": "Un detective espera que otras víctimas posibles tengan valor para hablar.",
-          "en": "A detective hopes that other possible victims will have courage to speak.",
+          "es": "El gobierno posiblemente va a revisar más las empresas de centros de datos.",
+          "en": "The government will possibly review data centre companies more closely.",
           "words": [
             {
-              "surface": "detective",
-              "lemma": "detective",
-              "en": "detective"
+              "surface": "revisar",
+              "lemma": "revisar",
+              "en": "to review"
             },
             {
-              "surface": "víctimas",
-              "lemma": "víctima",
-              "en": "victims"
+              "surface": "centros",
+              "lemma": "centro",
+              "en": "centres"
             },
             {
-              "surface": "valor",
-              "lemma": "valor",
-              "en": "courage"
+              "surface": "datos",
+              "lemma": "dato",
+              "en": "data"
             }
           ]
         },
         {
-          "es": "El oficial dice que los veredictos culpables pueden dar confianza a más personas.",
-          "en": "The officer says that guilty verdicts can give confidence to more people.",
+          "es": "Las acciones de inteligencia artificial también pierden valor en el mercado.",
+          "en": "Artificial intelligence stocks also lose value in the market.",
           "words": [
             {
-              "surface": "veredictos",
-              "lemma": "veredicto",
-              "en": "verdicts"
+              "surface": "acciones",
+              "lemma": "acción",
+              "en": "stocks"
             },
             {
-              "surface": "culpables",
-              "lemma": "culpable",
-              "en": "guilty"
+              "surface": "inteligencia",
+              "lemma": "inteligencia",
+              "en": "intelligence"
             },
             {
-              "surface": "confianza",
-              "lemma": "confianza",
-              "en": "confidence"
+              "surface": "artificial",
+              "lemma": "artificial",
+              "en": "artificial"
             }
           ]
         },
         {
-          "es": "Las nuevas acusaciones son parte de una investigación más grande.",
-          "en": "The new accusations are part of a larger investigation.",
+          "es": "El Nasdaq pierde aproximadamente 2.5 billones de dólares en total.",
+          "en": "The Nasdaq loses approximately $2.5 trillion in total.",
           "words": [
             {
-              "surface": "acusaciones",
-              "lemma": "acusación",
-              "en": "accusations"
+              "surface": "Nasdaq",
+              "lemma": "Nasdaq",
+              "en": "Nasdaq"
             },
             {
-              "surface": "investigación",
-              "lemma": "investigación",
-              "en": "investigation"
+              "surface": "billones",
+              "lemma": "billón",
+              "en": "trillions"
             }
           ]
         },
         {
-          "es": "La policía anima a las víctimas a presentar sus denuncias.",
-          "en": "Police encourage victims to file their complaints.",
+          "es": "Los inversionistas están preocupados por el futuro de estas industrias.",
+          "en": "Investors are worried about the future of these industries.",
           "words": [
             {
-              "surface": "anima",
-              "lemma": "animar",
-              "en": "encourages"
+              "surface": "inversionistas",
+              "lemma": "inversionista",
+              "en": "investors"
             },
             {
-              "surface": "víctimas",
-              "lemma": "víctima",
-              "en": "victims"
+              "surface": "preocupados",
+              "lemma": "preocupado",
+              "en": "worried"
             },
             {
-              "surface": "denuncias",
-              "lemma": "denuncia",
-              "en": "complaints"
+              "surface": "industrias",
+              "lemma": "industria",
+              "en": "industries"
             }
           ]
         }
@@ -120,121 +115,121 @@
     {
       "id": "2026-11-05-2",
       "headline": {
-        "es": "Una canción de rap analiza la economía de estafas en Estados Unidos",
-        "en": "A rap song analyzes the scam economy in the United States"
+        "es": "El presidente de Paraguay es destituido después de renunciar por colapso bancario",
+        "en": "Paraguay's president is impeached after resigning due to bank collapse"
       },
       "source": {
         "name": "NPR News",
-        "url": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat"
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"
       },
       "sentences": [
         {
-          "es": "Un crítico de música de NPR habla sobre la cultura del rap actual.",
-          "en": "An NPR music critic talks about current rap culture.",
+          "es": "El presidente Santiago Peña renuncia a su cargo en Paraguay.",
+          "en": "President Santiago Peña resigns from his position in Paraguay.",
           "words": [
             {
-              "surface": "crítico",
-              "lemma": "crítico",
-              "en": "critic"
+              "surface": "renuncia",
+              "lemma": "renunciar",
+              "en": "resigns"
             },
             {
-              "surface": "música",
-              "lemma": "música",
-              "en": "music"
-            },
-            {
-              "surface": "cultura",
-              "lemma": "cultura",
-              "en": "culture"
+              "surface": "cargo",
+              "lemma": "cargo",
+              "en": "position"
             }
           ]
         },
         {
-          "es": "La canción de Yung Miami es un éxito del verano.",
-          "en": "Yung Miami's song is a summer hit.",
+          "es": "Un banco digital conectado con el gobierno colapsa y cierra.",
+          "en": "A digital bank connected to the government collapses and closes.",
           "words": [
             {
-              "surface": "canción",
-              "lemma": "canción",
-              "en": "song"
+              "surface": "banco",
+              "lemma": "banco",
+              "en": "bank"
             },
             {
-              "surface": "éxito",
-              "lemma": "éxito",
-              "en": "hit"
+              "surface": "digital",
+              "lemma": "digital",
+              "en": "digital"
+            },
+            {
+              "surface": "colapsa",
+              "lemma": "colapsar",
+              "en": "collapses"
             }
           ]
         },
         {
-          "es": "La canción critica la economía de estafas en América.",
-          "en": "The song criticizes the scam economy in America.",
+          "es": "Millones de personas pierden acceso a su dinero en las cuentas bancarias.",
+          "en": "Millions of people lose access to their money in bank accounts.",
           "words": [
             {
-              "surface": "critica",
-              "lemma": "criticar",
-              "en": "criticizes"
+              "surface": "millones",
+              "lemma": "millón",
+              "en": "millions"
             },
             {
-              "surface": "economía",
-              "lemma": "economía",
-              "en": "economy"
+              "surface": "cuentas",
+              "lemma": "cuenta",
+              "en": "accounts"
             },
             {
-              "surface": "estafas",
-              "lemma": "estafa",
-              "en": "scams"
+              "surface": "bancarias",
+              "lemma": "bancario",
+              "en": "bank"
             }
           ]
         },
         {
-          "es": "El reportero analiza lo que la letra significa para la sociedad.",
-          "en": "The reporter analyzes what the lyrics mean for society.",
+          "es": "Los legisladores votan para destituir al presidente minutos después de su renuncia.",
+          "en": "Lawmakers vote to impeach the president minutes after his resignation.",
           "words": [
             {
-              "surface": "reportero",
-              "lemma": "reportero",
-              "en": "reporter"
+              "surface": "legisladores",
+              "lemma": "legislador",
+              "en": "lawmakers"
             },
             {
-              "surface": "analiza",
-              "lemma": "analizar",
-              "en": "analyzes"
+              "surface": "votan",
+              "lemma": "votar",
+              "en": "vote"
             },
             {
-              "surface": "letra",
-              "lemma": "letra",
-              "en": "lyrics"
-            },
-            {
-              "surface": "sociedad",
-              "lemma": "sociedad",
-              "en": "society"
+              "surface": "destituir",
+              "lemma": "destituir",
+              "en": "to impeach"
             }
           ]
         },
         {
-          "es": "Este tema muestra cómo el rap habla de problemas económicos reales.",
-          "en": "This topic shows how rap talks about real economic problems.",
+          "es": "Este evento muestra una crisis política y económica grave en el país.",
+          "en": "This event shows a serious political and economic crisis in the country.",
           "words": [
             {
-              "surface": "tema",
-              "lemma": "tema",
-              "en": "topic"
+              "surface": "evento",
+              "lemma": "evento",
+              "en": "event"
             },
             {
-              "surface": "muestra",
-              "lemma": "mostrar",
-              "en": "shows"
+              "surface": "crisis",
+              "lemma": "crisis",
+              "en": "crisis"
             },
             {
-              "surface": "económicos",
+              "surface": "política",
+              "lemma": "político",
+              "en": "political"
+            },
+            {
+              "surface": "económica",
               "lemma": "económico",
               "en": "economic"
             },
             {
-              "surface": "problemas",
-              "lemma": "problema",
-              "en": "problems"
+              "surface": "grave",
+              "lemma": "grave",
+              "en": "serious"
             }
           ]
         }
@@ -243,121 +238,131 @@
     {
       "id": "2026-11-05-3",
       "headline": {
-        "es": "Francia tiene nuevas huelgas y protestas de sindicatos",
-        "en": "France holds new strikes and protests by unions"
+        "es": "El gobernador de California reduce sentencias para 548 presos en el corredor de la muerte",
+        "en": "California governor commutes sentences for 548 death row inmates"
       },
       "source": {
         "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
       },
       "sentences": [
         {
-          "es": "Cinco sindicatos de Francia organizan una jornada nacional de acción.",
-          "en": "Five French unions organize a national day of action.",
+          "es": "El gobernador de California toma una decisión importante sobre los presos condenados a muerte.",
+          "en": "The California governor makes an important decision about inmates condemned to death.",
           "words": [
             {
-              "surface": "sindicatos",
-              "lemma": "sindicato",
-              "en": "unions"
+              "surface": "gobernador",
+              "lemma": "gobernador",
+              "en": "governor"
             },
             {
-              "surface": "jornada",
-              "lemma": "jornada",
-              "en": "day"
+              "surface": "decisión",
+              "lemma": "decisión",
+              "en": "decision"
             },
+            {
+              "surface": "presos",
+              "lemma": "preso",
+              "en": "inmates"
+            },
+            {
+              "surface": "condenados",
+              "lemma": "condenado",
+              "en": "condemned"
+            }
+          ]
+        },
+        {
+          "es": "Reduce las sentencias de 548 personas que están en el corredor de la muerte.",
+          "en": "He reduces the sentences of 548 people who are on death row.",
+          "words": [
+            {
+              "surface": "Reduce",
+              "lemma": "reducir",
+              "en": "reduces"
+            },
+            {
+              "surface": "sentencias",
+              "lemma": "sentencia",
+              "en": "sentences"
+            },
+            {
+              "surface": "corredor",
+              "lemma": "corredor",
+              "en": "row"
+            }
+          ]
+        },
+        {
+          "es": "California tiene históricamente la población más grande de condenados a muerte en Estados Unidos.",
+          "en": "California historically has the largest population of death row inmates in the United States.",
+          "words": [
+            {
+              "surface": "históricamente",
+              "lemma": "históricamente",
+              "en": "historically"
+            },
+            {
+              "surface": "población",
+              "lemma": "población",
+              "en": "population"
+            },
+            {
+              "surface": "más",
+              "lemma": "más",
+              "en": "largest"
+            }
+          ]
+        },
+        {
+          "es": "Esta acción afecta a cientos de personas y sus familias en el estado.",
+          "en": "This action affects hundreds of people and their families in the state.",
+          "words": [
             {
               "surface": "acción",
               "lemma": "acción",
               "en": "action"
+            },
+            {
+              "surface": "afecta",
+              "lemma": "afectar",
+              "en": "affects"
+            },
+            {
+              "surface": "cientos",
+              "lemma": "ciento",
+              "en": "hundreds"
+            },
+            {
+              "surface": "familias",
+              "lemma": "familia",
+              "en": "families"
             }
           ]
         },
         {
-          "es": "Los trabajadores hacen huelgas en todo el país.",
-          "en": "Workers strike throughout the country.",
+          "es": "La decisión representa un cambio importante en la política de penas de muerte.",
+          "en": "The decision represents an important change in death penalty policy.",
           "words": [
             {
-              "surface": "trabajadores",
-              "lemma": "trabajador",
-              "en": "workers"
+              "surface": "representa",
+              "lemma": "representar",
+              "en": "represents"
             },
             {
-              "surface": "huelgas",
-              "lemma": "huelga",
-              "en": "strikes"
-            }
-          ]
-        },
-        {
-          "es": "También hay protestas en las calles de varias ciudades.",
-          "en": "There are also protests in the streets of several cities.",
-          "words": [
-            {
-              "surface": "protestas",
-              "lemma": "protesta",
-              "en": "protests"
+              "surface": "cambio",
+              "lemma": "cambio",
+              "en": "change"
             },
             {
-              "surface": "calles",
-              "lemma": "calle",
-              "en": "streets"
+              "surface": "política",
+              "lemma": "política",
+              "en": "policy"
             },
             {
-              "surface": "ciudades",
-              "lemma": "ciudad",
-              "en": "cities"
-            }
-          ]
-        },
-        {
-          "es": "Los sindicatos piden respuestas inmediatas del gobierno.",
-          "en": "The unions demand immediate answers from the government.",
-          "words": [
-            {
-              "surface": "sindicatos",
-              "lemma": "sindicato",
-              "en": "unions"
-            },
-            {
-              "surface": "piden",
-              "lemma": "pedir",
-              "en": "demand"
-            },
-            {
-              "surface": "respuestas",
-              "lemma": "respuesta",
-              "en": "answers"
-            },
-            {
-              "surface": "inmediatas",
-              "lemma": "inmediato",
-              "en": "immediate"
-            },
-            {
-              "surface": "gobierno",
-              "lemma": "gobierno",
-              "en": "government"
-            }
-          ]
-        },
-        {
-          "es": "Esta es una onda de protestas que continúa en Francia.",
-          "en": "This is a wave of protests that continues in France.",
-          "words": [
-            {
-              "surface": "onda",
-              "lemma": "onda",
-              "en": "wave"
-            },
-            {
-              "surface": "protestas",
-              "lemma": "protesta",
-              "en": "protests"
-            },
-            {
-              "surface": "continúa",
-              "lemma": "continuar",
-              "en": "continues"
+              "surface": "penas",
+              "lemma": "pena",
+              "en": "penalties"
             }
           ]
         }
@@ -366,121 +371,156 @@
     {
       "id": "2026-11-05-4",
       "headline": {
-        "es": "Russell Brand es condenado por violación y recibirá prisión",
-        "en": "Russell Brand is convicted of rape and will receive prison time"
+        "es": "El jefe de la oficina de Derechos Civiles del Departamento de Justicia renuncia",
+        "en": "Head of Justice Department's Civil Rights office resigns"
       },
       "source": {
         "name": "NPR News",
-        "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison"
+        "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns"
       },
       "sentences": [
         {
-          "es": "Russell Brand es declarado culpable de violación por un juez.",
-          "en": "Russell Brand is found guilty of rape by a judge.",
+          "es": "Harmeet Dhillon es el jefe de la División de Derechos Civiles del Departamento de Justicia.",
+          "en": "Harmeet Dhillon is the head of the Civil Rights Division of the Justice Department.",
           "words": [
             {
-              "surface": "declarado",
-              "lemma": "declarar",
-              "en": "found"
+              "surface": "jefe",
+              "lemma": "jefe",
+              "en": "head"
             },
             {
-              "surface": "culpable",
-              "lemma": "culpable",
-              "en": "guilty"
+              "surface": "División",
+              "lemma": "división",
+              "en": "division"
             },
             {
-              "surface": "violación",
-              "lemma": "violación",
-              "en": "rape"
+              "surface": "Derechos",
+              "lemma": "derecho",
+              "en": "rights"
             },
             {
-              "surface": "juez",
-              "lemma": "juez",
-              "en": "judge"
+              "surface": "Civiles",
+              "lemma": "civil",
+              "en": "civil"
+            },
+            {
+              "surface": "Departamento",
+              "lemma": "departamento",
+              "en": "department"
+            },
+            {
+              "surface": "Justicia",
+              "lemma": "justicia",
+              "en": "justice"
             }
           ]
         },
         {
-          "es": "El fiscal describe a Brand como un depredador sexual calculador.",
-          "en": "The prosecutor describes Brand as a calculating sexual predator.",
+          "es": "Ella renuncia después de trabajar dieciocho meses en este cargo.",
+          "en": "She resigns after working eighteen months in this position.",
           "words": [
             {
-              "surface": "fiscal",
-              "lemma": "fiscal",
-              "en": "prosecutor"
+              "surface": "renuncia",
+              "lemma": "renunciar",
+              "en": "resigns"
             },
             {
-              "surface": "depredador",
-              "lemma": "depredador",
-              "en": "predator"
+              "surface": "dieciocho",
+              "lemma": "dieciocho",
+              "en": "eighteen"
             },
             {
-              "surface": "sexual",
-              "lemma": "sexual",
-              "en": "sexual"
+              "surface": "meses",
+              "lemma": "mes",
+              "en": "months"
             },
             {
-              "surface": "calculador",
-              "lemma": "calculador",
-              "en": "calculating"
+              "surface": "cargo",
+              "lemma": "cargo",
+              "en": "position"
             }
           ]
         },
         {
-          "es": "Brand niega todas las acusaciones en su contra.",
-          "en": "Brand denies all accusations against him.",
+          "es": "Su tiempo en el trabajo fue difícil y complicado para la oficina.",
+          "en": "Her time at work was difficult and complicated for the office.",
           "words": [
             {
-              "surface": "niega",
-              "lemma": "negar",
-              "en": "denies"
+              "surface": "tiempo",
+              "lemma": "tiempo",
+              "en": "time"
             },
             {
-              "surface": "acusaciones",
-              "lemma": "acusación",
-              "en": "accusations"
+              "surface": "difícil",
+              "lemma": "difícil",
+              "en": "difficult"
+            },
+            {
+              "surface": "complicado",
+              "lemma": "complicado",
+              "en": "complicated"
+            },
+            {
+              "surface": "oficina",
+              "lemma": "oficina",
+              "en": "office"
             }
           ]
         },
         {
-          "es": "El actor dice que nunca obligó a nadie a hacer algo contra su voluntad.",
-          "en": "The actor says he never forced anyone to do something against their will.",
+          "es": "La División de Derechos Civiles protege los derechos de las personas en Estados Unidos.",
+          "en": "The Civil Rights Division protects the rights of people in the United States.",
           "words": [
             {
-              "surface": "actor",
-              "lemma": "actor",
-              "en": "actor"
+              "surface": "División",
+              "lemma": "división",
+              "en": "division"
             },
             {
-              "surface": "obligó",
-              "lemma": "obligar",
-              "en": "forced"
+              "surface": "Derechos",
+              "lemma": "derecho",
+              "en": "rights"
             },
             {
-              "surface": "voluntad",
-              "lemma": "voluntad",
-              "en": "will"
+              "surface": "Civiles",
+              "lemma": "civil",
+              "en": "civil"
+            },
+            {
+              "surface": "protege",
+              "lemma": "proteger",
+              "en": "protects"
+            },
+            {
+              "surface": "derechos",
+              "lemma": "derecho",
+              "en": "rights"
             }
           ]
         },
         {
-          "es": "El juez dice que Brand recibirá una sentencia de prisión.",
-          "en": "The judge says Brand will receive a prison sentence.",
+          "es": "Su renuncia es un cambio importante en el gobierno de Estados Unidos.",
+          "en": "Her resignation is an important change in the US government.",
           "words": [
             {
-              "surface": "juez",
-              "lemma": "juez",
-              "en": "judge"
+              "surface": "renuncia",
+              "lemma": "renuncia",
+              "en": "resignation"
             },
             {
-              "surface": "sentencia",
-              "lemma": "sentencia",
-              "en": "sentence"
+              "surface": "cambio",
+              "lemma": "cambio",
+              "en": "change"
             },
             {
-              "surface": "prisión",
-              "lemma": "prisión",
-              "en": "prison"
+              "surface": "importante",
+              "lemma": "importante",
+              "en": "important"
+            },
+            {
+              "surface": "gobierno",
+              "lemma": "gobierno",
+              "en": "government"
             }
           ]
         }
@@ -489,85 +529,58 @@
     {
       "id": "2026-11-05-5",
       "headline": {
-        "es": "Seis muertos en incendio de edificio en Nueva York",
-        "en": "Six dead in fire at New York City building"
+        "es": "¿Quién está detrás de las falsas amenazas de bombas en vuelos europeos?",
+        "en": "Who could be behind hoax bomb threats to European air travel?"
       },
       "source": {
         "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
       },
       "sentences": [
         {
-          "es": "Un incendio en un edificio de Nueva York causa seis muertes.",
-          "en": "A fire in a New York building causes six deaths.",
+          "es": "Hay amenazas falsas de bombas en vuelos de Europa en estos días.",
+          "en": "There are hoax bomb threats on European flights these days.",
           "words": [
             {
-              "surface": "incendio",
-              "lemma": "incendio",
-              "en": "fire"
+              "surface": "amenazas",
+              "lemma": "amenaza",
+              "en": "threats"
             },
             {
-              "surface": "edificio",
-              "lemma": "edificio",
-              "en": "building"
+              "surface": "falsas",
+              "lemma": "falso",
+              "en": "hoax"
             },
             {
-              "surface": "muertes",
-              "lemma": "muerte",
-              "en": "deaths"
+              "surface": "bombas",
+              "lemma": "bomba",
+              "en": "bombs"
+            },
+            {
+              "surface": "vuelos",
+              "lemma": "vuelo",
+              "en": "flights"
             }
           ]
         },
         {
-          "es": "También hay otras personas heridas en el incendio.",
-          "en": "There are also other people injured in the fire.",
+          "es": "Los investigadores no encuentran evidencia clara sobre quién hace estas amenazas.",
+          "en": "Investigators do not find clear evidence about who makes these threats.",
           "words": [
             {
-              "surface": "heridas",
-              "lemma": "herido",
-              "en": "injured"
+              "surface": "investigadores",
+              "lemma": "investigador",
+              "en": "investigators"
             },
             {
-              "surface": "incendio",
-              "lemma": "incendio",
-              "en": "fire"
-            }
-          ]
-        },
-        {
-          "es": "Doscientos treinta bomberos y personal médico van al lugar.",
-          "en": "Two hundred thirty firefighters and medical personnel go to the scene.",
-          "words": [
-            {
-              "surface": "bomberos",
-              "lemma": "bombero",
-              "en": "firefighters"
+              "surface": "encuentran",
+              "lemma": "encontrar",
+              "en": "find"
             },
             {
-              "surface": "personal",
-              "lemma": "personal",
-              "en": "personnel"
-            },
-            {
-              "surface": "médico",
-              "lemma": "médico",
-              "en": "medical"
-            }
-          ]
-        },
-        {
-          "es": "La causa del incendio todavía no es clara.",
-          "en": "The cause of the fire is still not clear.",
-          "words": [
-            {
-              "surface": "causa",
-              "lemma": "causa",
-              "en": "cause"
-            },
-            {
-              "surface": "incendio",
-              "lemma": "incendio",
-              "en": "fire"
+              "surface": "evidencia",
+              "lemma": "evidencia",
+              "en": "evidence"
             },
             {
               "surface": "clara",
@@ -577,8 +590,65 @@
           ]
         },
         {
-          "es": "Las autoridades investigan lo que pasó en el edificio.",
-          "en": "Authorities are investigating what happened in the building.",
+          "es": "No hay pruebas que conecten las amenazas con Rusia o Irán.",
+          "en": "There is no proof connecting the threats to Russia or Iran.",
+          "words": [
+            {
+              "surface": "pruebas",
+              "lemma": "prueba",
+              "en": "proof"
+            },
+            {
+              "surface": "conecten",
+              "lemma": "conectar",
+              "en": "connecting"
+            },
+            {
+              "surface": "amenazas",
+              "lemma": "amenaza",
+              "en": "threats"
+            },
+            {
+              "surface": "Rusia",
+              "lemma": "Rusia",
+              "en": "Russia"
+            },
+            {
+              "surface": "Irán",
+              "lemma": "Irán",
+              "en": "Iran"
+            }
+          ]
+        },
+        {
+          "es": "Tampoco hay evidencia de grupos que actúan por estos países.",
+          "en": "There is also no evidence of groups acting for these countries.",
+          "words": [
+            {
+              "surface": "Tampoco",
+              "lemma": "tampoco",
+              "en": "neither"
+            },
+            {
+              "surface": "evidencia",
+              "lemma": "evidencia",
+              "en": "evidence"
+            },
+            {
+              "surface": "grupos",
+              "lemma": "grupo",
+              "en": "groups"
+            },
+            {
+              "surface": "actúan",
+              "lemma": "actuar",
+              "en": "acting"
+            }
+          ]
+        },
+        {
+          "es": "Las autoridades continúan investigando el origen de estas amenazas peligrosas.",
+          "en": "Authorities continue investigating the origin of these dangerous threats.",
           "words": [
             {
               "surface": "autoridades",
@@ -586,137 +656,24 @@
               "en": "authorities"
             },
             {
-              "surface": "investigan",
+              "surface": "continúan",
+              "lemma": "continuar",
+              "en": "continue"
+            },
+            {
+              "surface": "investigando",
               "lemma": "investigar",
-              "en": "investigate"
+              "en": "investigating"
             },
             {
-              "surface": "edificio",
-              "lemma": "edificio",
-              "en": "building"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2026-11-05-6",
-      "headline": {
-        "es": "Compradores de casa por primera vez pagan en efectivo",
-        "en": "First-time homebuyers pay all cash"
-      },
-      "source": {
-        "name": "NPR News",
-        "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer"
-      },
-      "sentences": [
-        {
-          "es": "Hay pocos compradores de casa por primera vez en el mercado.",
-          "en": "There are few first-time homebuyers in the market.",
-          "words": [
-            {
-              "surface": "compradores",
-              "lemma": "comprador",
-              "en": "buyers"
+              "surface": "origen",
+              "lemma": "origen",
+              "en": "origin"
             },
             {
-              "surface": "casa",
-              "lemma": "casa",
-              "en": "home"
-            },
-            {
-              "surface": "mercado",
-              "lemma": "mercado",
-              "en": "market"
-            }
-          ]
-        },
-        {
-          "es": "Pero muchos de ellos pagan la casa completamente en efectivo.",
-          "en": "But many of them pay for the house completely in cash.",
-          "words": [
-            {
-              "surface": "pagan",
-              "lemma": "pagar",
-              "en": "pay"
-            },
-            {
-              "surface": "casa",
-              "lemma": "casa",
-              "en": "house"
-            },
-            {
-              "surface": "completamente",
-              "lemma": "completamente",
-              "en": "completely"
-            },
-            {
-              "surface": "efectivo",
-              "lemma": "efectivo",
-              "en": "cash"
-            }
-          ]
-        },
-        {
-          "es": "La riqueza de las familias hace que haya una diferencia grande.",
-          "en": "Family wealth creates a big difference.",
-          "words": [
-            {
-              "surface": "riqueza",
-              "lemma": "riqueza",
-              "en": "wealth"
-            },
-            {
-              "surface": "familias",
-              "lemma": "familia",
-              "en": "families"
-            },
-            {
-              "surface": "diferencia",
-              "lemma": "diferencia",
-              "en": "difference"
-            }
-          ]
-        },
-        {
-          "es": "Algunas personas no pueden comprar casa porque es muy cara.",
-          "en": "Some people cannot buy a house because it is very expensive.",
-          "words": [
-            {
-              "surface": "comprar",
-              "lemma": "comprar",
-              "en": "buy"
-            },
-            {
-              "surface": "casa",
-              "lemma": "casa",
-              "en": "house"
-            },
-            {
-              "surface": "cara",
-              "lemma": "caro",
-              "en": "expensive"
-            }
-          ]
-        },
-        {
-          "es": "La edad promedio de los compradores nuevos es ahora más alta que antes.",
-          "en": "The average age of new buyers is now higher than before.",
-          "words": [
-            {
-              "surface": "edad",
-              "lemma": "edad",
-              "en": "age"
-            },
-            {
-              "surface": "promedio",
-              "lemma": "promedio",
-              "en": "average"
-            },
-            {
-              "surface": "compradores",
-              "lemma": "comprador",
-              "en": "buyers"
+              "surface": "peligrosas",
+              "lemma": "peligroso",
+              "en": "dangerous"
             }
           ]
         }
