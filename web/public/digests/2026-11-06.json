@@ -1,0 +1,656 @@
+{
+  "date": "2026-11-06",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-06T21:24:50.070Z",
+  "stories": [
+    {
+      "id": "2026-11-06-1",
+      "headline": {
+        "es": "Las acciones de inteligencia artificial suben después de pérdidas en el mercado",
+        "en": "AI stocks climb after trillions wiped from market values"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Los inversores vendían acciones de empresas de tecnología porque tenían miedo de que la victoria demócrata fuera mala para la inteligencia artificial.",
+          "en": "Investors were selling off technology company shares because they were afraid that the Democratic victory would be bad for artificial intelligence.",
+          "words": [
+            {
+              "surface": "inversores",
+              "lemma": "inversor",
+              "en": "investors"
+            },
+            {
+              "surface": "acciones",
+              "lemma": "acción",
+              "en": "shares"
+            },
+            {
+              "surface": "empresas",
+              "lemma": "empresa",
+              "en": "companies"
+            },
+            {
+              "surface": "tecnología",
+              "lemma": "tecnología",
+              "en": "technology"
+            },
+            {
+              "surface": "inteligencia artificial",
+              "lemma": "inteligencia artificial",
+              "en": "artificial intelligence"
+            }
+          ]
+        },
+        {
+          "es": "Muchas personas pensaban que un gobierno demócrata iba a desarrollar la inteligencia artificial más lentamente.",
+          "en": "Many people thought that a Democratic government was going to develop artificial intelligence more slowly.",
+          "words": [
+            {
+              "surface": "desarrollar",
+              "lemma": "desarrollar",
+              "en": "develop"
+            }
+          ]
+        },
+        {
+          "es": "El mercado perdió billones de dólares en valor total durante este período de venta.",
+          "en": "The market lost trillions of dollars in total value during this selling period.",
+          "words": [
+            {
+              "surface": "billones",
+              "lemma": "billón",
+              "en": "trillions"
+            }
+          ]
+        },
+        {
+          "es": "Después, las acciones de inteligencia artificial comenzaron a subir nuevamente en el mercado.",
+          "en": "Afterwards, artificial intelligence stocks began to rise again in the market.",
+          "words": [
+            {
+              "surface": "subir",
+              "lemma": "subir",
+              "en": "rise"
+            }
+          ]
+        },
+        {
+          "es": "Los inversores ahora tienen más confianza en el futuro de estas empresas de tecnología.",
+          "en": "Investors now have more confidence in the future of these technology companies.",
+          "words": [
+            {
+              "surface": "confianza",
+              "lemma": "confianza",
+              "en": "confidence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-2",
+      "headline": {
+        "es": "Los partidos árabes de Israel tienen un papel importante después de las elecciones",
+        "en": "Israel's Arab-led parties in spotlight after inconclusive election"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties"
+      },
+      "sentences": [
+        {
+          "es": "Israel tuvo elecciones recientemente pero no hay un ganador claro todavía.",
+          "en": "Israel had elections recently but there is no clear winner yet.",
+          "words": [
+            {
+              "surface": "elecciones",
+              "lemma": "elección",
+              "en": "elections"
+            }
+          ]
+        },
+        {
+          "es": "La oposición de centro-derecha tiene la oportunidad de quitar del poder a Netanyahu.",
+          "en": "The center-right opposition has the opportunity to remove Netanyahu from power.",
+          "words": [
+            {
+              "surface": "oposición",
+              "lemma": "oposición",
+              "en": "opposition"
+            },
+            {
+              "surface": "centro-derecha",
+              "lemma": "centro-derecha",
+              "en": "center-right"
+            },
+            {
+              "surface": "poder",
+              "lemma": "poder",
+              "en": "power"
+            }
+          ]
+        },
+        {
+          "es": "Para lograr esto, la oposición necesita el apoyo de los partidos dirigidos por árabes.",
+          "en": "To achieve this, the opposition needs the support of parties led by Arabs.",
+          "words": [
+            {
+              "surface": "apoyo",
+              "lemma": "apoyo",
+              "en": "support"
+            },
+            {
+              "surface": "partidos",
+              "lemma": "partido",
+              "en": "parties"
+            },
+            {
+              "surface": "dirigidos",
+              "lemma": "dirigir",
+              "en": "led"
+            }
+          ]
+        },
+        {
+          "es": "Los partidos árabes tienen mucho poder en esta situación política.",
+          "en": "Arab parties have a lot of power in this political situation.",
+          "words": [
+            {
+              "surface": "situación",
+              "lemma": "situación",
+              "en": "situation"
+            },
+            {
+              "surface": "política",
+              "lemma": "política",
+              "en": "political"
+            }
+          ]
+        },
+        {
+          "es": "El resultado final de las elecciones depende de las decisiones que tomen estos partidos.",
+          "en": "The final result of the elections depends on the decisions that these parties make.",
+          "words": [
+            {
+              "surface": "resultado",
+              "lemma": "resultado",
+              "en": "result"
+            },
+            {
+              "surface": "depende",
+              "lemma": "depender",
+              "en": "depends"
+            },
+            {
+              "surface": "decisiones",
+              "lemma": "decisión",
+              "en": "decisions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-3",
+      "headline": {
+        "es": "Un tribunal de Nigeria no permite que un candidato de oposición participe en las elecciones",
+        "en": "Nigerian court rules opposition candidate cannot stand in elections"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un tribunal superior de Nigeria tomó una decisión importante contra el partido de oposición ADC.",
+          "en": "A high court in Nigeria made an important decision against the opposition ADC party.",
+          "words": [
+            {
+              "surface": "tribunal",
+              "lemma": "tribunal",
+              "en": "court"
+            },
+            {
+              "surface": "superior",
+              "lemma": "superior",
+              "en": "high"
+            },
+            {
+              "surface": "decisión",
+              "lemma": "decisión",
+              "en": "decision"
+            },
+            {
+              "surface": "oposición",
+              "lemma": "oposición",
+              "en": "opposition"
+            }
+          ]
+        },
+        {
+          "es": "El tribunal removió a los líderes del partido ADC de sus posiciones.",
+          "en": "The court removed the leaders of the ADC party from their positions.",
+          "words": [
+            {
+              "surface": "removió",
+              "lemma": "remover",
+              "en": "removed"
+            },
+            {
+              "surface": "líderes",
+              "lemma": "líder",
+              "en": "leaders"
+            },
+            {
+              "surface": "posiciones",
+              "lemma": "posición",
+              "en": "positions"
+            }
+          ]
+        },
+        {
+          "es": "Esta acción del tribunal ocurre solo unos meses antes de las próximas elecciones.",
+          "en": "This court action happens only a few months before the next elections.",
+          "words": [
+            {
+              "surface": "acción",
+              "lemma": "acción",
+              "en": "action"
+            },
+            {
+              "surface": "próximas",
+              "lemma": "próximo",
+              "en": "next"
+            }
+          ]
+        },
+        {
+          "es": "El candidato de oposición no puede participar en las elecciones por esta decisión judicial.",
+          "en": "The opposition candidate cannot participate in the elections because of this court decision.",
+          "words": [
+            {
+              "surface": "candidato",
+              "lemma": "candidato",
+              "en": "candidate"
+            },
+            {
+              "surface": "participar",
+              "lemma": "participar",
+              "en": "participate"
+            },
+            {
+              "surface": "judicial",
+              "lemma": "judicial",
+              "en": "court"
+            }
+          ]
+        },
+        {
+          "es": "Esta situación afecta mucho la competencia política en Nigeria antes de las elecciones.",
+          "en": "This situation greatly affects the political competition in Nigeria before the elections.",
+          "words": [
+            {
+              "surface": "afecta",
+              "lemma": "afectar",
+              "en": "affects"
+            },
+            {
+              "surface": "competencia",
+              "lemma": "competencia",
+              "en": "competition"
+            },
+            {
+              "surface": "política",
+              "lemma": "política",
+              "en": "political"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-4",
+      "headline": {
+        "es": "La nueva clase de senadores estadounidenses tiene muchos primeros históricos",
+        "en": "The incoming class of U.S. senators is full of historic firsts"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed"
+      },
+      "sentences": [
+        {
+          "es": "Los votantes estadounidenses eligieron a senadores muy especiales en las elecciones recientes.",
+          "en": "American voters elected very special senators in the recent elections.",
+          "words": [
+            {
+              "surface": "votantes",
+              "lemma": "votante",
+              "en": "voters"
+            },
+            {
+              "surface": "senadores",
+              "lemma": "senador",
+              "en": "senators"
+            }
+          ]
+        },
+        {
+          "es": "Un senador es el primer nativo americano elegido para el Senado de los Estados Unidos.",
+          "en": "One senator is the first Native American elected to the United States Senate.",
+          "words": [
+            {
+              "surface": "nativo",
+              "lemma": "nativo",
+              "en": "native"
+            },
+            {
+              "surface": "americano",
+              "lemma": "americano",
+              "en": "American"
+            },
+            {
+              "surface": "elegido",
+              "lemma": "elegir",
+              "en": "elected"
+            }
+          ]
+        },
+        {
+          "es": "Otro senador es el primer musulmán que entra al Senado estadounidense.",
+          "en": "Another senator is the first Muslim who enters the United States Senate.",
+          "words": [
+            {
+              "surface": "musulmán",
+              "lemma": "musulmán",
+              "en": "Muslim"
+            }
+          ]
+        },
+        {
+          "es": "También hay un senador que es la primera persona con discapacidad paralímpica en el Senado.",
+          "en": "There is also a senator who is the first person with Paralympic disability in the Senate.",
+          "words": [
+            {
+              "surface": "discapacidad",
+              "lemma": "discapacidad",
+              "en": "disability"
+            },
+            {
+              "surface": "paralímpica",
+              "lemma": "paralímpico",
+              "en": "Paralympic"
+            }
+          ]
+        },
+        {
+          "es": "Estos senadores representan cambios históricos e importantes en el gobierno estadounidense.",
+          "en": "These senators represent historic and important changes in the United States government.",
+          "words": [
+            {
+              "surface": "representan",
+              "lemma": "representar",
+              "en": "represent"
+            },
+            {
+              "surface": "históricos",
+              "lemma": "histórico",
+              "en": "historic"
+            },
+            {
+              "surface": "gobierno",
+              "lemma": "gobierno",
+              "en": "government"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-5",
+      "headline": {
+        "es": "Muchos demócratas quieren ser candidatos presidenciales en 2028",
+        "en": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Jim Messina, un antiguo ayudante de Obama, habló con la BBC sobre las elecciones futuras.",
+          "en": "Jim Messina, a former Obama aide, spoke with the BBC about future elections.",
+          "words": [
+            {
+              "surface": "antiguo",
+              "lemma": "antiguo",
+              "en": "former"
+            },
+            {
+              "surface": "ayudante",
+              "lemma": "ayudante",
+              "en": "aide"
+            }
+          ]
+        },
+        {
+          "es": "Messina dijo que habló con más de veinte campañas demócratas diferentes.",
+          "en": "Messina said that he spoke with more than twenty different Democratic campaigns.",
+          "words": [
+            {
+              "surface": "campañas",
+              "lemma": "campaña",
+              "en": "campaigns"
+            },
+            {
+              "surface": "demócratas",
+              "lemma": "demócrata",
+              "en": "Democratic"
+            }
+          ]
+        },
+        {
+          "es": "Muchos de estos candidatos potenciales ya están contratando personal para sus campañas.",
+          "en": "Many of these potential candidates are already hiring staff for their campaigns.",
+          "words": [
+            {
+              "surface": "candidatos",
+              "lemma": "candidato",
+              "en": "candidates"
+            },
+            {
+              "surface": "potenciales",
+              "lemma": "potencial",
+              "en": "potential"
+            },
+            {
+              "surface": "contratando",
+              "lemma": "contratar",
+              "en": "hiring"
+            },
+            {
+              "surface": "personal",
+              "lemma": "personal",
+              "en": "staff"
+            }
+          ]
+        },
+        {
+          "es": "Los demócratas están optimistas después de sus victorias en las elecciones recientes.",
+          "en": "Democrats are optimistic after their victories in recent elections.",
+          "words": [
+            {
+              "surface": "optimistas",
+              "lemma": "optimista",
+              "en": "optimistic"
+            },
+            {
+              "surface": "victorias",
+              "lemma": "victoria",
+              "en": "victories"
+            }
+          ]
+        },
+        {
+          "es": "La carrera presidencial de 2028 va a ser muy competitiva entre los demócratas.",
+          "en": "The 2028 presidential race is going to be very competitive among Democrats.",
+          "words": [
+            {
+              "surface": "carrera",
+              "lemma": "carrera",
+              "en": "race"
+            },
+            {
+              "surface": "presidencial",
+              "lemma": "presidencial",
+              "en": "presidential"
+            },
+            {
+              "surface": "competitiva",
+              "lemma": "competitivo",
+              "en": "competitive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-6",
+      "headline": {
+        "es": "La estrategia de salud global de Trump está cambiando la política estadounidense",
+        "en": "Trump's global health strategy is emerging. What will the Democratic Congress say?"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress"
+      },
+      "sentences": [
+        {
+          "es": "La administración Trump está haciendo cambios importantes en cómo Estados Unidos ayuda a otros países con la salud.",
+          "en": "The Trump administration is making important changes in how the United States helps other countries with health.",
+          "words": [
+            {
+              "surface": "administración",
+              "lemma": "administración",
+              "en": "administration"
+            },
+            {
+              "surface": "cambios",
+              "lemma": "cambio",
+              "en": "changes"
+            },
+            {
+              "surface": "ayuda",
+              "lemma": "ayuda",
+              "en": "helps"
+            },
+            {
+              "surface": "países",
+              "lemma": "país",
+              "en": "countries"
+            },
+            {
+              "surface": "salud",
+              "lemma": "salud",
+              "en": "health"
+            }
+          ]
+        },
+        {
+          "es": "Estos cambios representan un cambio fundamental en la política de salud global de Estados Unidos.",
+          "en": "These changes represent a fundamental shift in the United States' global health policy.",
+          "words": [
+            {
+              "surface": "representan",
+              "lemma": "representar",
+              "en": "represent"
+            },
+            {
+              "surface": "fundamental",
+              "lemma": "fundamental",
+              "en": "fundamental"
+            },
+            {
+              "surface": "política",
+              "lemma": "política",
+              "en": "policy"
+            },
+            {
+              "surface": "global",
+              "lemma": "global",
+              "en": "global"
+            }
+          ]
+        },
+        {
+          "es": "El Congreso demócrata recientemente elegido va a tener que responder a estos cambios.",
+          "en": "The newly elected Democratic Congress is going to have to respond to these changes.",
+          "words": [
+            {
+              "surface": "Congreso",
+              "lemma": "congreso",
+              "en": "Congress"
+            },
+            {
+              "surface": "demócrata",
+              "lemma": "demócrata",
+              "en": "Democratic"
+            },
+            {
+              "surface": "recientemente",
+              "lemma": "recientemente",
+              "en": "recently"
+            },
+            {
+              "surface": "elegido",
+              "lemma": "elegir",
+              "en": "elected"
+            },
+            {
+              "surface": "responder",
+              "lemma": "responder",
+              "en": "respond"
+            }
+          ]
+        },
+        {
+          "es": "Los demócratas pueden no estar de acuerdo con la nueva estrategia de Trump.",
+          "en": "Democrats may not agree with Trump's new strategy.",
+          "words": [
+            {
+              "surface": "acuerdo",
+              "lemma": "acuerdo",
+              "en": "agreement"
+            },
+            {
+              "surface": "estrategia",
+              "lemma": "estrategia",
+              "en": "strategy"
+            }
+          ]
+        },
+        {
+          "es": "Habrá un debate importante entre Trump y el Congreso sobre la ayuda internacional de salud.",
+          "en": "There will be an important debate between Trump and Congress about international health aid.",
+          "words": [
+            {
+              "surface": "debate",
+              "lemma": "debate",
+              "en": "debate"
+            },
+            {
+              "surface": "internacional",
+              "lemma": "internacional",
+              "en": "international"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
