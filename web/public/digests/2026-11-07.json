@@ -1,0 +1,411 @@
+{
+  "date": "2026-11-07",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-07T20:05:35.354Z",
+  "stories": [
+    {
+      "id": "2026-11-07-1",
+      "headline": {
+        "es": "Tiroteo en Cracovia deja al menos seis muertos",
+        "en": "Shooting in Krakow leaves at least six dead"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un hombre armado con ropa militar dispara en Cracovia, la segunda ciudad más grande de Polonia.",
+          "en": "An armed man in military clothing opens fire in Krakow, Poland's second largest city.",
+          "words": [
+            {
+              "surface": "armado",
+              "lemma": "armado",
+              "en": "armed"
+            },
+            {
+              "surface": "dispara",
+              "lemma": "disparar",
+              "en": "shoots/opens fire"
+            }
+          ]
+        },
+        {
+          "es": "El atacante mata a seis personas durante el incidente.",
+          "en": "The attacker kills six people during the incident.",
+          "words": [
+            {
+              "surface": "atacante",
+              "lemma": "atacante",
+              "en": "attacker"
+            }
+          ]
+        },
+        {
+          "es": "Muchas otras personas resultan heridas en el ataque.",
+          "en": "Many other people are injured in the attack.",
+          "words": [
+            {
+              "surface": "heridas",
+              "lemma": "herido",
+              "en": "injured"
+            }
+          ]
+        },
+        {
+          "es": "La policía llega al lugar y dispara contra el hombre.",
+          "en": "Police arrive at the scene and shoot at the man.",
+          "words": []
+        },
+        {
+          "es": "El gunman recibe heridas durante el enfrentamiento con la policía.",
+          "en": "The gunman is wounded during the confrontation with police.",
+          "words": [
+            {
+              "surface": "enfrentamiento",
+              "lemma": "enfrentamiento",
+              "en": "confrontation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-2",
+      "headline": {
+        "es": "Tiroteo en la Plaza Mayor de Cracovia mata a seis e hiere a quince",
+        "en": "Shooting in Krakow's Main Square kills six and injures fifteen"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
+      },
+      "sentences": [
+        {
+          "es": "Un hombre dispara contra personas al azar en la Plaza Mayor de Cracovia.",
+          "en": "A man shoots at random people in Krakow's Main Square.",
+          "words": [
+            {
+              "surface": "al azar",
+              "lemma": "azar",
+              "en": "at random"
+            }
+          ]
+        },
+        {
+          "es": "La Plaza Mayor es un lugar muy visitado por turistas.",
+          "en": "The Main Square is a place visited by many tourists.",
+          "words": []
+        },
+        {
+          "es": "El atacante conduce su vehículo hacia la plaza mientras dispara.",
+          "en": "The attacker drives his vehicle toward the square while shooting.",
+          "words": [
+            {
+              "surface": "conduce",
+              "lemma": "conducir",
+              "en": "drives"
+            },
+            {
+              "surface": "vehículo",
+              "lemma": "vehículo",
+              "en": "vehicle"
+            }
+          ]
+        },
+        {
+          "es": "Seis personas mueren y quince resultan heridas en el tiroteo.",
+          "en": "Six people die and fifteen are injured in the shooting.",
+          "words": [
+            {
+              "surface": "tiroteo",
+              "lemma": "tiroteo",
+              "en": "shooting"
+            }
+          ]
+        },
+        {
+          "es": "La policía dispara y hiere al gunman durante un combate.",
+          "en": "Police shoot and wound the gunman during a gunfight.",
+          "words": [
+            {
+              "surface": "combate",
+              "lemma": "combate",
+              "en": "gunfight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-3",
+      "headline": {
+        "es": "Expresidente de Paraguay enfrenta cargos por colapso bancario",
+        "en": "Paraguay's former president faces charges after bank collapse"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Santiago Peña es el expresidente de Paraguay.",
+          "en": "Santiago Peña is Paraguay's former president.",
+          "words": [
+            {
+              "surface": "expresidente",
+              "lemma": "expresidente",
+              "en": "former president"
+            }
+          ]
+        },
+        {
+          "es": "Un banco importante colapsa y causa una crisis financiera grave.",
+          "en": "An important bank collapses and causes a serious financial crisis.",
+          "words": [
+            {
+              "surface": "colapsa",
+              "lemma": "colapsar",
+              "en": "collapses"
+            }
+          ]
+        },
+        {
+          "es": "Millones de personas no pueden acceder a su dinero en el banco.",
+          "en": "Millions of people cannot access their money in the bank.",
+          "words": []
+        },
+        {
+          "es": "Peña es removido de su cargo como presidente.",
+          "en": "Peña is removed from his position as president.",
+          "words": [
+            {
+              "surface": "removido",
+              "lemma": "remover",
+              "en": "removed"
+            }
+          ]
+        },
+        {
+          "es": "Ahora enfrenta acusaciones por su responsabilidad en la crisis.",
+          "en": "Now he faces charges for his responsibility in the crisis.",
+          "words": [
+            {
+              "surface": "acusaciones",
+              "lemma": "acusación",
+              "en": "charges"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-4",
+      "headline": {
+        "es": "Presidente paraguayo destituido comparece ante fiscales",
+        "en": "Ousted Paraguayan president appears before prosecutors"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse"
+      },
+      "sentences": [
+        {
+          "es": "Santiago Peña es removido de su cargo de presidente de Paraguay.",
+          "en": "Santiago Peña is removed from his position as president of Paraguay.",
+          "words": [
+            {
+              "surface": "removido",
+              "lemma": "remover",
+              "en": "removed"
+            }
+          ]
+        },
+        {
+          "es": "El Senado vota para destituir al presidente después del colapso bancario.",
+          "en": "The Senate votes to impeach the president after the bank collapse.",
+          "words": [
+            {
+              "surface": "destituir",
+              "lemma": "destituir",
+              "en": "impeach"
+            }
+          ]
+        },
+        {
+          "es": "Un banco del estado se desmorona y causa problemas económicos.",
+          "en": "A state-affiliated bank fails and causes economic problems.",
+          "words": [
+            {
+              "surface": "desmorona",
+              "lemma": "desmoronarse",
+              "en": "fails/collapses"
+            }
+          ]
+        },
+        {
+          "es": "Peña es puesto bajo arresto domiciliario el viernes.",
+          "en": "Peña is placed under house arrest on Friday.",
+          "words": [
+            {
+              "surface": "arresto domiciliario",
+              "lemma": "arresto domiciliario",
+              "en": "house arrest"
+            }
+          ]
+        },
+        {
+          "es": "Comparece ante los fiscales para responder preguntas sobre la crisis.",
+          "en": "He appears before prosecutors to answer questions about the crisis.",
+          "words": [
+            {
+              "surface": "Comparece",
+              "lemma": "comparecer",
+              "en": "appears"
+            },
+            {
+              "surface": "fiscales",
+              "lemma": "fiscal",
+              "en": "prosecutors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-5",
+      "headline": {
+        "es": "Estados Unidos ofrece recompensa por información sobre programa nuclear de Irán",
+        "en": "US offers reward for information about Iran's nuclear program"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Estados Unidos ofrece veinte millones de dólares como recompensa.",
+          "en": "The United States offers twenty million dollars as a reward.",
+          "words": [
+            {
+              "surface": "recompensa",
+              "lemma": "recompensa",
+              "en": "reward"
+            }
+          ]
+        },
+        {
+          "es": "La recompensa es para información sobre el programa nuclear de Irán.",
+          "en": "The reward is for information about Iran's nuclear program.",
+          "words": [
+            {
+              "surface": "programa nuclear",
+              "lemma": "programa nuclear",
+              "en": "nuclear program"
+            }
+          ]
+        },
+        {
+          "es": "Donald Trump ha hablado sobre posibles ataques contra las instalaciones nucleares de Irán.",
+          "en": "Donald Trump has spoken about possible attacks against Iran's nuclear facilities.",
+          "words": [
+            {
+              "surface": "instalaciones",
+              "lemma": "instalación",
+              "en": "facilities"
+            }
+          ]
+        },
+        {
+          "es": "Trump menciona varias veces la idea de atacar estos lugares.",
+          "en": "Trump mentions several times the idea of attacking these places.",
+          "words": []
+        },
+        {
+          "es": "El gobierno busca obtener datos sobre las actividades nucleares de Irán.",
+          "en": "The government seeks to obtain data about Iran's nuclear activities.",
+          "words": [
+            {
+              "surface": "datos",
+              "lemma": "dato",
+              "en": "data"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-6",
+      "headline": {
+        "es": "Medicamento prometedor contra enfermedades del corazón falla inesperadamente",
+        "en": "Promising new medicine against heart disease fails unexpectedly"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack"
+      },
+      "sentences": [
+        {
+          "es": "Los médicos prueban un medicamento experimental para el corazón.",
+          "en": "Doctors test an experimental medicine for the heart.",
+          "words": [
+            {
+              "surface": "medicamento",
+              "lemma": "medicamento",
+              "en": "medicine"
+            },
+            {
+              "surface": "experimental",
+              "lemma": "experimental",
+              "en": "experimental"
+            }
+          ]
+        },
+        {
+          "es": "El medicamento reduce un factor de riesgo común para los ataques cardíacos.",
+          "en": "The medicine reduces a common risk factor for heart attacks.",
+          "words": [
+            {
+              "surface": "factor de riesgo",
+              "lemma": "factor de riesgo",
+              "en": "risk factor"
+            },
+            {
+              "surface": "ataques cardíacos",
+              "lemma": "ataque cardíaco",
+              "en": "heart attacks"
+            }
+          ]
+        },
+        {
+          "es": "Los doctores esperan que el medicamento salve vidas de los pacientes.",
+          "en": "Doctors expect the medicine to save patients' lives.",
+          "words": [
+            {
+              "surface": "salve",
+              "lemma": "salvar",
+              "en": "save"
+            }
+          ]
+        },
+        {
+          "es": "Sin embargo, el medicamento no produce los resultados esperados.",
+          "en": "However, the medicine does not produce the expected results.",
+          "words": [
+            {
+              "surface": "Sin embargo",
+              "lemma": "sin embargo",
+              "en": "however"
+            }
+          ]
+        },
+        {
+          "es": "La medicina no hace ninguna diferencia en la salud de los pacientes.",
+          "en": "The medicine makes no difference in patients' health.",
+          "words": []
+        }
+      ]
+    }
+  ]
+}
