@@ -1,0 +1,530 @@
+{
+  "date": "2026-11-08",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-08T20:20:52.095Z",
+  "stories": [
+    {
+      "id": "2026-11-08-1",
+      "headline": {
+        "es": "Choque de trenes en Egipto deja siete muertos y más de cien heridos",
+        "en": "Train collision in Egypt leaves seven dead and more than one hundred injured"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Dos trenes que viajaban en la misma dirección chocaron cerca de la ciudad de Giza.",
+          "en": "Two trains traveling in the same direction collided near the city of Giza.",
+          "words": [
+            {
+              "surface": "chocaron",
+              "lemma": "chocar",
+              "en": "collided"
+            }
+          ]
+        },
+        {
+          "es": "El accidente causó que varios vagones se salieran de las vías.",
+          "en": "The accident caused several carriages to leave the tracks.",
+          "words": [
+            {
+              "surface": "vagones",
+              "lemma": "vagón",
+              "en": "carriages"
+            },
+            {
+              "surface": "salieran",
+              "lemma": "salir",
+              "en": "left"
+            },
+            {
+              "surface": "vías",
+              "lemma": "vía",
+              "en": "tracks"
+            }
+          ]
+        },
+        {
+          "es": "Siete personas murieron en el incidente.",
+          "en": "Seven people died in the incident.",
+          "words": [
+            {
+              "surface": "murieron",
+              "lemma": "morir",
+              "en": "died"
+            }
+          ]
+        },
+        {
+          "es": "Más de cien personas resultaron heridas.",
+          "en": "More than one hundred people were injured.",
+          "words": [
+            {
+              "surface": "resultaron",
+              "lemma": "resultar",
+              "en": "were"
+            },
+            {
+              "surface": "heridas",
+              "lemma": "herido",
+              "en": "injured"
+            }
+          ]
+        },
+        {
+          "es": "Este es uno de los accidentes ferroviarios más graves en Egipto.",
+          "en": "This is one of the most serious railway accidents in Egypt.",
+          "words": [
+            {
+              "surface": "ferroviarios",
+              "lemma": "ferroviario",
+              "en": "railway"
+            },
+            {
+              "surface": "graves",
+              "lemma": "grave",
+              "en": "serious"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-2",
+      "headline": {
+        "es": "Europa participa en negociaciones sobre Ucrania en Abu Dabi",
+        "en": "Europe participates in Ukraine negotiations in Abu Dhabi"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
+      },
+      "sentences": [
+        {
+          "es": "Francia anuncia que funcionarios europeos asistirán a conversaciones sobre Rusia y Ucrania esta semana.",
+          "en": "France announces that European officials will attend talks about Russia and Ukraine this week.",
+          "words": [
+            {
+              "surface": "funcionarios",
+              "lemma": "funcionario",
+              "en": "officials"
+            },
+            {
+              "surface": "asistirán",
+              "lemma": "asistir",
+              "en": "will attend"
+            }
+          ]
+        },
+        {
+          "es": "Las negociaciones se realizarán en Abu Dabi con mediación de Estados Unidos.",
+          "en": "The negotiations will take place in Abu Dhabi with mediation from the United States.",
+          "words": [
+            {
+              "surface": "mediación",
+              "lemma": "mediación",
+              "en": "mediation"
+            }
+          ]
+        },
+        {
+          "es": "Esta es la primera ronda de conversaciones entre tres partes desde febrero.",
+          "en": "This is the first round of three-way talks since February.",
+          "words": [
+            {
+              "surface": "ronda",
+              "lemma": "ronda",
+              "en": "round"
+            }
+          ]
+        },
+        {
+          "es": "Rusia se opone a la participación de Europa en estas conversaciones.",
+          "en": "Russia opposes Europe's participation in these talks.",
+          "words": [
+            {
+              "surface": "opone",
+              "lemma": "oponer",
+              "en": "opposes"
+            }
+          ]
+        },
+        {
+          "es": "Los líderes europeos decidieron asistir a pesar de las objeciones del Kremlin.",
+          "en": "European leaders decided to attend despite objections from the Kremlin.",
+          "words": [
+            {
+              "surface": "objeciones",
+              "lemma": "objeción",
+              "en": "objections"
+            },
+            {
+              "surface": "Kremlin",
+              "lemma": "Kremlin",
+              "en": "Kremlin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-3",
+      "headline": {
+        "es": "Cirujano salva la vida de un policía durante tiroteo en Cracovia",
+        "en": "Surgeon saves police officer's life during shooting near Krakow"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un cirujano que comía cerca de Cracovia ayudó a salvar la vida de un oficial de policía.",
+          "en": "A surgeon who was eating near Krakow helped save the life of a police officer.",
+          "words": [
+            {
+              "surface": "cirujano",
+              "lemma": "cirujano",
+              "en": "surgeon"
+            },
+            {
+              "surface": "comía",
+              "lemma": "comer",
+              "en": "was eating"
+            }
+          ]
+        },
+        {
+          "es": "Dos policías evitaron que un tirador matara a más personas.",
+          "en": "Two police officers prevented a gunman from killing more people.",
+          "words": [
+            {
+              "surface": "evitaron",
+              "lemma": "evitar",
+              "en": "prevented"
+            },
+            {
+              "surface": "tirador",
+              "lemma": "tirador",
+              "en": "gunman"
+            }
+          ]
+        },
+        {
+          "es": "El cirujano estaba en el lugar correcto en el momento correcto.",
+          "en": "The surgeon was in the right place at the right time.",
+          "words": []
+        },
+        {
+          "es": "Sus colegas dicen que su presencia fue decisiva para salvar vidas.",
+          "en": "His colleagues say that his presence was decisive in saving lives.",
+          "words": [
+            {
+              "surface": "colegas",
+              "lemma": "colega",
+              "en": "colleagues"
+            },
+            {
+              "surface": "decisiva",
+              "lemma": "decisivo",
+              "en": "decisive"
+            }
+          ]
+        },
+        {
+          "es": "Este incidente muestra el valor de los policías y la suerte de tener ayuda médica disponible.",
+          "en": "This incident shows the courage of the police officers and the luck of having medical help available.",
+          "words": [
+            {
+              "surface": "valor",
+              "lemma": "valor",
+              "en": "courage"
+            },
+            {
+              "surface": "disponible",
+              "lemma": "disponible",
+              "en": "available"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-4",
+      "headline": {
+        "es": "Nueva Zelanda sin ganador claro en elecciones, líderes preparan negociaciones",
+        "en": "New Zealand election has no clear winner as leaders prepare for talks"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks"
+      },
+      "sentences": [
+        {
+          "es": "Las elecciones en Nueva Zelanda no tienen un ganador claro.",
+          "en": "The elections in New Zealand do not have a clear winner.",
+          "words": [
+            {
+              "surface": "ganador",
+              "lemma": "ganador",
+              "en": "winner"
+            }
+          ]
+        },
+        {
+          "es": "El Primer Ministro Christopher Luxon dirigirá un gobierno temporal durante las negociaciones.",
+          "en": "Prime Minister Christopher Luxon will lead a temporary government during the negotiations.",
+          "words": [
+            {
+              "surface": "Primer Ministro",
+              "lemma": "primer ministro",
+              "en": "Prime Minister"
+            },
+            {
+              "surface": "dirigirá",
+              "lemma": "dirigir",
+              "en": "will lead"
+            },
+            {
+              "surface": "temporal",
+              "lemma": "temporal",
+              "en": "temporary"
+            }
+          ]
+        },
+        {
+          "es": "Los líderes políticos pasarán varias semanas negociando para formar un gobierno.",
+          "en": "Political leaders will spend several weeks negotiating to form a government.",
+          "words": [
+            {
+              "surface": "negociando",
+              "lemma": "negociar",
+              "en": "negotiating"
+            }
+          ]
+        },
+        {
+          "es": "Luxon dijo que todos necesitan un descanso de la política.",
+          "en": "Luxon said that everyone needs a break from politics.",
+          "words": [
+            {
+              "surface": "descanso",
+              "lemma": "descanso",
+              "en": "break"
+            }
+          ]
+        },
+        {
+          "es": "Las conversaciones entre los partidos políticos durarán aproximadamente tres semanas.",
+          "en": "The talks between political parties will last approximately three weeks.",
+          "words": [
+            {
+              "surface": "durarán",
+              "lemma": "durar",
+              "en": "will last"
+            },
+            {
+              "surface": "aproximadamente",
+              "lemma": "aproximadamente",
+              "en": "approximately"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-5",
+      "headline": {
+        "es": "Investigación en curso por accidente ferroviario fatal en Egipto",
+        "en": "Investigation underway for fatal train accident in Egypt"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Las autoridades aún no saben qué causó el accidente de tren en Egipto.",
+          "en": "Authorities still do not know what caused the train accident in Egypt.",
+          "words": [
+            {
+              "surface": "autoridades",
+              "lemma": "autoridad",
+              "en": "authorities"
+            }
+          ]
+        },
+        {
+          "es": "El Presidente Abdel Fattah al-Sisi ordenó una investigación sobre el incidente.",
+          "en": "President Abdel Fattah al-Sisi ordered an investigation into the incident.",
+          "words": [
+            {
+              "surface": "ordenó",
+              "lemma": "ordenar",
+              "en": "ordered"
+            },
+            {
+              "surface": "investigación",
+              "lemma": "investigación",
+              "en": "investigation"
+            }
+          ]
+        },
+        {
+          "es": "El presidente prometió castigar a cualquier persona responsable por negligencia.",
+          "en": "The president promised to punish anyone responsible for negligence.",
+          "words": [
+            {
+              "surface": "prometió",
+              "lemma": "prometer",
+              "en": "promised"
+            },
+            {
+              "surface": "castigar",
+              "lemma": "castigar",
+              "en": "punish"
+            },
+            {
+              "surface": "negligencia",
+              "lemma": "negligencia",
+              "en": "negligence"
+            }
+          ]
+        },
+        {
+          "es": "Se han encontrado vagones descarrilados en el lugar del accidente.",
+          "en": "Derailed carriages have been found at the accident site.",
+          "words": [
+            {
+              "surface": "descarrilados",
+              "lemma": "descarrilado",
+              "en": "derailed"
+            }
+          ]
+        },
+        {
+          "es": "Las investigaciones continuarán para determinar las causas exactas del choque.",
+          "en": "Investigations will continue to determine the exact causes of the collision.",
+          "words": [
+            {
+              "surface": "investigaciones",
+              "lemma": "investigación",
+              "en": "investigations"
+            },
+            {
+              "surface": "continuarán",
+              "lemma": "continuar",
+              "en": "will continue"
+            },
+            {
+              "surface": "determinar",
+              "lemma": "determinar",
+              "en": "determine"
+            },
+            {
+              "surface": "exactas",
+              "lemma": "exacto",
+              "en": "exact"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-6",
+      "headline": {
+        "es": "Papa León viaja a Argentina después de visita exitosa a Uruguay",
+        "en": "Pope Leo travels to Argentina after successful trip to Uruguay"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina"
+      },
+      "sentences": [
+        {
+          "es": "El Papa León realizó una visita exitosa a Uruguay esta semana.",
+          "en": "Pope Leo made a successful visit to Uruguay this week.",
+          "words": [
+            {
+              "surface": "realizó",
+              "lemma": "realizar",
+              "en": "made"
+            },
+            {
+              "surface": "exitosa",
+              "lemma": "exitoso",
+              "en": "successful"
+            }
+          ]
+        },
+        {
+          "es": "Decenas de miles de personas se reunieron en la plaza principal de Florida, Uruguay.",
+          "en": "Tens of thousands of people gathered in the main square of Florida, Uruguay.",
+          "words": [
+            {
+              "surface": "Decenas",
+              "lemma": "decena",
+              "en": "tens"
+            },
+            {
+              "surface": "reunieron",
+              "lemma": "reunir",
+              "en": "gathered"
+            },
+            {
+              "surface": "plaza",
+              "lemma": "plaza",
+              "en": "square"
+            }
+          ]
+        },
+        {
+          "es": "El Papa habló ante la multitud el domingo pasado.",
+          "en": "The Pope spoke to the crowd last Sunday.",
+          "words": [
+            {
+              "surface": "habló",
+              "lemma": "hablar",
+              "en": "spoke"
+            },
+            {
+              "surface": "multitud",
+              "lemma": "multitud",
+              "en": "crowd"
+            }
+          ]
+        },
+        {
+          "es": "Ahora el Papa León viaja a Argentina para continuar su gira.",
+          "en": "Now Pope Leo is traveling to Argentina to continue his tour.",
+          "words": [
+            {
+              "surface": "viaja",
+              "lemma": "viajar",
+              "en": "is traveling"
+            },
+            {
+              "surface": "gira",
+              "lemma": "gira",
+              "en": "tour"
+            }
+          ]
+        },
+        {
+          "es": "Su visita a América Latina ha sido muy importante para la iglesia.",
+          "en": "His visit to Latin America has been very important for the church.",
+          "words": [
+            {
+              "surface": "iglesia",
+              "lemma": "iglesia",
+              "en": "church"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
