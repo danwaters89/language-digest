@@ -8,6 +8,8 @@ export type FeedItem = {
   link: string;
   source: string;
   publishedAt: string; // ISO
+  /** Full article text (set by enrichWithArticles); preferred over `summary` in the LLM prompt. */
+  fullText?: string;
 };
 
 const parser = new XMLParser({
@@ -104,7 +106,7 @@ export function titleSimilarity(a: string, b: string): number {
 }
 
 /** Drop near-identical titles (Jaccard similarity of normalized tokens); first occurrence wins. */
-export function dedupe(items: FeedItem[], threshold = 0.6): FeedItem[] {
+export function dedupe(items: FeedItem[], threshold = 0.4): FeedItem[] {
   const kept: FeedItem[] = [];
   for (const item of items) {
     if (!kept.some((k) => titleSimilarity(k.title, item.title) >= threshold)) kept.push(item);
@@ -112,7 +114,7 @@ export function dedupe(items: FeedItem[], threshold = 0.6): FeedItem[] {
   return kept;
 }
 
-type FetchLike = (url: string, init?: { signal?: AbortSignal; headers?: Record<string, string> }) => Promise<{
+export type FetchLike = (url: string, init?: { signal?: AbortSignal; headers?: Record<string, string> }) => Promise<{
   ok: boolean;
   status: number;
   text(): Promise<string>;

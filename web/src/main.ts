@@ -11,7 +11,7 @@ const ROUTES: Route[] = ["today", "archive", "words", "settings"];
 const base = import.meta.env.BASE_URL;
 
 async function loadJson(path: string): Promise<unknown> {
-  const res = await fetch(`${base}digests/${path}`);
+  const res = await fetch(`${base}digests/${path}`, { cache: "no-store" });
   if (!res.ok) throw new Error(`Could not load ${path} (HTTP ${res.status})`);
   return res.json();
 }
@@ -62,9 +62,20 @@ async function render(): Promise<void> {
 window.addEventListener("hashchange", () => void render());
 void render();
 
+// iOS home-screen apps are suspended and resumed rather than reloaded, so
+// refresh the digest whenever the app comes back to the foreground.
+let hiddenAt = 0;
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "hidden") hiddenAt = Date.now();
+  else if (currentRoute() === "today" && Date.now() - hiddenAt > 60_000) void render();
+});
+window.addEventListener("pageshow", (e) => {
+  if (e.persisted) void render();
+});
+
 if (import.meta.env.PROD && "serviceWorker" in navigator) {
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register(`${base}sw.js`).catch((err) => {
+    navigator.serviceWorker.register(`${base}sw.js`, { updateViaCache: "none" }).catch((err) => {
       console.warn("Service worker registration failed", err);
     });
   });

@@ -1,6 +1,6 @@
 // Service worker: plain JS, no build step. Served from the app's base path, so
 // every URL is resolved relative to the worker's scope (works under /<repo>/).
-const VERSION = "v1";
+const VERSION = "v2";
 const CACHE = `resumen-${VERSION}`;
 const MAX_DIGESTS = 7;
 
@@ -34,7 +34,7 @@ async function precache() {
       new URL(m[1], scope).href,
     );
     await Promise.allSettled(assets.map((a) => cache.add(a)));
-    const res = await fetch(rel("digests/index.json"));
+    const res = await fetch(rel("digests/index.json"), { cache: "no-store" });
     if (res.ok) {
       await cache.put(rel("digests/index.json"), res.clone());
       const { latest } = await res.json();
@@ -62,7 +62,8 @@ self.addEventListener("activate", (event) => {
 async function networkFirst(request, cacheKey, afterPut) {
   const cache = await caches.open(CACHE);
   try {
-    const res = await fetch(request);
+    // GitHub Pages sends max-age=600; bypass the HTTP cache so we always hit the network.
+    const res = await fetch(request, { cache: "no-store" });
     if (res.ok) {
       await cache.put(cacheKey, res.clone());
       if (afterPut) await afterPut(cache);

@@ -1,6 +1,7 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { enrichWithArticles } from "./articles";
 import { fetchAllFeeds, dedupe, type FeedItem } from "./feeds";
 import { repairGlosses } from "./gloss-match";
 import { createClientFromEnv, type ChatMessage, type LlmClient, type LlmUsage } from "./llm";
@@ -136,8 +137,12 @@ async function main(): Promise<void> {
     const all = await fetchAllFeeds(config.feeds, { now });
     const unique = dedupe(all);
     console.log(`[feeds] ${all.length} items, ${unique.length} after dedupe`);
-    const items = selectStories(unique, config.maxStories);
-    if (items.length === 0) throw new Error("No recent stories found");
+    const selected = selectStories(unique, config.maxStories);
+    if (selected.length === 0) throw new Error("No recent stories found");
+    const items = config.fetchArticles ? await enrichWithArticles(selected) : selected;
+    if (config.fetchArticles) {
+      console.log(`[articles] full text for ${items.filter((i) => i.fullText).length}/${items.length} stories`);
+    }
     console.log(`[select] ${items.length} stories selected: ${items.map((i) => `"${i.title}"`).join(", ")}`);
     const client = createClientFromEnv(config.model, process.env, config.provider);
     const output = await generateWithRetry(client, config, items);

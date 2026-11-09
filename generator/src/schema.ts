@@ -53,6 +53,8 @@ export const ConfigSchema = z.object({
   spanishVariant: z.string().min(1),
   provider: z.enum(["anthropic", "openai"]).default("anthropic"),
   model: z.string().min(1),
+  /** Fetch full article text for selected stories (falls back to RSS summary per story on failure). */
+  fetchArticles: z.boolean().default(true),
 });
 
 export type Gloss = z.infer<typeof GlossSchema>;
