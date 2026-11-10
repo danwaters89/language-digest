@@ -1,0 +1,516 @@
+{
+  "date": "2026-11-10",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-10T17:20:28.668Z",
+  "stories": [
+    {
+      "id": "2026-11-10-1",
+      "headline": {
+        "es": "El nuevo parlamento de Israel se reúne mientras líderes compiten por formar gobierno",
+        "en": "Israel's new parliament convenes as leaders compete to form government"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El parlamento nuevo de Israel comienza hoy con un líder de la oposición que quiere reemplazar al primer ministro actual.",
+          "en": "Israel's new parliament begins today with an opposition leader who wants to replace the current prime minister.",
+          "words": [
+            {
+              "surface": "parlamento",
+              "lemma": "parlamento",
+              "en": "parliament"
+            }
+          ]
+        },
+        {
+          "es": "Gadi Eisenkot recibió más recomendaciones de los miembros del Knesset que Benjamin Netanyahu, pero no todos sus partidarios quieren gobernar juntos.",
+          "en": "Gadi Eisenkot received more recommendations from Knesset members than Benjamin Netanyahu, but not all his supporters want to govern together.",
+          "words": [
+            {
+              "surface": "Knesset",
+              "lemma": "Knesset",
+              "en": "Israeli parliament"
+            },
+            {
+              "surface": "recomendaciones",
+              "lemma": "recomendación",
+              "en": "recommendations"
+            }
+          ]
+        },
+        {
+          "es": "El bloque de Eisenkot ganó 48 escaños en la elección de octubre, mientras que el bloque de Netanyahu ganó 53, pero los dos necesitan más para tener mayoría en el Knesset de 120 escaños.",
+          "en": "Eisenkot's bloc won 48 seats in the October election, while Netanyahu's bloc won 53, but both need more to have a majority in the 120-seat Knesset.",
+          "words": [
+            {
+              "surface": "bloque",
+              "lemma": "bloque",
+              "en": "bloc"
+            },
+            {
+              "surface": "escaños",
+              "lemma": "escaño",
+              "en": "seats"
+            }
+          ]
+        },
+        {
+          "es": "Eisenkot tiene 28 días para formar una coalición, con la posibilidad de una extensión de dos semanas más.",
+          "en": "Eisenkot has 28 days to form a coalition, with the possibility of a two-week extension.",
+          "words": [
+            {
+              "surface": "coalición",
+              "lemma": "coalición",
+              "en": "coalition"
+            }
+          ]
+        },
+        {
+          "es": "Los dos líderes advierten que el otro no puede formar un gobierno seguro, especialmente si depende de partidos árabes.",
+          "en": "The two leaders warn that the other cannot form a safe government, especially if it depends on Arab parties.",
+          "words": [
+            {
+              "surface": "advierten",
+              "lemma": "advertir",
+              "en": "warn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-2",
+      "headline": {
+        "es": "El precio de la gasolina baja de $4 pero la inflación sigue alta",
+        "en": "Gas prices dip below $4 but inflation remains stubbornly high"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices"
+      },
+      "sentences": [
+        {
+          "es": "El precio promedio de la gasolina bajó por debajo de cuatro dólares por galón el martes, la primera vez en tres meses.",
+          "en": "The average price of gasoline fell below four dollars per gallon on Tuesday, the first time in three months.",
+          "words": [
+            {
+              "surface": "promedio",
+              "lemma": "promedio",
+              "en": "average"
+            },
+            {
+              "surface": "galón",
+              "lemma": "galón",
+              "en": "gallon"
+            }
+          ]
+        },
+        {
+          "es": "El precio de la gasolina regular bajó 38 centavos en el último mes, llegando a un promedio nacional de $3.98.",
+          "en": "The price of regular gasoline fell 38 cents in the last month, reaching a national average of $3.98.",
+          "words": [
+            {
+              "surface": "centavos",
+              "lemma": "centavo",
+              "en": "cents"
+            }
+          ]
+        },
+        {
+          "es": "Sin embargo, el costo total de la vida sigue siendo muy alto, con los precios al consumidor subiendo 0.4% en octubre comparado con el mes anterior.",
+          "en": "However, the overall cost of living remains very high, with consumer prices rising 0.4% in October compared to the previous month.",
+          "words": [
+            {
+              "surface": "consumidor",
+              "lemma": "consumidor",
+              "en": "consumer"
+            }
+          ]
+        },
+        {
+          "es": "Los costos de vivienda representaron aproximadamente un tercio del aumento mensual, y los precios de comida también subieron mucho.",
+          "en": "Housing costs accounted for approximately one-third of the monthly increase, and food prices also rose sharply.",
+          "words": [
+            {
+              "surface": "vivienda",
+              "lemma": "vivienda",
+              "en": "housing"
+            }
+          ]
+        },
+        {
+          "es": "La gasolina es más barata ahora porque el petróleo crudo cuesta menos, las refinerías usan combustible de invierno más económico, y la demanda típicamente baja en esta estación.",
+          "en": "Gasoline is cheaper now because crude oil costs less, refineries use cheaper winter fuel, and demand typically drops this season.",
+          "words": [
+            {
+              "surface": "petróleo",
+              "lemma": "petróleo",
+              "en": "oil"
+            },
+            {
+              "surface": "refinerías",
+              "lemma": "refinería",
+              "en": "refineries"
+            },
+            {
+              "surface": "combustible",
+              "lemma": "combustible",
+              "en": "fuel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-3",
+      "headline": {
+        "es": "Detenciones en investigación de Mohamed Al Fayed en Francia",
+        "en": "Arrests made in Mohamed Al Fayed probe in France"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Las autoridades francesas realizaron búsquedas en varias propiedades de la familia Al Fayed, incluyendo el hotel Ritz de París y la Villa Windsor.",
+          "en": "French authorities conducted searches at several properties owned by the Al Fayed family, including the Ritz Paris hotel and Villa Windsor.",
+          "words": [
+            {
+              "surface": "búsquedas",
+              "lemma": "búsqueda",
+              "en": "searches"
+            },
+            {
+              "surface": "propiedades",
+              "lemma": "propiedad",
+              "en": "properties"
+            }
+          ]
+        },
+        {
+          "es": "La investigación examina acusaciones de tráfico de personas, explotación sexual y violación cometidas por un grupo organizado.",
+          "en": "The investigation examines allegations of human trafficking, sexual exploitation, and rape committed by an organized group.",
+          "words": [
+            {
+              "surface": "tráfico",
+              "lemma": "tráfico",
+              "en": "trafficking"
+            },
+            {
+              "surface": "explotación",
+              "lemma": "explotación",
+              "en": "exploitation"
+            }
+          ]
+        },
+        {
+          "es": "Varias víctimas fueron entrevistadas por investigadores franceses, y se capturó material digital que ahora se está analizando.",
+          "en": "Several victims were interviewed by French investigators, and digital material was seized that is now being analyzed.",
+          "words": [
+            {
+              "surface": "capturó",
+              "lemma": "capturar",
+              "en": "seized"
+            }
+          ]
+        },
+        {
+          "es": "Mohamed Al Fayed murió en 2023 a los 94 años, después de que más de 20 mujeres lo acusaran de agresión sexual en un documental de la BBC en 2024.",
+          "en": "Mohamed Al Fayed died in 2023 at age 94, after more than 20 women accused him of sexual assault in a BBC documentary in 2024.",
+          "words": [
+            {
+              "surface": "agresión",
+              "lemma": "agresión",
+              "en": "assault"
+            }
+          ]
+        },
+        {
+          "es": "Desde esas acusaciones, más de 400 víctimas o testigos presuntos han contactado a abogados para reportar incidentes similares.",
+          "en": "Since those accusations, more than 400 alleged victims or witnesses have contacted lawyers to report similar incidents.",
+          "words": [
+            {
+              "surface": "presuntos",
+              "lemma": "presunto",
+              "en": "alleged"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-4",
+      "headline": {
+        "es": "Muchos desertores ven a la hija de Kim Jong Un como su sucesora",
+        "en": "Many defectors see daughter of North Korea's Kim as heir apparent"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent"
+      },
+      "sentences": [
+        {
+          "es": "La hija de Kim Jong Un, llamada Kim Ju Ae y de aproximadamente 13 años, ha aparecido públicamente muchas veces con su padre en eventos importantes.",
+          "en": "Kim Jong Un's daughter, named Kim Ju Ae and approximately 13 years old, has appeared publicly many times with her father at important events.",
+          "words": [
+            {
+              "surface": "aparecido",
+              "lemma": "aparecer",
+              "en": "appeared"
+            }
+          ]
+        },
+        {
+          "es": "Los medios estatales de Corea del Norte la llaman la hija \"más amada\" y \"respetada\" de Kim, lo que sugiere que podría ser su sucesora.",
+          "en": "North Korean state media calls her Kim's \"most beloved\" and \"respected\" child, suggesting she could be his successor.",
+          "words": [
+            {
+              "surface": "medios",
+              "lemma": "medio",
+              "en": "media"
+            },
+            {
+              "surface": "sucesora",
+              "lemma": "sucesor",
+              "en": "successor"
+            }
+          ]
+        },
+        {
+          "es": "Ocho de once desertores entrevistados creen que Kim Ju Ae es la heredera probable de su padre, aunque algunos dudan porque Corea del Norte es muy patriarcal.",
+          "en": "Eight of eleven defectors interviewed believe Kim Ju Ae is her father's likely heir, although some doubt it because North Korea is very patriarchal.",
+          "words": [
+            {
+              "surface": "desertores",
+              "lemma": "desertor",
+              "en": "defectors"
+            },
+            {
+              "surface": "heredera",
+              "lemma": "heredero",
+              "en": "heir"
+            },
+            {
+              "surface": "patriarcal",
+              "lemma": "patriarcal",
+              "en": "patriarchal"
+            }
+          ]
+        },
+        {
+          "es": "Los funcionarios norcoreanos tratan a Kim Ju Ae con protocolos especiales reservados para un sucesor, no solo para la hija del líder.",
+          "en": "North Korean officials treat Kim Ju Ae with special protocols reserved for a successor, not just for the leader's daughter.",
+          "words": [
+            {
+              "surface": "funcionarios",
+              "lemma": "funcionario",
+              "en": "officials"
+            },
+            {
+              "surface": "protocolos",
+              "lemma": "protocolo",
+              "en": "protocols"
+            }
+          ]
+        },
+        {
+          "es": "Aunque hay dudas sobre si una mujer puede gobernar Corea del Norte, los expertos creen que Kim Jong Un probablemente designará a uno de sus hijos para continuar el poder de su familia.",
+          "en": "Although there are doubts about whether a woman can govern North Korea, experts believe Kim Jong Un will probably designate one of his children to continue his family's power.",
+          "words": [
+            {
+              "surface": "designará",
+              "lemma": "designar",
+              "en": "designate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-5",
+      "headline": {
+        "es": "El Secretario de Defensa rechaza los esfuerzos de destitución",
+        "en": "Defense Secretary defies impeachment effort"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El Secretario de Defensa Pete Hegseth defendió su trabajo en el Pentágono después de que un congresista republicano intentara destituirlo.",
+          "en": "Defense Secretary Pete Hegseth defended his work at the Pentagon after a Republican congressman attempted to impeach him.",
+          "words": [
+            {
+              "surface": "Secretario",
+              "lemma": "secretario",
+              "en": "Secretary"
+            },
+            {
+              "surface": "Defensa",
+              "lemma": "defensa",
+              "en": "Defense"
+            },
+            {
+              "surface": "Pentágono",
+              "lemma": "Pentágono",
+              "en": "Pentagon"
+            },
+            {
+              "surface": "destituirlo",
+              "lemma": "destituir",
+              "en": "impeach"
+            }
+          ]
+        },
+        {
+          "es": "El congresista Thomas Massie presentó artículos de destitución contra Hegseth, acusándolo de violar la constitución.",
+          "en": "Congressman Thomas Massie introduced articles of impeachment against Hegseth, accusing him of violating the constitution.",
+          "words": [
+            {
+              "surface": "artículos",
+              "lemma": "artículo",
+              "en": "articles"
+            },
+            {
+              "surface": "destitución",
+              "lemma": "destitución",
+              "en": "impeachment"
+            },
+            {
+              "surface": "constitución",
+              "lemma": "constitución",
+              "en": "constitution"
+            }
+          ]
+        },
+        {
+          "es": "Massie dice que Hegseth no pidió aprobación para la guerra con Irán, entre otras acusaciones.",
+          "en": "Massie says Hegseth did not seek approval for the war with Iran, among other accusations.",
+          "words": [
+            {
+              "surface": "aprobación",
+              "lemma": "aprobación",
+              "en": "approval"
+            }
+          ]
+        },
+        {
+          "es": "Hegseth respondió a los esfuerzos de destitución en su primera conferencia de prensa en seis meses.",
+          "en": "Hegseth responded to the impeachment efforts at his first press conference in six months.",
+          "words": [
+            {
+              "surface": "conferencia",
+              "lemma": "conferencia",
+              "en": "conference"
+            }
+          ]
+        },
+        {
+          "es": "El Secretario de Defensa llamó a los esfuerzos de destitución una farsa.",
+          "en": "The Defense Secretary called the impeachment efforts a farce.",
+          "words": [
+            {
+              "surface": "farsa",
+              "lemma": "farsa",
+              "en": "farce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-6",
+      "headline": {
+        "es": "El vicepresidente de Indonesia ofrece su renuncia por problemas de elegibilidad",
+        "en": "Indonesia's VP offers resignation as questions mount over his eligibility"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility"
+      },
+      "sentences": [
+        {
+          "es": "El vicepresidente de Indonesia, Gibran Rakabuming Raka, ofreció renunciar durante una reunión con el presidente Prabowo Subianto el martes.",
+          "en": "Indonesia's Vice President Gibran Rakabuming Raka offered to resign during a meeting with President Prabowo Subianto on Tuesday.",
+          "words": [
+            {
+              "surface": "vicepresidente",
+              "lemma": "vicepresidente",
+              "en": "Vice President"
+            },
+            {
+              "surface": "renunciar",
+              "lemma": "renunciar",
+              "en": "resign"
+            }
+          ]
+        },
+        {
+          "es": "Raka, de 39 años e hijo del expresidente Joko Widodo, tuvo una reunión de más de dos horas con Prabowo.",
+          "en": "Raka, 39 years old and son of former President Joko Widodo, held a meeting of more than two hours with Prabowo.",
+          "words": [
+            {
+              "surface": "expresidente",
+              "lemma": "expresidente",
+              "en": "former president"
+            }
+          ]
+        },
+        {
+          "es": "No está claro si Prabowo aceptó la renuncia, pero el presidente le aconsejó a Raka que continúe buscando ayuda legal para defender sus documentos académicos.",
+          "en": "It is unclear whether Prabowo accepted the resignation, but the president advised Raka to continue seeking legal help to defend his academic documents.",
+          "words": [
+            {
+              "surface": "académicos",
+              "lemma": "académico",
+              "en": "academic"
+            }
+          ]
+        },
+        {
+          "es": "La oferta de renuncia llega después de que la Corte Suprema dictaminara que los documentos de educación de Raka no cumplían con los requisitos de la elección.",
+          "en": "The resignation offer comes after the Supreme Court ruled that Raka's education documents did not meet election requirements.",
+          "words": [
+            {
+              "surface": "dictaminara",
+              "lemma": "dictaminar",
+              "en": "ruled"
+            },
+            {
+              "surface": "requisitos",
+              "lemma": "requisito",
+              "en": "requirements"
+            }
+          ]
+        },
+        {
+          "es": "Esta decisión intensificó la presión política sobre Raka y algunos legisladores pidieron su destitución.",
+          "en": "This decision intensified political pressure on Raka and some lawmakers called for his impeachment.",
+          "words": [
+            {
+              "surface": "intensificó",
+              "lemma": "intensificar",
+              "en": "intensified"
+            },
+            {
+              "surface": "legisladores",
+              "lemma": "legislador",
+              "en": "lawmakers"
+            },
+            {
+              "surface": "destitución",
+              "lemma": "destitución",
+              "en": "impeachment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
