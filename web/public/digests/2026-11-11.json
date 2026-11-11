@@ -1,0 +1,431 @@
+{
+  "date": "2026-11-11",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-11T22:35:02.414Z",
+  "stories": [
+    {
+      "id": "2026-11-11-1",
+      "headline": {
+        "es": "Miles de personas participan en la primera huelga general de España en 14 años",
+        "en": "Thousands participate in Spain's first general strike in 14 years"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Los sindicatos principales de España organizaron una huelga general porque los trabajadores están preocupados por el precio de las casas y el costo de la vida.",
+          "en": "Spain's main unions organized a general strike because workers are worried about house prices and the cost of living.",
+          "words": [
+            {
+              "surface": "sindicatos",
+              "lemma": "sindicato",
+              "en": "unions"
+            },
+            {
+              "surface": "huelga",
+              "lemma": "huelga",
+              "en": "strike"
+            }
+          ]
+        },
+        {
+          "es": "Aproximadamente 120,000 personas marcharon en Madrid y más de 50,000 en Barcelona para protestar.",
+          "en": "Approximately 120,000 people marched in Madrid and more than 50,000 in Barcelona to protest.",
+          "words": [
+            {
+              "surface": "marcharon",
+              "lemma": "marchar",
+              "en": "marched"
+            }
+          ]
+        },
+        {
+          "es": "En Barcelona, algunos grupos causaron daños: quemaron basura, rompieron ventanas de tiendas y la policía usó gas lacrimógeno.",
+          "en": "In Barcelona, some groups caused damage: they burned trash, broke shop windows, and police used tear gas.",
+          "words": [
+            {
+              "surface": "lacrimógeno",
+              "lemma": "lacrimógeno",
+              "en": "tear"
+            }
+          ]
+        },
+        {
+          "es": "El transporte y otros servicios públicos en toda España tuvieron problemas graves durante el día.",
+          "en": "Transportation and other public services across Spain had serious problems during the day.",
+          "words": [
+            {
+              "surface": "transporte",
+              "lemma": "transporte",
+              "en": "transportation"
+            }
+          ]
+        },
+        {
+          "es": "Los líderes de los sindicatos dijeron que la huelga fue un éxito porque muchas personas participaron.",
+          "en": "The union leaders said the strike was a success because many people participated.",
+          "words": [
+            {
+              "surface": "líderes",
+              "lemma": "líder",
+              "en": "leaders"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-2",
+      "headline": {
+        "es": "El precio de la gasolina baja por debajo de cuatro dólares por galón",
+        "en": "Gasoline price drops below four dollars per gallon"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon"
+      },
+      "sentences": [
+        {
+          "es": "Por primera vez en varios meses, el precio promedio de la gasolina en Estados Unidos bajó a menos de cuatro dólares por galón.",
+          "en": "For the first time in several months, the average price of gasoline in the United States dropped below four dollars per gallon.",
+          "words": [
+            {
+              "surface": "promedio",
+              "lemma": "promedio",
+              "en": "average"
+            }
+          ]
+        },
+        {
+          "es": "El precio actual es de aproximadamente 3.94 dólares por galón, y bajó unos 40 centavos en el último mes.",
+          "en": "The current price is approximately $3.94 per gallon, and it dropped about 40 cents in the last month.",
+          "words": [
+            {
+              "surface": "centavos",
+              "lemma": "centavo",
+              "en": "cents"
+            }
+          ]
+        },
+        {
+          "es": "La razón principal es que el precio del petróleo crudo bajó, no porque haya elecciones próximamente.",
+          "en": "The main reason is that crude oil prices dropped, not because elections are coming soon.",
+          "words": [
+            {
+              "surface": "crudo",
+              "lemma": "crudo",
+              "en": "crude"
+            }
+          ]
+        },
+        {
+          "es": "En el otoño, menos personas conducen, así que hay menos demanda de gasolina y las refinerías terminan su mantenimiento anual.",
+          "en": "In fall, fewer people drive, so there is less demand for gasoline and refineries finish their annual maintenance.",
+          "words": [
+            {
+              "surface": "refinerías",
+              "lemma": "refinería",
+              "en": "refineries"
+            },
+            {
+              "surface": "mantenimiento",
+              "lemma": "mantenimiento",
+              "en": "maintenance"
+            }
+          ]
+        },
+        {
+          "es": "Sin embargo, el precio de la gasolina sigue siendo muy alto comparado con años anteriores.",
+          "en": "However, gasoline prices are still very high compared to previous years.",
+          "words": [
+            {
+              "surface": "comparado",
+              "lemma": "comparar",
+              "en": "compared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-3",
+      "headline": {
+        "es": "Premio literario africano confirma que el cuento ganador fue escrito por un humano",
+        "en": "African literary prize confirms winning story was written by a human"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El Premio Caine para la Literatura Africana investigó si el escritor zimbabuense Simbarashe Kundizeza usó inteligencia artificial para escribir su cuento ganador.",
+          "en": "The Caine Prize for African Writing investigated whether Zimbabwean writer Simbarashe Kundizeza used artificial intelligence to write his winning short story.",
+          "words": [
+            {
+              "surface": "investigó",
+              "lemma": "investigar",
+              "en": "investigated"
+            },
+            {
+              "surface": "inteligencia",
+              "lemma": "inteligencia",
+              "en": "intelligence"
+            }
+          ]
+        },
+        {
+          "es": "Una revista estadounidense publicó un artículo que acusaba al escritor de usar software de inteligencia artificial para crear su historia.",
+          "en": "A US magazine published an article accusing the writer of using artificial intelligence software to create his story.",
+          "words": [
+            {
+              "surface": "acusaba",
+              "lemma": "acusar",
+              "en": "accusing"
+            }
+          ]
+        },
+        {
+          "es": "Después de revisar toda la evidencia cuidadosamente, el premio confirmó que el cuento fue escrito por una persona real.",
+          "en": "After carefully reviewing all the evidence, the prize confirmed that the story was written by a real person.",
+          "words": [
+            {
+              "surface": "evidencia",
+              "lemma": "evidencia",
+              "en": "evidence"
+            }
+          ]
+        },
+        {
+          "es": "La acusación causó mucha discusión en las redes sociales y el escritor negó haber usado inteligencia artificial.",
+          "en": "The accusation caused much discussion on social media and the writer denied using artificial intelligence.",
+          "words": [
+            {
+              "surface": "redes",
+              "lemma": "red",
+              "en": "networks"
+            }
+          ]
+        },
+        {
+          "es": "Este no es el primer caso este año donde se acusa a escritores de usar inteligencia artificial en premios literarios.",
+          "en": "This is not the first case this year where writers are accused of using artificial intelligence in literary prizes.",
+          "words": [
+            {
+              "surface": "acusa",
+              "lemma": "acusar",
+              "en": "accused"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-4",
+      "headline": {
+        "es": "Bailarines de Senegal compiten en los Juegos Olímpicos de la Juventud",
+        "en": "Senegal's breakdancers compete in the Youth Olympic Games"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing"
+      },
+      "sentences": [
+        {
+          "es": "Senegal organiza los Juegos Olímpicos de la Juventud este mes, y es la primera vez que un evento olímpico ocurre en África.",
+          "en": "Senegal is hosting the Youth Olympic Games this month, and it is the first time an Olympic event is happening in Africa.",
+          "words": [
+            {
+              "surface": "organiza",
+              "lemma": "organizar",
+              "en": "hosting"
+            }
+          ]
+        },
+        {
+          "es": "Los bailarines de danza de ruptura de Senegal practican sus movimientos para competir en los juegos.",
+          "en": "Senegal's breakdancers practice their moves to compete in the games.",
+          "words": [
+            {
+              "surface": "ruptura",
+              "lemma": "ruptura",
+              "en": "break"
+            }
+          ]
+        },
+        {
+          "es": "Suzanne Toure, una joven de 15 años, es la única chica en el equipo nacional de danza de Senegal.",
+          "en": "Suzanne Toure, a 15-year-old girl, is the only girl on Senegal's national dance team.",
+          "words": [
+            {
+              "surface": "equipo",
+              "lemma": "equipo",
+              "en": "team"
+            }
+          ]
+        },
+        {
+          "es": "Los bailarines mezclan movimientos tradicionales africanos con estilos modernos de danza de ruptura en sus rutinas.",
+          "en": "The dancers mix traditional African movements with modern breakdancing styles in their routines.",
+          "words": [
+            {
+              "surface": "rutinas",
+              "lemma": "rutina",
+              "en": "routines"
+            }
+          ]
+        },
+        {
+          "es": "El equipo espera mostrar al mundo lo que Senegal puede ofrecer y ganar una medalla en casa.",
+          "en": "The team hopes to show the world what Senegal can offer and win a medal at home.",
+          "words": [
+            {
+              "surface": "medalla",
+              "lemma": "medalla",
+              "en": "medal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-5",
+      "headline": {
+        "es": "Miles de escuelas en Italia, Escocia e Irlanda del Norte reciben amenazas de bomba falsas",
+        "en": "Thousands of schools in Italy, Scotland and Northern Ireland receive false bomb threats"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Aproximadamente 6,300 escuelas en Italia y más de 700 en Escocia e Irlanda del Norte recibieron amenazas de bomba por correo electrónico.",
+          "en": "Approximately 6,300 schools in Italy and more than 700 in Scotland and Northern Ireland received bomb threats by email.",
+          "words": [
+            {
+              "surface": "amenazas",
+              "lemma": "amenaza",
+              "en": "threats"
+            }
+          ]
+        },
+        {
+          "es": "La Primera Ministra de Italia dijo que no hay evidencia de peligro real y que esto parece ser una estrategia para causar pánico.",
+          "en": "Italy's Prime Minister said there is no evidence of real danger and this appears to be a strategy to cause panic.",
+          "words": [
+            {
+              "surface": "evidencia",
+              "lemma": "evidencia",
+              "en": "evidence"
+            }
+          ]
+        },
+        {
+          "es": "Algunos edificios fueron evacuados como precaución, pero la policía confirmó rápidamente que los mensajes eran falsas alarmas.",
+          "en": "Some buildings were evacuated as a precaution, but police quickly confirmed that the messages were false alarms.",
+          "words": [
+            {
+              "surface": "evacuados",
+              "lemma": "evacuar",
+              "en": "evacuated"
+            }
+          ]
+        },
+        {
+          "es": "El correo electrónico falso fue enviado por alguien que se identificó como \"Mikhail Andropov\" de un grupo ficticio.",
+          "en": "The false email was sent by someone who identified himself as \"Mikhail Andropov\" from a fictional group.",
+          "words": [
+            {
+              "surface": "ficticio",
+              "lemma": "ficticio",
+              "en": "fictional"
+            }
+          ]
+        },
+        {
+          "es": "Los oficiales italianos creen que esto es un ataque cibernético similar a otras amenazas falsas que ocurrieron en Europa recientemente.",
+          "en": "Italian officials believe this is a cyber attack similar to other false threats that occurred in Europe recently.",
+          "words": [
+            {
+              "surface": "cibernético",
+              "lemma": "cibernético",
+              "en": "cyber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-6",
+      "headline": {
+        "es": "Familia Kennedy demanda para bloquear arco propuesto por Trump en Washington",
+        "en": "Kennedy family sues to block Trump's proposed arch in Washington"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery"
+      },
+      "sentences": [
+        {
+          "es": "Nueve miembros de la familia Kennedy presentaron una demanda en la corte federal para detener la construcción de un arco de 250 pies en Washington.",
+          "en": "Nine members of the Kennedy family filed a lawsuit in federal court to stop the construction of a 250-foot arch in Washington.",
+          "words": [
+            {
+              "surface": "demanda",
+              "lemma": "demanda",
+              "en": "lawsuit"
+            }
+          ]
+        },
+        {
+          "es": "La familia dice que el arco bloquearía la vista de las tumbas de sus parientes, incluyendo la de John F. Kennedy en el Cementerio Nacional de Arlington.",
+          "en": "The family says the arch would block the view of their relatives' graves, including John F. Kennedy's at Arlington National Cemetery.",
+          "words": [
+            {
+              "surface": "tumbas",
+              "lemma": "tumba",
+              "en": "graves"
+            }
+          ]
+        },
+        {
+          "es": "Los demandantes incluyen hijos de Robert F. Kennedy y Edward M. Kennedy, pero Robert F. Kennedy Jr. no se unió a la demanda.",
+          "en": "The plaintiffs include children of Robert F. Kennedy and Edward M. Kennedy, but Robert F. Kennedy Jr. did not join the lawsuit.",
+          "words": [
+            {
+              "surface": "demandantes",
+              "lemma": "demandante",
+              "en": "plaintiffs"
+            }
+          ]
+        },
+        {
+          "es": "La administración de Trump dice que el arco es un monumento hermoso para honrar a los héroes que descansan en Arlington.",
+          "en": "The Trump administration says the arch is a beautiful monument to honor heroes who rest at Arlington.",
+          "words": [
+            {
+              "surface": "monumento",
+              "lemma": "monumento",
+              "en": "monument"
+            }
+          ]
+        },
+        {
+          "es": "Un juez federal bloqueó temporalmente la construcción del arco para revisar los argumentos legales en contra del proyecto.",
+          "en": "A federal judge temporarily blocked the arch's construction to review the legal arguments against the project.",
+          "words": [
+            {
+              "surface": "bloqueó",
+              "lemma": "bloquear",
+              "en": "blocked"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
