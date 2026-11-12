@@ -1,0 +1,986 @@
+{
+  "date": "2026-11-12",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-12T22:10:27.276Z",
+  "stories": [
+    {
+      "id": "2026-11-12-1",
+      "headline": {
+        "es": "Suspenden búsqueda de mujer británica desaparecida de crucero en el Atlántico",
+        "en": "Search for British woman missing from cruise ship in Atlantic suspended"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Una mujer británica de 72 años desapareció del crucero Marella Voyager mientras viajaba hacia el Caribe.",
+          "en": "A 72-year-old British woman disappeared from the Marella Voyager cruise ship while traveling to the Caribbean.",
+          "words": [
+            {
+              "surface": "desapareció",
+              "lemma": "desaparecer",
+              "en": "disappeared"
+            },
+            {
+              "surface": "crucero",
+              "lemma": "crucero",
+              "en": "cruise ship"
+            },
+            {
+              "surface": "viajaba",
+              "lemma": "viajar",
+              "en": "was traveling"
+            }
+          ]
+        },
+        {
+          "es": "El personal del barco notó que ella no estaba en su cabina el martes por la mañana.",
+          "en": "The ship's staff noticed she was not in her cabin on Tuesday morning.",
+          "words": [
+            {
+              "surface": "personal",
+              "lemma": "personal",
+              "en": "staff"
+            },
+            {
+              "surface": "cabina",
+              "lemma": "cabina",
+              "en": "cabin"
+            }
+          ]
+        },
+        {
+          "es": "Se cree que ella cayó al océano en un área remota del Atlántico Norte, a unos 1.400 millas náuticas de Bermuda.",
+          "en": "It is believed she fell into the ocean in a remote area of the North Atlantic, about 1,400 nautical miles from Bermuda.",
+          "words": [
+            {
+              "surface": "cayó",
+              "lemma": "caer",
+              "en": "fell"
+            },
+            {
+              "surface": "océano",
+              "lemma": "océano",
+              "en": "ocean"
+            },
+            {
+              "surface": "remota",
+              "lemma": "remoto",
+              "en": "remote"
+            },
+            {
+              "surface": "náuticas",
+              "lemma": "náutico",
+              "en": "nautical"
+            }
+          ]
+        },
+        {
+          "es": "La Guardia Costera de Estados Unidos suspendió la búsqueda el miércoles porque creían que era muy difícil encontrarla viva.",
+          "en": "The US Coast Guard suspended the search on Wednesday because they believed it was very difficult to find her alive.",
+          "words": [
+            {
+              "surface": "Guardia Costera",
+              "lemma": "Guardia Costera",
+              "en": "Coast Guard"
+            },
+            {
+              "surface": "suspendió",
+              "lemma": "suspender",
+              "en": "suspended"
+            },
+            {
+              "surface": "búsqueda",
+              "lemma": "búsqueda",
+              "en": "search"
+            }
+          ]
+        },
+        {
+          "es": "El gobierno británico dijo que está apoyando a la familia de la mujer desaparecida.",
+          "en": "The British government said it is supporting the family of the missing woman.",
+          "words": [
+            {
+              "surface": "gobierno",
+              "lemma": "gobierno",
+              "en": "government"
+            },
+            {
+              "surface": "apoyando",
+              "lemma": "apoyar",
+              "en": "supporting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-2",
+      "headline": {
+        "es": "Las ventas de casas caen a su nivel más bajo en 16 años",
+        "en": "Home sales fall to their lowest level in 16 years"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years"
+      },
+      "sentences": [
+        {
+          "es": "En octubre, las ventas de casas bajaron a 3.75 millones, lo que representa una caída del 8.8 por ciento comparado con el año anterior.",
+          "en": "In October, home sales fell to 3.75 million, representing an 8.8 percent decline compared to the previous year.",
+          "words": [
+            {
+              "surface": "ventas",
+              "lemma": "venta",
+              "en": "sales"
+            },
+            {
+              "surface": "bajaron",
+              "lemma": "bajar",
+              "en": "fell"
+            },
+            {
+              "surface": "caída",
+              "lemma": "caída",
+              "en": "decline"
+            }
+          ]
+        },
+        {
+          "es": "Este es el nivel más bajo de ventas desde hace 16 años, lo que sorprendió a los expertos.",
+          "en": "This is the lowest sales level in 16 years, which surprised experts.",
+          "words": [
+            {
+              "surface": "nivel",
+              "lemma": "nivel",
+              "en": "level"
+            },
+            {
+              "surface": "sorprendió",
+              "lemma": "sorprender",
+              "en": "surprised"
+            },
+            {
+              "surface": "expertos",
+              "lemma": "experto",
+              "en": "experts"
+            }
+          ]
+        },
+        {
+          "es": "Las tasas de hipoteca están muy altas, llegando a 7.40 por ciento en octubre, lo que hace que las casas sean más caras de comprar.",
+          "en": "Mortgage rates are very high, reaching 7.40 percent in October, which makes houses more expensive to buy.",
+          "words": [
+            {
+              "surface": "tasas",
+              "lemma": "tasa",
+              "en": "rates"
+            },
+            {
+              "surface": "hipoteca",
+              "lemma": "hipoteca",
+              "en": "mortgage"
+            },
+            {
+              "surface": "llegando",
+              "lemma": "llegar",
+              "en": "reaching"
+            }
+          ]
+        },
+        {
+          "es": "La Reserva Federal subió las tasas de interés en septiembre para reducir la inflación en el país.",
+          "en": "The Federal Reserve raised interest rates in September to reduce inflation in the country.",
+          "words": [
+            {
+              "surface": "Reserva Federal",
+              "lemma": "Reserva Federal",
+              "en": "Federal Reserve"
+            },
+            {
+              "surface": "subió",
+              "lemma": "subir",
+              "en": "raised"
+            },
+            {
+              "surface": "tasas",
+              "lemma": "tasa",
+              "en": "rates"
+            },
+            {
+              "surface": "interés",
+              "lemma": "interés",
+              "en": "interest"
+            },
+            {
+              "surface": "inflación",
+              "lemma": "inflación",
+              "en": "inflation"
+            }
+          ]
+        },
+        {
+          "es": "Los expertos creen que la Reserva Federal podría subir las tasas otra vez en diciembre, lo que haría más lenta la venta de casas.",
+          "en": "Experts believe the Federal Reserve could raise rates again in December, which would slow down home sales further.",
+          "words": [
+            {
+              "surface": "expertos",
+              "lemma": "experto",
+              "en": "experts"
+            },
+            {
+              "surface": "creen",
+              "lemma": "creer",
+              "en": "believe"
+            },
+            {
+              "surface": "subir",
+              "lemma": "subir",
+              "en": "raise"
+            },
+            {
+              "surface": "haría",
+              "lemma": "hacer",
+              "en": "would make"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-3",
+      "headline": {
+        "es": "Enviados estadounidenses se reúnen con Zelensky después de hablar con Putin",
+        "en": "US envoys meet Zelensky after talks with Putin"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Los enviados estadounidenses Jared Kushner y Steve Witkoff hablaron con el presidente ruso Vladimir Putin en Moscú sobre cómo terminar la guerra en Ucrania.",
+          "en": "US envoys Jared Kushner and Steve Witkoff spoke with Russian President Vladimir Putin in Moscow about how to end the war in Ukraine.",
+          "words": [
+            {
+              "surface": "enviados",
+              "lemma": "enviado",
+              "en": "envoys"
+            },
+            {
+              "surface": "hablaron",
+              "lemma": "hablar",
+              "en": "spoke"
+            },
+            {
+              "surface": "presidente",
+              "lemma": "presidente",
+              "en": "president"
+            },
+            {
+              "surface": "guerra",
+              "lemma": "guerra",
+              "en": "war"
+            }
+          ]
+        },
+        {
+          "es": "Después de hablar con Putin, los enviados fueron a Dublín para reunirse con el presidente ucraniano Volodymyr Zelensky.",
+          "en": "After speaking with Putin, the envoys went to Dublin to meet with Ukrainian President Volodymyr Zelensky.",
+          "words": [
+            {
+              "surface": "fueron",
+              "lemma": "ir",
+              "en": "went"
+            },
+            {
+              "surface": "reunirse",
+              "lemma": "reunirse",
+              "en": "to meet"
+            },
+            {
+              "surface": "presidente",
+              "lemma": "presidente",
+              "en": "president"
+            }
+          ]
+        },
+        {
+          "es": "Zelensky dijo que Ucrania tiene problemas con el servicio de satélite Starlink, que es importante para el ejército ucraniano.",
+          "en": "Zelensky said that Ukraine is having problems with the Starlink satellite service, which is important for the Ukrainian military.",
+          "words": [
+            {
+              "surface": "problemas",
+              "lemma": "problema",
+              "en": "problems"
+            },
+            {
+              "surface": "servicio",
+              "lemma": "servicio",
+              "en": "service"
+            },
+            {
+              "surface": "satélite",
+              "lemma": "satélite",
+              "en": "satellite"
+            },
+            {
+              "surface": "ejército",
+              "lemma": "ejército",
+              "en": "military"
+            }
+          ]
+        },
+        {
+          "es": "Rusia quiere que se discuta la seguridad de Europa en las conversaciones de paz, pero Zelensky cree que esto es extraño.",
+          "en": "Russia wants European security to be discussed in the peace talks, but Zelensky thinks this is strange.",
+          "words": [
+            {
+              "surface": "quiere",
+              "lemma": "querer",
+              "en": "wants"
+            },
+            {
+              "surface": "discuta",
+              "lemma": "discutir",
+              "en": "be discussed"
+            },
+            {
+              "surface": "seguridad",
+              "lemma": "seguridad",
+              "en": "security"
+            },
+            {
+              "surface": "conversaciones",
+              "lemma": "conversación",
+              "en": "talks"
+            },
+            {
+              "surface": "extraño",
+              "lemma": "extraño",
+              "en": "strange"
+            }
+          ]
+        },
+        {
+          "es": "Los enviados dijeron que habrá otra ronda de conversaciones con Putin, y que Europa también participará en las próximas reuniones.",
+          "en": "The envoys said there will be another round of talks with Putin, and that Europe will also participate in the next meetings.",
+          "words": [
+            {
+              "surface": "enviados",
+              "lemma": "enviado",
+              "en": "envoys"
+            },
+            {
+              "surface": "dijeron",
+              "lemma": "decir",
+              "en": "said"
+            },
+            {
+              "surface": "habrá",
+              "lemma": "haber",
+              "en": "will be"
+            },
+            {
+              "surface": "ronda",
+              "lemma": "ronda",
+              "en": "round"
+            },
+            {
+              "surface": "conversaciones",
+              "lemma": "conversación",
+              "en": "talks"
+            },
+            {
+              "surface": "participará",
+              "lemma": "participar",
+              "en": "will participate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-4",
+      "headline": {
+        "es": "Aumentan las víctimas después del colapso de un edificio en Brooklyn",
+        "en": "Casualties rise after building collapse in Brooklyn"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos"
+      },
+      "sentences": [
+        {
+          "es": "Un edificio de tres pisos en el barrio de Flatbush en Brooklyn se derrumbó el miércoles.",
+          "en": "A three-story building in the Flatbush neighborhood of Brooklyn collapsed on Wednesday.",
+          "words": [
+            {
+              "surface": "edificio",
+              "lemma": "edificio",
+              "en": "building"
+            },
+            {
+              "surface": "pisos",
+              "lemma": "piso",
+              "en": "stories"
+            },
+            {
+              "surface": "barrio",
+              "lemma": "barrio",
+              "en": "neighborhood"
+            },
+            {
+              "surface": "derrumbó",
+              "lemma": "derrumbar",
+              "en": "collapsed"
+            }
+          ]
+        },
+        {
+          "es": "Seis personas murieron en el lugar del colapso y dos más murieron en el hospital.",
+          "en": "Six people died at the scene of the collapse and two more died in the hospital.",
+          "words": [
+            {
+              "surface": "personas",
+              "lemma": "persona",
+              "en": "people"
+            },
+            {
+              "surface": "murieron",
+              "lemma": "morir",
+              "en": "died"
+            },
+            {
+              "surface": "lugar",
+              "lemma": "lugar",
+              "en": "scene"
+            },
+            {
+              "surface": "colapso",
+              "lemma": "colapso",
+              "en": "collapse"
+            },
+            {
+              "surface": "hospital",
+              "lemma": "hospital",
+              "en": "hospital"
+            }
+          ]
+        },
+        {
+          "es": "Dieciocho personas más resultaron heridas en el derrumbe del edificio.",
+          "en": "Eighteen more people were injured in the building collapse.",
+          "words": [
+            {
+              "surface": "personas",
+              "lemma": "persona",
+              "en": "people"
+            },
+            {
+              "surface": "resultaron",
+              "lemma": "resultar",
+              "en": "were"
+            },
+            {
+              "surface": "heridas",
+              "lemma": "herido",
+              "en": "injured"
+            },
+            {
+              "surface": "derrumbe",
+              "lemma": "derrumbe",
+              "en": "collapse"
+            }
+          ]
+        },
+        {
+          "es": "Los bomberos y trabajadores de emergencia continúan buscando a más personas en el sitio del colapso.",
+          "en": "Firefighters and emergency workers continue searching for more people at the collapse site.",
+          "words": [
+            {
+              "surface": "bomberos",
+              "lemma": "bombero",
+              "en": "firefighters"
+            },
+            {
+              "surface": "trabajadores",
+              "lemma": "trabajador",
+              "en": "workers"
+            },
+            {
+              "surface": "emergencia",
+              "lemma": "emergencia",
+              "en": "emergency"
+            },
+            {
+              "surface": "continúan",
+              "lemma": "continuar",
+              "en": "continue"
+            },
+            {
+              "surface": "buscando",
+              "lemma": "buscar",
+              "en": "searching"
+            }
+          ]
+        },
+        {
+          "es": "Más de 250 bomberos y trabajadores de emergencia están trabajando en el lugar para ayudar a las víctimas.",
+          "en": "More than 250 firefighters and emergency workers are working at the site to help the victims.",
+          "words": [
+            {
+              "surface": "bomberos",
+              "lemma": "bombero",
+              "en": "firefighters"
+            },
+            {
+              "surface": "trabajadores",
+              "lemma": "trabajador",
+              "en": "workers"
+            },
+            {
+              "surface": "emergencia",
+              "lemma": "emergencia",
+              "en": "emergency"
+            },
+            {
+              "surface": "trabajando",
+              "lemma": "trabajar",
+              "en": "working"
+            },
+            {
+              "surface": "víctimas",
+              "lemma": "víctima",
+              "en": "victims"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-5",
+      "headline": {
+        "es": "Un barco de guerra ruso es atacado por un dron ucraniano en el Golfo de Finlandia",
+        "en": "Russian warship hit by Ukrainian drone in Gulf of Finland"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un barco de guerra ruso llamado Naro-Fominsk fue atacado por un dron ucraniano en el Golfo de Finlandia el miércoles.",
+          "en": "A Russian warship called Naro-Fominsk was attacked by a Ukrainian drone in the Gulf of Finland on Wednesday.",
+          "words": [
+            {
+              "surface": "barco",
+              "lemma": "barco",
+              "en": "ship"
+            },
+            {
+              "surface": "guerra",
+              "lemma": "guerra",
+              "en": "war"
+            },
+            {
+              "surface": "atacado",
+              "lemma": "atacar",
+              "en": "attacked"
+            },
+            {
+              "surface": "dron",
+              "lemma": "dron",
+              "en": "drone"
+            }
+          ]
+        },
+        {
+          "es": "El ataque fue parte de una operación más grande contra un depósito de petróleo ruso llamado Ust-Luga en la costa del Mar Báltico.",
+          "en": "The attack was part of a larger operation against a Russian oil depot called Ust-Luga on the Baltic coast.",
+          "words": [
+            {
+              "surface": "ataque",
+              "lemma": "ataque",
+              "en": "attack"
+            },
+            {
+              "surface": "operación",
+              "lemma": "operación",
+              "en": "operation"
+            },
+            {
+              "surface": "depósito",
+              "lemma": "depósito",
+              "en": "depot"
+            },
+            {
+              "surface": "petróleo",
+              "lemma": "petróleo",
+              "en": "oil"
+            },
+            {
+              "surface": "costa",
+              "lemma": "costa",
+              "en": "coast"
+            }
+          ]
+        },
+        {
+          "es": "Este es el primer ataque de drones ucranianos contra un barco ruso en el Golfo de Finlandia, un área abierta al tráfico marítimo civil.",
+          "en": "This is the first attack by Ukrainian drones against a Russian ship in the Gulf of Finland, an area open to civilian maritime traffic.",
+          "words": [
+            {
+              "surface": "primer",
+              "lemma": "primero",
+              "en": "first"
+            },
+            {
+              "surface": "ataque",
+              "lemma": "ataque",
+              "en": "attack"
+            },
+            {
+              "surface": "drones",
+              "lemma": "dron",
+              "en": "drones"
+            },
+            {
+              "surface": "barco",
+              "lemma": "barco",
+              "en": "ship"
+            },
+            {
+              "surface": "área",
+              "lemma": "área",
+              "en": "area"
+            },
+            {
+              "surface": "abierta",
+              "lemma": "abierto",
+              "en": "open"
+            },
+            {
+              "surface": "tráfico",
+              "lemma": "tráfico",
+              "en": "traffic"
+            },
+            {
+              "surface": "marítimo",
+              "lemma": "marítimo",
+              "en": "maritime"
+            }
+          ]
+        },
+        {
+          "es": "Finlandia confirmó el ataque pero dijo que la situación en el Mar Báltico sigue siendo segura para los barcos civiles.",
+          "en": "Finland confirmed the attack but said that the situation in the Baltic Sea remains safe for civilian ships.",
+          "words": [
+            {
+              "surface": "confirmó",
+              "lemma": "confirmar",
+              "en": "confirmed"
+            },
+            {
+              "surface": "ataque",
+              "lemma": "ataque",
+              "en": "attack"
+            },
+            {
+              "surface": "situación",
+              "lemma": "situación",
+              "en": "situation"
+            },
+            {
+              "surface": "sigue",
+              "lemma": "seguir",
+              "en": "remains"
+            },
+            {
+              "surface": "segura",
+              "lemma": "seguro",
+              "en": "safe"
+            },
+            {
+              "surface": "barcos",
+              "lemma": "barco",
+              "en": "ships"
+            }
+          ]
+        },
+        {
+          "es": "Los expertos militares creen que Ucrania aprovechó una oportunidad para atacar, pero que esto no es una escalada seria del conflicto.",
+          "en": "Military experts believe that Ukraine took an opportunity to attack, but that this is not a serious escalation of the conflict.",
+          "words": [
+            {
+              "surface": "expertos",
+              "lemma": "experto",
+              "en": "experts"
+            },
+            {
+              "surface": "militares",
+              "lemma": "militar",
+              "en": "military"
+            },
+            {
+              "surface": "creen",
+              "lemma": "creer",
+              "en": "believe"
+            },
+            {
+              "surface": "aprovechó",
+              "lemma": "aprovechar",
+              "en": "took"
+            },
+            {
+              "surface": "oportunidad",
+              "lemma": "oportunidad",
+              "en": "opportunity"
+            },
+            {
+              "surface": "atacar",
+              "lemma": "atacar",
+              "en": "attack"
+            },
+            {
+              "surface": "escalada",
+              "lemma": "escalada",
+              "en": "escalation"
+            },
+            {
+              "surface": "conflicto",
+              "lemma": "conflicto",
+              "en": "conflict"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-6",
+      "headline": {
+        "es": "Los demócratas quieren detener los proyectos de construcción de Trump en Washington",
+        "en": "Democrats want to stop Trump's construction projects in Washington"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight"
+      },
+      "sentences": [
+        {
+          "es": "El presidente Trump está haciendo muchos cambios en Washington, D.C., incluyendo proyectos de construcción grandes y costosos.",
+          "en": "President Trump is making many changes in Washington, D.C., including large and expensive construction projects.",
+          "words": [
+            {
+              "surface": "presidente",
+              "lemma": "presidente",
+              "en": "president"
+            },
+            {
+              "surface": "haciendo",
+              "lemma": "hacer",
+              "en": "making"
+            },
+            {
+              "surface": "cambios",
+              "lemma": "cambio",
+              "en": "changes"
+            },
+            {
+              "surface": "proyectos",
+              "lemma": "proyecto",
+              "en": "projects"
+            },
+            {
+              "surface": "construcción",
+              "lemma": "construcción",
+              "en": "construction"
+            }
+          ]
+        },
+        {
+          "es": "Trump ha cortado cientos de árboles en el Parque East Potomac y demolió el ala este de la Casa Blanca para hacer espacio para un salón de baile.",
+          "en": "Trump has cut down hundreds of trees in East Potomac Park and demolished the East Wing of the White House to make space for a ballroom.",
+          "words": [
+            {
+              "surface": "cortado",
+              "lemma": "cortar",
+              "en": "cut"
+            },
+            {
+              "surface": "árboles",
+              "lemma": "árbol",
+              "en": "trees"
+            },
+            {
+              "surface": "parque",
+              "lemma": "parque",
+              "en": "park"
+            },
+            {
+              "surface": "demolió",
+              "lemma": "demoler",
+              "en": "demolished"
+            },
+            {
+              "surface": "ala",
+              "lemma": "ala",
+              "en": "wing"
+            },
+            {
+              "surface": "Casa Blanca",
+              "lemma": "Casa Blanca",
+              "en": "White House"
+            },
+            {
+              "surface": "espacio",
+              "lemma": "espacio",
+              "en": "space"
+            },
+            {
+              "surface": "salón",
+              "lemma": "salón",
+              "en": "ballroom"
+            }
+          ]
+        },
+        {
+          "es": "Trump está usando un enfoque especial para estos proyectos, poniendo a sus aliados en comisiones regulatorias y evitando al Congreso.",
+          "en": "Trump is using a special approach for these projects, putting his allies in regulatory commissions and avoiding Congress.",
+          "words": [
+            {
+              "surface": "enfoque",
+              "lemma": "enfoque",
+              "en": "approach"
+            },
+            {
+              "surface": "proyectos",
+              "lemma": "proyecto",
+              "en": "projects"
+            },
+            {
+              "surface": "poniendo",
+              "lemma": "poner",
+              "en": "putting"
+            },
+            {
+              "surface": "aliados",
+              "lemma": "aliado",
+              "en": "allies"
+            },
+            {
+              "surface": "comisiones",
+              "lemma": "comisión",
+              "en": "commissions"
+            },
+            {
+              "surface": "regulatorias",
+              "lemma": "regulatorio",
+              "en": "regulatory"
+            },
+            {
+              "surface": "evitando",
+              "lemma": "evitar",
+              "en": "avoiding"
+            },
+            {
+              "surface": "Congreso",
+              "lemma": "Congreso",
+              "en": "Congress"
+            }
+          ]
+        },
+        {
+          "es": "Los demócratas dicen que van a usar su poder en el Congreso para detener estos proyectos que llaman \"proyectos de vanidad\".",
+          "en": "Democrats say they will use their power in Congress to stop these projects that they call \"vanity projects.\"",
+          "words": [
+            {
+              "surface": "demócratas",
+              "lemma": "demócrata",
+              "en": "democrats"
+            },
+            {
+              "surface": "dicen",
+              "lemma": "decir",
+              "en": "say"
+            },
+            {
+              "surface": "poder",
+              "lemma": "poder",
+              "en": "power"
+            },
+            {
+              "surface": "Congreso",
+              "lemma": "Congreso",
+              "en": "Congress"
+            },
+            {
+              "surface": "detener",
+              "lemma": "detener",
+              "en": "stop"
+            },
+            {
+              "surface": "proyectos",
+              "lemma": "proyecto",
+              "en": "projects"
+            },
+            {
+              "surface": "vanidad",
+              "lemma": "vanidad",
+              "en": "vanity"
+            }
+          ]
+        },
+        {
+          "es": "Una forma importante que tienen los demócratas para detener estos proyectos es controlando el dinero que el gobierno gasta en ellos.",
+          "en": "An important way that Democrats have to stop these projects is by controlling the money that the government spends on them.",
+          "words": [
+            {
+              "surface": "forma",
+              "lemma": "forma",
+              "en": "way"
+            },
+            {
+              "surface": "demócratas",
+              "lemma": "demócrata",
+              "en": "democrats"
+            },
+            {
+              "surface": "detener",
+              "lemma": "detener",
+              "en": "stop"
+            },
+            {
+              "surface": "proyectos",
+              "lemma": "proyecto",
+              "en": "projects"
+            },
+            {
+              "surface": "controlando",
+              "lemma": "controlar",
+              "en": "controlling"
+            },
+            {
+              "surface": "dinero",
+              "lemma": "dinero",
+              "en": "money"
+            },
+            {
+              "surface": "gobierno",
+              "lemma": "gobierno",
+              "en": "government"
+            },
+            {
+              "surface": "gasta",
+              "lemma": "gastar",
+              "en": "spends"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
