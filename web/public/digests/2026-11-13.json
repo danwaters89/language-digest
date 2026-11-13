@@ -1,0 +1,526 @@
+{
+  "date": "2026-11-13",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-13T21:52:47.274Z",
+  "stories": [
+    {
+      "id": "2026-11-13-1",
+      "headline": {
+        "es": "Microsoft pide disculpas por apagón global que afectó a millones",
+        "en": "Microsoft apologizes for global outage affecting millions"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Microsoft tuvo un problema técnico grande que afectó sus servicios como Outlook y Teams en casi 24 horas.",
+          "en": "Microsoft had a major technical problem that affected its services like Outlook and Teams for almost 24 hours.",
+          "words": [
+            {
+              "surface": "problema técnico",
+              "lemma": "problema técnico",
+              "en": "technical problem"
+            }
+          ]
+        },
+        {
+          "es": "El apagón impactó a más de 70 países y afectó a gobiernos, hospitales, cortes y negocios en todo el mundo.",
+          "en": "The outage impacted more than 70 countries and affected governments, hospitals, courts and businesses around the world.",
+          "words": [
+            {
+              "surface": "apagón",
+              "lemma": "apagón",
+              "en": "outage"
+            }
+          ]
+        },
+        {
+          "es": "Microsoft dijo que el problema fue causado por una actualización de capacidad de red y no por un ataque cibernético.",
+          "en": "Microsoft said the problem was caused by a network capacity upgrade and not by a cyber attack.",
+          "words": [
+            {
+              "surface": "actualización",
+              "lemma": "actualización",
+              "en": "upgrade"
+            },
+            {
+              "surface": "capacidad",
+              "lemma": "capacidad",
+              "en": "capacity"
+            },
+            {
+              "surface": "ataque cibernético",
+              "lemma": "ataque cibernético",
+              "en": "cyber attack"
+            }
+          ]
+        },
+        {
+          "es": "La compañía restauró los servicios lentamente porque el problema era muy grande y querían asegurar que todo funcionara bien.",
+          "en": "The company restored services slowly because the problem was very large and they wanted to ensure everything worked properly.",
+          "words": [
+            {
+              "surface": "restauró",
+              "lemma": "restaurar",
+              "en": "restored"
+            }
+          ]
+        },
+        {
+          "es": "Los expertos dijeron que este evento mostró cuánto dependen los negocios de un pequeño grupo de grandes compañías de tecnología.",
+          "en": "Experts said this event showed how much businesses depend on a small group of large technology companies.",
+          "words": [
+            {
+              "surface": "expertos",
+              "lemma": "experto",
+              "en": "experts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-2",
+      "headline": {
+        "es": "Trump mantiene presión económica sobre Irán sin hacer un acuerdo",
+        "en": "Trump maintains economic pressure on Iran without making a deal"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+      },
+      "sentences": [
+        {
+          "es": "El presidente Trump dijo que no necesita hacer un acuerdo con Irán porque Estados Unidos tiene congelado el dinero de Irán en cuentas del extranjero.",
+          "en": "President Trump said he does not need to make a deal with Iran because the United States has frozen Iran's money in foreign accounts.",
+          "words": [
+            {
+              "surface": "congelado",
+              "lemma": "congelado",
+              "en": "frozen"
+            }
+          ]
+        },
+        {
+          "es": "Trump cambió su estrategia y ahora prefiere mantener la situación actual con presión económica en lugar de hacer ataques militares rápidos.",
+          "en": "Trump changed his strategy and now prefers to maintain the current situation with economic pressure instead of making quick military attacks.",
+          "words": [
+            {
+              "surface": "estrategia",
+              "lemma": "estrategia",
+              "en": "strategy"
+            },
+            {
+              "surface": "presión económica",
+              "lemma": "presión económica",
+              "en": "economic pressure"
+            }
+          ]
+        },
+        {
+          "es": "Irán controla el Estrecho de Ormuz y exige permiso para que los barcos pasen, lo que causa problemas para el comercio de petróleo y otros productos.",
+          "en": "Iran controls the Strait of Hormuz and requires permission for ships to pass, which causes problems for oil and other product trade.",
+          "words": [
+            {
+              "surface": "Estrecho de Ormuz",
+              "lemma": "Estrecho de Ormuz",
+              "en": "Strait of Hormuz"
+            },
+            {
+              "surface": "exige",
+              "lemma": "exigir",
+              "en": "requires"
+            }
+          ]
+        },
+        {
+          "es": "Las sanciones económicas de Estados Unidos han cortado a Irán de al menos 25 mil millones de dólares en ingresos de petróleo.",
+          "en": "U.S. economic sanctions have cut Iran off from at least 25 billion dollars in oil revenue.",
+          "words": [
+            {
+              "surface": "sanciones",
+              "lemma": "sanción",
+              "en": "sanctions"
+            },
+            {
+              "surface": "ingresos",
+              "lemma": "ingreso",
+              "en": "revenue"
+            }
+          ]
+        },
+        {
+          "es": "La guerra en Yemen entre Arabia Saudita y los Hutíes continúa, causando miles de muertes y desplazamientos de personas.",
+          "en": "The war in Yemen between Saudi Arabia and the Houthis continues, causing thousands of deaths and displacement of people.",
+          "words": [
+            {
+              "surface": "desplazamientos",
+              "lemma": "desplazamiento",
+              "en": "displacement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-3",
+      "headline": {
+        "es": "Funcionarios estadounidenses se culpan mutuamente por escándalo de chips de Nvidia",
+        "en": "U.S. officials blame each other over Nvidia chip scandal"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El secretario del Tesoro Scott Bessent acusó al Departamento de Comercio de no controlar bien la exportación de chips de inteligencia artificial avanzados a China.",
+          "en": "Treasury Secretary Scott Bessent accused the Commerce Department of not properly controlling the export of advanced artificial intelligence chips to China.",
+          "words": [
+            {
+              "surface": "secretario",
+              "lemma": "secretario",
+              "en": "secretary"
+            },
+            {
+              "surface": "Tesoro",
+              "lemma": "tesoro",
+              "en": "treasury"
+            },
+            {
+              "surface": "acusó",
+              "lemma": "acusar",
+              "en": "accused"
+            },
+            {
+              "surface": "controlar",
+              "lemma": "controlar",
+              "en": "control"
+            }
+          ]
+        },
+        {
+          "es": "El CEO de Nvidia, Jensen Huang, fue removido de su puesto después de que se supo que tuvo una relación con una mujer que posiblemente era una espía china.",
+          "en": "Nvidia CEO Jensen Huang was removed from his position after it became known that he had a relationship with a woman who was possibly a Chinese spy.",
+          "words": [
+            {
+              "surface": "CEO",
+              "lemma": "CEO",
+              "en": "CEO"
+            },
+            {
+              "surface": "removido",
+              "lemma": "remover",
+              "en": "removed"
+            },
+            {
+              "surface": "espía",
+              "lemma": "espía",
+              "en": "spy"
+            }
+          ]
+        },
+        {
+          "es": "Una compañía llamada Megaspeed fue investigada por intentar enviar chips de Nvidia a China ilegalmente, pero no estaba en la lista de empresas prohibidas.",
+          "en": "A company called Megaspeed was investigated for attempting to illegally send Nvidia chips to China, but was not on the list of prohibited companies.",
+          "words": [
+            {
+              "surface": "investigada",
+              "lemma": "investigar",
+              "en": "investigated"
+            },
+            {
+              "surface": "ilegalmente",
+              "lemma": "ilegalmente",
+              "en": "illegally"
+            }
+          ]
+        },
+        {
+          "es": "Bessent también culpó a Nvidia de no verificar bien a sus clientes y de no evitar que los chips llegaran a China.",
+          "en": "Bessent also blamed Nvidia for not properly verifying its clients and for not preventing chips from reaching China.",
+          "words": [
+            {
+              "surface": "verificar",
+              "lemma": "verificar",
+              "en": "verify"
+            }
+          ]
+        },
+        {
+          "es": "El Departamento de Comercio fue llamado a testificar ante el Senado sobre su papel en permitir estas exportaciones de chips avanzados.",
+          "en": "The Commerce Department was called to testify before the Senate about its role in allowing these advanced chip exports.",
+          "words": [
+            {
+              "surface": "testificar",
+              "lemma": "testificar",
+              "en": "testify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-4",
+      "headline": {
+        "es": "La administración Trump continúa buscando votantes no ciudadanos",
+        "en": "Trump administration continues searching for noncitizen voters"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california"
+      },
+      "sentences": [
+        {
+          "es": "Antes de las elecciones, la administración Trump presionó a los funcionarios electorales para encontrar y eliminar a votantes no ciudadanos de las listas de votación.",
+          "en": "Before the elections, the Trump administration pressured election officials to find and remove noncitizen voters from voting lists.",
+          "words": [
+            {
+              "surface": "presionó",
+              "lemma": "presionar",
+              "en": "pressured"
+            },
+            {
+              "surface": "funcionarios electorales",
+              "lemma": "funcionario electoral",
+              "en": "election officials"
+            }
+          ]
+        },
+        {
+          "es": "El gobierno federal acusó que encontró 20,000 votantes no ciudadanos en California, pero los números eran mucho más altos de lo que realmente existía.",
+          "en": "The federal government claimed it found 20,000 noncitizen voters in California, but the numbers were much higher than what actually existed.",
+          "words": [
+            {
+              "surface": "acusó",
+              "lemma": "acusar",
+              "en": "claimed"
+            }
+          ]
+        },
+        {
+          "es": "Los jueces federales rechazaron los intentos del Departamento de Justicia de obligar a los estados a remover votantes de sus listas.",
+          "en": "Federal judges rejected the Justice Department's attempts to force states to remove voters from their lists.",
+          "words": [
+            {
+              "surface": "rechazaron",
+              "lemma": "rechazar",
+              "en": "rejected"
+            },
+            {
+              "surface": "obligar",
+              "lemma": "obligar",
+              "en": "force"
+            }
+          ]
+        },
+        {
+          "es": "El Departamento de Justicia sigue investigando casos criminales de votación no ciudadana y envió citaciones a varios condados.",
+          "en": "The Justice Department continues investigating criminal cases of noncitizen voting and sent subpoenas to several counties.",
+          "words": [
+            {
+              "surface": "citaciones",
+              "lemma": "citación",
+              "en": "subpoenas"
+            }
+          ]
+        },
+        {
+          "es": "Los funcionarios electorales recibieron advertencias de que podrían ir a la cárcel si contaban votos de personas identificadas como no ciudadanas.",
+          "en": "Election officials received warnings that they could go to jail if they counted votes from people identified as noncitizens.",
+          "words": [
+            {
+              "surface": "advertencias",
+              "lemma": "advertencia",
+              "en": "warnings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-5",
+      "headline": {
+        "es": "Senador demócrata desafía a Schumer por liderazgo del Senado",
+        "en": "Democratic senator challenges Schumer for Senate leadership"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El senador Chris Van Hollen anunció que quiere ser el nuevo líder demócrata en el Senado en lugar de Chuck Schumer.",
+          "en": "Senator Chris Van Hollen announced that he wants to be the new Democratic leader in the Senate instead of Chuck Schumer.",
+          "words": [
+            {
+              "surface": "anunció",
+              "lemma": "anunciar",
+              "en": "announced"
+            },
+            {
+              "surface": "líder",
+              "lemma": "líder",
+              "en": "leader"
+            }
+          ]
+        },
+        {
+          "es": "Van Hollen dijo que los estadounidenses votaron por cambio y que el partido necesita un nuevo liderazgo para entregar resultados.",
+          "en": "Van Hollen said that Americans voted for change and that the party needs new leadership to deliver results.",
+          "words": [
+            {
+              "surface": "liderazgo",
+              "lemma": "liderazgo",
+              "en": "leadership"
+            },
+            {
+              "surface": "entregar",
+              "lemma": "entregar",
+              "en": "deliver"
+            }
+          ]
+        },
+        {
+          "es": "Schumer respondió que tiene los votos necesarios para continuar como líder demócrata y está orgulloso de lo que han logrado.",
+          "en": "Schumer responded that he has the necessary votes to continue as Democratic leader and is proud of what they have accomplished.",
+          "words": [
+            {
+              "surface": "respondió",
+              "lemma": "responder",
+              "en": "responded"
+            },
+            {
+              "surface": "orgulloso",
+              "lemma": "orgulloso",
+              "en": "proud"
+            }
+          ]
+        },
+        {
+          "es": "El senador Bernie Sanders y otros demócratas de izquierda apoyan a Van Hollen porque quieren cambios en el partido.",
+          "en": "Senator Bernie Sanders and other left-wing Democrats support Van Hollen because they want changes in the party.",
+          "words": [
+            {
+              "surface": "apoyan",
+              "lemma": "apoyar",
+              "en": "support"
+            }
+          ]
+        },
+        {
+          "es": "La votación para elegir al nuevo líder demócrata ocurrirá en diciembre y el ganador comenzará su puesto el 4 de enero.",
+          "en": "The vote to choose the new Democratic leader will occur in December and the winner will begin his position on January 4.",
+          "words": [
+            {
+              "surface": "votación",
+              "lemma": "votación",
+              "en": "vote"
+            },
+            {
+              "surface": "ganador",
+              "lemma": "ganador",
+              "en": "winner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-6",
+      "headline": {
+        "es": "Europa se arrepiente de depender de la defensa estadounidense",
+        "en": "Europe regrets relying on U.S. defense"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense"
+      },
+      "sentences": [
+        {
+          "es": "Los países europeos compraron muchos sistemas de defensa aérea estadounidenses como el Patriot para protegerse de Rusia.",
+          "en": "European countries bought many U.S. air defense systems like the Patriot to protect themselves from Russia.",
+          "words": [
+            {
+              "surface": "sistemas de defensa aérea",
+              "lemma": "sistema de defensa aérea",
+              "en": "air defense systems"
+            }
+          ]
+        },
+        {
+          "es": "Ahora hay un problema grande: no hay suficientes misiles disponibles porque la producción es lenta y Estados Unidos necesita los misiles para su propia guerra.",
+          "en": "Now there is a big problem: there are not enough missiles available because production is slow and the United States needs the missiles for its own war.",
+          "words": [
+            {
+              "surface": "misiles",
+              "lemma": "misil",
+              "en": "missiles"
+            },
+            {
+              "surface": "producción",
+              "lemma": "producción",
+              "en": "production"
+            }
+          ]
+        },
+        {
+          "es": "Los países europeos están atrapados porque compraron equipos estadounidenses y no pueden cambiar a otros proveedores fácilmente.",
+          "en": "European countries are trapped because they bought U.S. equipment and cannot easily switch to other suppliers.",
+          "words": [
+            {
+              "surface": "atrapados",
+              "lemma": "atrapado",
+              "en": "trapped"
+            },
+            {
+              "surface": "proveedores",
+              "lemma": "proveedor",
+              "en": "suppliers"
+            }
+          ]
+        },
+        {
+          "es": "Los expertos dicen que en 2022 Europa perdió la oportunidad de invertir en sistemas de defensa propios en lugar de depender de Estados Unidos.",
+          "en": "Experts say that in 2022 Europe missed the opportunity to invest in its own defense systems instead of relying on the United States.",
+          "words": [
+            {
+              "surface": "perdió",
+              "lemma": "perder",
+              "en": "missed"
+            },
+            {
+              "surface": "oportunidad",
+              "lemma": "oportunidad",
+              "en": "opportunity"
+            },
+            {
+              "surface": "invertir",
+              "lemma": "invertir",
+              "en": "invest"
+            }
+          ]
+        },
+        {
+          "es": "Este problema muestra que Europa necesita ser más independiente de Estados Unidos para su propia seguridad en el futuro.",
+          "en": "This problem shows that Europe needs to be more independent from the United States for its own security in the future.",
+          "words": [
+            {
+              "surface": "independiente",
+              "lemma": "independiente",
+              "en": "independent"
+            },
+            {
+              "surface": "seguridad",
+              "lemma": "seguridad",
+              "en": "security"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
