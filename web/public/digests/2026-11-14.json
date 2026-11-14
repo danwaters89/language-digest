@@ -1,0 +1,451 @@
+{
+  "date": "2026-11-14",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-14T20:33:07.174Z",
+  "stories": [
+    {
+      "id": "2026-11-14-1",
+      "headline": {
+        "es": "Rescatan a todos los pasajeros de un barco de crucero en Nueva Orleans",
+        "en": "All passengers rescued from cruise ship in New Orleans"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un barco de crucero llamado American Heritage chocó con un barco de carga en el río Misisipi cerca de Nueva Orleans.",
+          "en": "A cruise ship called American Heritage collided with a cargo ship in the Mississippi River near New Orleans.",
+          "words": [
+            {
+              "surface": "chocó",
+              "lemma": "chocar",
+              "en": "collided"
+            }
+          ]
+        },
+        {
+          "es": "El barco se volcó en el agua y aproximadamente 130 pasajeros tuvieron que escapar rápidamente.",
+          "en": "The ship capsized in the water and approximately 130 passengers had to escape quickly.",
+          "words": [
+            {
+              "surface": "volcó",
+              "lemma": "volcarse",
+              "en": "capsized"
+            }
+          ]
+        },
+        {
+          "es": "Los rescatistas, incluyendo policías y operadores de remolcadores, ayudaron a todos los pasajeros a salir del barco.",
+          "en": "Rescuers, including police and tugboat operators, helped all passengers get off the ship.",
+          "words": [
+            {
+              "surface": "rescatistas",
+              "lemma": "rescatista",
+              "en": "rescuers"
+            },
+            {
+              "surface": "remolcadores",
+              "lemma": "remolcador",
+              "en": "tugboat operators"
+            }
+          ]
+        },
+        {
+          "es": "Treinta y dos personas fueron hospitalizadas con lesiones no graves, pero nadie desapareció.",
+          "en": "Thirty-two people were hospitalized with non-critical injuries, but no one went missing.",
+          "words": [
+            {
+              "surface": "lesiones",
+              "lemma": "lesión",
+              "en": "injuries"
+            }
+          ]
+        },
+        {
+          "es": "Los oficiales llamaron al rescate un \"milagro en el Misisipi\" porque todos fueron salvados.",
+          "en": "Officials called the rescue a \"miracle on the Mississippi\" because everyone was saved.",
+          "words": [
+            {
+              "surface": "milagro",
+              "lemma": "milagro",
+              "en": "miracle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-2",
+      "headline": {
+        "es": "Encuentran una bomba cerca de una planta de etanol en Illinois",
+        "en": "Bomb found near ethanol plant in Illinois"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations"
+      },
+      "sentences": [
+        {
+          "es": "Una bomba fue descubierta el viernes en una planta de etanol llamada BioUrja Renewables en Peoria, Illinois.",
+          "en": "A bomb was discovered on Friday at an ethanol plant called BioUrja Renewables in Peoria, Illinois.",
+          "words": [
+            {
+              "surface": "descubierta",
+              "lemma": "descubrir",
+              "en": "discovered"
+            },
+            {
+              "surface": "bomba",
+              "lemma": "bomba",
+              "en": "bomb"
+            }
+          ]
+        },
+        {
+          "es": "Los oficiales hicieron que todas las personas dentro de una milla de la planta salieran de sus casas por seguridad.",
+          "en": "Officials made all people within one mile of the plant leave their homes for safety.",
+          "words": [
+            {
+              "surface": "seguridad",
+              "lemma": "seguridad",
+              "en": "safety"
+            }
+          ]
+        },
+        {
+          "es": "El dispositivo fue hecho seguro, pero los investigadores continuaron buscando otras bombas en la zona.",
+          "en": "The device was made safe, but investigators continued searching for other bombs in the area.",
+          "words": [
+            {
+              "surface": "dispositivo",
+              "lemma": "dispositivo",
+              "en": "device"
+            }
+          ]
+        },
+        {
+          "es": "La policía dijo que esta es una amenaza creíble porque la planta tiene químicos muy peligrosos.",
+          "en": "Police said this is a credible threat because the plant has very dangerous chemicals.",
+          "words": [
+            {
+              "surface": "amenaza",
+              "lemma": "amenaza",
+              "en": "threat"
+            },
+            {
+              "surface": "creíble",
+              "lemma": "creíble",
+              "en": "credible"
+            }
+          ]
+        },
+        {
+          "es": "Hasta ahora no hay arrestos y el FBI está investigando quién dejó la bomba.",
+          "en": "So far there are no arrests and the FBI is investigating who left the bomb.",
+          "words": [
+            {
+              "surface": "arrestos",
+              "lemma": "arresto",
+              "en": "arrests"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-3",
+      "headline": {
+        "es": "Un error en el trabajo de actualización causa caos en los vuelos estadounidenses",
+        "en": "Error in upgrade work causes chaos in US flights"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Una compañía llamada L3Harris estaba actualizando las líneas de telecomunicaciones viejas de la Administración Federal de Aviación.",
+          "en": "A company called L3Harris was upgrading old telecommunication lines for the Federal Aviation Administration.",
+          "words": [
+            {
+              "surface": "actualizando",
+              "lemma": "actualizar",
+              "en": "upgrading"
+            },
+            {
+              "surface": "telecomunicaciones",
+              "lemma": "telecomunicación",
+              "en": "telecommunications"
+            }
+          ]
+        },
+        {
+          "es": "Cuando instalaron un enrutador nuevo, este comenzó a enviar miles de intentos de conexión cada pocos segundos.",
+          "en": "When they installed a new router, it started sending thousands of connection attempts every few seconds.",
+          "words": [
+            {
+              "surface": "enrutador",
+              "lemma": "enrutador",
+              "en": "router"
+            }
+          ]
+        },
+        {
+          "es": "Este problema causó que diecisiete centros de control de tráfico aéreo tuvieran problemas con sus comunicaciones.",
+          "en": "This problem caused seventeen air traffic control centers to have problems with their communications.",
+          "words": [
+            {
+              "surface": "centros",
+              "lemma": "centro",
+              "en": "centers"
+            }
+          ]
+        },
+        {
+          "es": "Los oficiales detuvieron todos los vuelos en Estados Unidos por cuarenta y cinco minutos mientras buscaban el problema.",
+          "en": "Officials stopped all flights in the United States for forty-five minutes while they searched for the problem.",
+          "words": [
+            {
+              "surface": "detuvieron",
+              "lemma": "detener",
+              "en": "stopped"
+            }
+          ]
+        },
+        {
+          "es": "Miles de pasajeros fueron afectados y muchos vuelos fueron cancelados o retrasados durante el fin de semana.",
+          "en": "Thousands of passengers were affected and many flights were cancelled or delayed during the weekend.",
+          "words": [
+            {
+              "surface": "retrasados",
+              "lemma": "retrasado",
+              "en": "delayed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-4",
+      "headline": {
+        "es": "Los demócratas se reúnen para planificar el futuro después de sus victorias electorales",
+        "en": "Democrats meet to plan future after electoral victories"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference"
+      },
+      "sentences": [
+        {
+          "es": "Los demócratas se reunieron en Denver para una conferencia de dos días llamada \"What's Next\" para hablar sobre sus planes.",
+          "en": "Democrats gathered in Denver for a two-day conference called \"What's Next\" to discuss their plans.",
+          "words": [
+            {
+              "surface": "conferencia",
+              "lemma": "conferencia",
+              "en": "conference"
+            }
+          ]
+        },
+        {
+          "es": "Los líderes del partido dijeron que necesitan ganar la confianza de los votantes nuevamente en los próximos años.",
+          "en": "Party leaders said they need to win voters' trust again over the coming years.",
+          "words": [
+            {
+              "surface": "confianza",
+              "lemma": "confianza",
+              "en": "trust"
+            }
+          ]
+        },
+        {
+          "es": "Algunos demócratas pidieron invertir más dinero en el sur del país y en comunidades rurales.",
+          "en": "Some Democrats asked to invest more money in the South and in rural communities.",
+          "words": [
+            {
+              "surface": "invertir",
+              "lemma": "invertir",
+              "en": "invest"
+            }
+          ]
+        },
+        {
+          "es": "Los líderes discutieron si deben trabajar con el presidente Trump para lograr cambios rápidos.",
+          "en": "Leaders discussed whether they should work with President Trump to achieve quick changes.",
+          "words": [
+            {
+              "surface": "discutieron",
+              "lemma": "discutir",
+              "en": "discussed"
+            }
+          ]
+        },
+        {
+          "es": "Algunos políticos dijeron que sí trabajarían con Trump si eso ayuda a los votantes, pero otros tienen dudas.",
+          "en": "Some politicians said they would work with Trump if it helps voters, but others have doubts.",
+          "words": [
+            {
+              "surface": "dudas",
+              "lemma": "duda",
+              "en": "doubts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-5",
+      "headline": {
+        "es": "Estados Unidos sugiere que Ucrania ceda territorio para entrar a la OTAN",
+        "en": "US suggests Ukraine cede territory to join NATO"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Negociadores estadounidenses han sugerido que Ucrania se retire de la región de Donbas a cambio de entrar a la OTAN.",
+          "en": "US negotiators have suggested that Ukraine withdraw from the Donbas region in exchange for joining NATO.",
+          "words": [
+            {
+              "surface": "Donbas",
+              "lemma": "Donbas",
+              "en": "Donbas"
+            },
+            {
+              "surface": "OTAN",
+              "lemma": "OTAN",
+              "en": "NATO"
+            }
+          ]
+        },
+        {
+          "es": "El presidente Zelensky dijo que esta fue la primera vez que Estados Unidos planteó esta idea.",
+          "en": "President Zelensky said this was the first time the US raised this idea.",
+          "words": [
+            {
+              "surface": "planteó",
+              "lemma": "plantear",
+              "en": "raised"
+            }
+          ]
+        },
+        {
+          "es": "Ucrania ha rechazado siempre ceder territorio porque quiere mantener su soberanía.",
+          "en": "Ukraine has always rejected ceding territory because it wants to maintain its sovereignty.",
+          "words": [
+            {
+              "surface": "rechazado",
+              "lemma": "rechazar",
+              "en": "rejected"
+            },
+            {
+              "surface": "soberanía",
+              "lemma": "soberanía",
+              "en": "sovereignty"
+            }
+          ]
+        },
+        {
+          "es": "Zelensky dijo que si recibe una propuesta con garantías de seguridad, la pondría a votación popular.",
+          "en": "Zelensky said that if he receives a proposal with security guarantees, he would put it to a popular vote.",
+          "words": [
+            {
+              "surface": "garantías",
+              "lemma": "garantía",
+              "en": "guarantees"
+            }
+          ]
+        },
+        {
+          "es": "Rusia controla la mayor parte de Donbas y ha dicho que no aceptará que Ucrania entre a la OTAN.",
+          "en": "Russia controls most of Donbas and has said it will not accept Ukraine joining NATO.",
+          "words": [
+            {
+              "surface": "controla",
+              "lemma": "controlar",
+              "en": "controls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-6",
+      "headline": {
+        "es": "La FAA dice que un error en el equipo causó la parada de vuelos",
+        "en": "FAA says equipment error caused flight stoppage"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
+      },
+      "sentences": [
+        {
+          "es": "El viernes, una compañía contratista estaba actualizando líneas viejas de telecomunicaciones de la FAA.",
+          "en": "On Friday, a contractor company was upgrading old FAA telecommunication lines.",
+          "words": [
+            {
+              "surface": "contratista",
+              "lemma": "contratista",
+              "en": "contractor"
+            },
+            {
+              "surface": "actualizando",
+              "lemma": "actualizar",
+              "en": "upgrading"
+            }
+          ]
+        },
+        {
+          "es": "Casi veinticinco mil vuelos fueron retrasados y más de nueve mil fueron cancelados el viernes.",
+          "en": "Nearly twenty-five thousand flights were delayed and more than nine thousand were cancelled on Friday.",
+          "words": [
+            {
+              "surface": "retrasados",
+              "lemma": "retrasado",
+              "en": "delayed"
+            }
+          ]
+        },
+        {
+          "es": "Los investigadores aún no saben si fue un error del trabajador o si el equipo nuevo estaba defectuoso.",
+          "en": "Investigators still don't know if it was worker error or if the new equipment was faulty.",
+          "words": [
+            {
+              "surface": "defectuoso",
+              "lemma": "defectuoso",
+              "en": "faulty"
+            }
+          ]
+        },
+        {
+          "es": "El secretario de Transporte dijo que la FAA necesita dinero para modernizar sus sistemas viejos.",
+          "en": "The Transportation Secretary said the FAA needs money to modernize its old systems.",
+          "words": [
+            {
+              "surface": "modernizar",
+              "lemma": "modernizar",
+              "en": "modernize"
+            }
+          ]
+        },
+        {
+          "es": "Miles de pasajeros tuvieron que esperar horas en los aeropuertos o cambiar sus planes de viaje.",
+          "en": "Thousands of passengers had to wait hours at airports or change their travel plans.",
+          "words": [
+            {
+              "surface": "pasajeros",
+              "lemma": "pasajero",
+              "en": "passengers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
