@@ -1,0 +1,439 @@
+{
+  "date": "2026-11-15",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-15T20:56:52.106Z",
+  "stories": [
+    {
+      "id": "2026-11-15-1",
+      "headline": {
+        "es": "Zelensky pide a EE.UU. y Musk que levanten restricciones de Starlink",
+        "en": "Zelensky urges US and Musk to lift Starlink restrictions"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Ucrania usa Starlink para comunicaciones en la batalla y Starshield para interceptar misiles y drones.",
+          "en": "Ukraine uses Starlink for battlefield communications and Starshield to intercept missiles and drones.",
+          "words": [
+            {
+              "surface": "interceptar",
+              "lemma": "interceptar",
+              "en": "to intercept"
+            }
+          ]
+        },
+        {
+          "es": "En octubre se encontró que hay restricciones de velocidad en la red que afectan a los drones ucranianos.",
+          "en": "In October, speed restrictions on the network were found that affect Ukrainian drones.",
+          "words": [
+            {
+              "surface": "restricciones",
+              "lemma": "restricción",
+              "en": "restrictions"
+            }
+          ]
+        },
+        {
+          "es": "Los drones interceptores pierden conexión a 161 km/h y no pueden alcanzar los drones rusos más rápidos.",
+          "en": "Interceptor drones lose connection at 161 km/h and cannot catch up with faster Russian drones.",
+          "words": [
+            {
+              "surface": "interceptores",
+              "lemma": "interceptor",
+              "en": "interceptor"
+            },
+            {
+              "surface": "alcanzar",
+              "lemma": "alcanzar",
+              "en": "to catch up with"
+            }
+          ]
+        },
+        {
+          "es": "Zelensky dice que estas restricciones solo en territorios ocupados reconocen parcialmente esas áreas como no ucranianas.",
+          "en": "Zelensky says that these restrictions only in occupied territories partially recognize those areas as non-Ukrainian.",
+          "words": [
+            {
+              "surface": "ocupados",
+              "lemma": "ocupado",
+              "en": "occupied"
+            }
+          ]
+        },
+        {
+          "es": "Rusia atacó infraestructura de energía en varias regiones ucranianas durante el fin de semana.",
+          "en": "Russia attacked energy infrastructure in several Ukrainian regions over the weekend.",
+          "words": [
+            {
+              "surface": "infraestructura",
+              "lemma": "infraestructura",
+              "en": "infrastructure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-2",
+      "headline": {
+        "es": "Puerto de Nueva Orleans demanda al dueño del barco que chocó",
+        "en": "New Orleans port sues owner of ship involved in crash"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship"
+      },
+      "sentences": [
+        {
+          "es": "El puerto de Nueva Orleans presentó una demanda contra el dueño del barco tanque que chocó con un crucero el viernes.",
+          "en": "The New Orleans port filed a lawsuit against the owner of the tanker that crashed into a cruise ship on Friday.",
+          "words": [
+            {
+              "surface": "demanda",
+              "lemma": "demanda",
+              "en": "lawsuit"
+            },
+            {
+              "surface": "tanque",
+              "lemma": "tanque",
+              "en": "tanker"
+            }
+          ]
+        },
+        {
+          "es": "El barco Atlantic Asphalt chocó con el crucero American Heritage que estaba en el muelle con casi 200 personas a bordo.",
+          "en": "The Atlantic Asphalt tanker crashed into the American Heritage cruise ship that was docked with almost 200 people on board.",
+          "words": [
+            {
+              "surface": "muelle",
+              "lemma": "muelle",
+              "en": "dock"
+            }
+          ]
+        },
+        {
+          "es": "El choque dejó el crucero de lado y parcialmente sumergido, pero todos los pasajeros y la tripulación sobrevivieron.",
+          "en": "The crash left the cruise ship on its side and partially submerged, but all passengers and crew survived.",
+          "words": [
+            {
+              "surface": "sumergido",
+              "lemma": "sumergido",
+              "en": "submerged"
+            },
+            {
+              "surface": "tripulación",
+              "lemma": "tripulación",
+              "en": "crew"
+            }
+          ]
+        },
+        {
+          "es": "El puerto pide más de un millón de dólares en daños y el juez aprobó que se incaute el barco.",
+          "en": "The port is seeking more than one million dollars in damages and the judge approved seizing the ship.",
+          "words": [
+            {
+              "surface": "incaute",
+              "lemma": "incautar",
+              "en": "to seize"
+            }
+          ]
+        },
+        {
+          "es": "La Guardia Costera dice que el barco tanque tuvo un problema con la dirección y está investigando las causas del accidente.",
+          "en": "The Coast Guard says the tanker had a steering problem and is investigating the causes of the accident.",
+          "words": [
+            {
+              "surface": "dirección",
+              "lemma": "dirección",
+              "en": "steering"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-3",
+      "headline": {
+        "es": "Ronaldinho regresa a jugar a los 46 años",
+        "en": "Ronaldinho makes comeback at age 46"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "La leyenda brasileña Ronaldinho salió del retiro a los 46 años para jugar con el equipo Ravenna en Italia.",
+          "en": "Brazilian legend Ronaldinho came out of retirement at age 46 to play for the Ravenna team in Italy.",
+          "words": [
+            {
+              "surface": "retiro",
+              "lemma": "retiro",
+              "en": "retirement"
+            }
+          ]
+        },
+        {
+          "es": "Ronaldinho jugó desde el inicio del partido y ayudó en el primer gol del equipo.",
+          "en": "Ronaldinho started the game and helped with the team's first goal.",
+          "words": []
+        },
+        {
+          "es": "El exjugador de Barcelona hizo un pase que llevó al gol de Giulio Donati desde fuera del área.",
+          "en": "The former Barcelona player made a pass that led to Giulio Donati's goal from outside the box.",
+          "words": [
+            {
+              "surface": "exjugador",
+              "lemma": "exjugador",
+              "en": "former player"
+            }
+          ]
+        },
+        {
+          "es": "Ronaldinho fue sacado del partido en el descanso cuando el marcador estaba 1-0.",
+          "en": "Ronaldinho was substituted at halftime when the score was 1-0.",
+          "words": [
+            {
+              "surface": "descanso",
+              "lemma": "descanso",
+              "en": "halftime"
+            },
+            {
+              "surface": "marcador",
+              "lemma": "marcador",
+              "en": "score"
+            }
+          ]
+        },
+        {
+          "es": "El partido fue transmitido en varios países y el estadio estaba lleno de aficionados que querían ver al famoso jugador.",
+          "en": "The game was streamed in several countries and the stadium was full of fans who wanted to see the famous player.",
+          "words": [
+            {
+              "surface": "transmitido",
+              "lemma": "transmitido",
+              "en": "streamed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-4",
+      "headline": {
+        "es": "Leyes que protegen a mineros de polvo tóxico están en peligro",
+        "en": "Laws protecting miners from toxic dust are in danger"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back"
+      },
+      "sentences": [
+        {
+          "es": "Los mineros de carbón que respiran polvo de sílice tienen mayor riesgo de enfermedad pulmonar negra.",
+          "en": "Coal miners who breathe silica dust have a higher risk of black lung disease.",
+          "words": [
+            {
+              "surface": "sílice",
+              "lemma": "sílice",
+              "en": "silica"
+            },
+            {
+              "surface": "pulmonar",
+              "lemma": "pulmonar",
+              "en": "lung"
+            }
+          ]
+        },
+        {
+          "es": "Después de décadas de trabajo para proteger a los mineros, ahora hay nuevos esfuerzos para cambiar estas leyes.",
+          "en": "After decades of work to protect miners, there are now new efforts to change these laws.",
+          "words": []
+        },
+        {
+          "es": "Las nuevas regulaciones que controlan el polvo tóxico están en peligro de ser eliminadas.",
+          "en": "New regulations that control toxic dust are in danger of being rolled back.",
+          "words": [
+            {
+              "surface": "regulaciones",
+              "lemma": "regulación",
+              "en": "regulations"
+            }
+          ]
+        },
+        {
+          "es": "Los defensores de los mineros han trabajado durante muchos años para mejorar las condiciones de seguridad en las minas.",
+          "en": "Advocates for miners have worked for many years to improve safety conditions in mines.",
+          "words": [
+            {
+              "surface": "defensores",
+              "lemma": "defensor",
+              "en": "advocates"
+            }
+          ]
+        },
+        {
+          "es": "Es importante que se mantengan las leyes que protegen la salud de los trabajadores en la industria del carbón.",
+          "en": "It is important that laws protecting the health of workers in the coal industry are maintained.",
+          "words": [
+            {
+              "surface": "industria",
+              "lemma": "industria",
+              "en": "industry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-5",
+      "headline": {
+        "es": "Miles de vuelos cancelados dos días después de la paralización aérea",
+        "en": "Thousands of flights cancelled two days after national grounding"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Miles de vuelos fueron cancelados o retrasados el domingo porque el sistema de control de tráfico aéreo seguía recuperándose de una falla técnica.",
+          "en": "Thousands of flights were cancelled or delayed on Sunday as the air traffic control system continued to recover from a technical failure.",
+          "words": [
+            {
+              "surface": "retrasados",
+              "lemma": "retrasado",
+              "en": "delayed"
+            },
+            {
+              "surface": "tráfico",
+              "lemma": "tráfico",
+              "en": "traffic"
+            }
+          ]
+        },
+        {
+          "es": "El viernes, más de 3,500 aviones estaban en el aire cuando se anunció que todos los vuelos serían detenidos.",
+          "en": "On Friday, more than 3,500 planes were in the air when it was announced that all flights would be grounded.",
+          "words": [
+            {
+              "surface": "detenidos",
+              "lemma": "detenido",
+              "en": "grounded"
+            }
+          ]
+        },
+        {
+          "es": "Un router de computadora que fue instalado como parte de una actualización envió señales defectuosas a la red.",
+          "en": "A computer router that was installed as part of an upgrade sent faulty signals to the network.",
+          "words": [
+            {
+              "surface": "router",
+              "lemma": "router",
+              "en": "router"
+            },
+            {
+              "surface": "defectuosas",
+              "lemma": "defectuoso",
+              "en": "faulty"
+            }
+          ]
+        },
+        {
+          "es": "El secretario de Transporte dice que el sistema de control aéreo necesita una modernización completa porque tiene décadas de antigüedad.",
+          "en": "The Secretary of Transportation says the air control system needs a complete modernization because it is decades old.",
+          "words": [
+            {
+              "surface": "modernización",
+              "lemma": "modernización",
+              "en": "modernization"
+            }
+          ]
+        },
+        {
+          "es": "El presidente Trump pidió al Congreso que apruebe dinero para actualizar el sistema de control de tráfico aéreo del país.",
+          "en": "President Trump urged Congress to approve money to modernize the country's air traffic control system.",
+          "words": [
+            {
+              "surface": "apruebe",
+              "lemma": "aprobar",
+              "en": "to approve"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-6",
+      "headline": {
+        "es": "Nuevo México ofrece cuidado infantil gratuito para todas las familias",
+        "en": "New Mexico offers free childcare for all families"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families"
+      },
+      "sentences": [
+        {
+          "es": "Hace un año, Nuevo México se convirtió en el primer estado que ofrece cuidado infantil gratuito para todas las familias sin importar sus ingresos.",
+          "en": "A year ago, New Mexico became the first state to offer free childcare to all families regardless of income.",
+          "words": [
+            {
+              "surface": "ingresos",
+              "lemma": "ingreso",
+              "en": "income"
+            }
+          ]
+        },
+        {
+          "es": "Para calificar, las familias deben ser residentes de Nuevo México y los adultos deben estar trabajando, buscando trabajo o en la escuela.",
+          "en": "To qualify, families must be residents of New Mexico and adults must be working, looking for work, or in school.",
+          "words": [
+            {
+              "surface": "residentes",
+              "lemma": "residente",
+              "en": "residents"
+            }
+          ]
+        },
+        {
+          "es": "Muchos padres dicen que el programa ha sido transformador para sus vidas y familias.",
+          "en": "Many parents say the program has been transformative for their lives and families.",
+          "words": [
+            {
+              "surface": "transformador",
+              "lemma": "transformador",
+              "en": "transformative"
+            }
+          ]
+        },
+        {
+          "es": "El problema es que el estado no tiene suficiente capacidad y hay muchas familias esperando en listas de espera para el cuidado infantil.",
+          "en": "The problem is that the state does not have enough capacity and many families are waiting on lists for childcare.",
+          "words": [
+            {
+              "surface": "capacidad",
+              "lemma": "capacidad",
+              "en": "capacity"
+            }
+          ]
+        },
+        {
+          "es": "El estado necesita crear más lugares de cuidado infantil y contratar más trabajadores para que el programa funcione para todas las familias.",
+          "en": "The state needs to create more childcare spots and hire more workers so the program works for all families.",
+          "words": [
+            {
+              "surface": "lugares",
+              "lemma": "lugar",
+              "en": "spots"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
