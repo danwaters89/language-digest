@@ -1,0 +1,771 @@
+{
+  "date": "2026-11-17",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-17T23:25:51.092Z",
+  "stories": [
+    {
+      "id": "2026-11-17-1",
+      "headline": {
+        "es": "Nvidia rechaza reinstalar a su fundador como director ejecutivo",
+        "en": "Nvidia rejects reinstating its founder as CEO"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "La junta directiva de Nvidia anunció que no va a reinstalar a Jensen Huang como director ejecutivo de la empresa.",
+          "en": "Nvidia's board announced that it will not reinstate Jensen Huang as the company's chief executive officer.",
+          "words": [
+            {
+              "surface": "junta directiva",
+              "lemma": "junta directiva",
+              "en": "board of directors"
+            },
+            {
+              "surface": "reinstalar",
+              "lemma": "reinstalar",
+              "en": "to reinstate"
+            },
+            {
+              "surface": "director ejecutivo",
+              "lemma": "director ejecutivo",
+              "en": "chief executive officer"
+            }
+          ]
+        },
+        {
+          "es": "Las ganancias de Nvidia se duplicaron en comparación con el año anterior, y los ingresos de los centros de datos llegaron a 107 mil millones de dólares.",
+          "en": "Nvidia's profits doubled compared to the previous year, and data center revenues reached 107 billion dollars.",
+          "words": [
+            {
+              "surface": "ganancias",
+              "lemma": "ganancia",
+              "en": "profits"
+            },
+            {
+              "surface": "duplicaron",
+              "lemma": "duplicar",
+              "en": "doubled"
+            },
+            {
+              "surface": "centros de datos",
+              "lemma": "centro de datos",
+              "en": "data centers"
+            }
+          ]
+        },
+        {
+          "es": "La empresa espera que sus ingresos aumenten otro 13 por ciento en el próximo trimestre.",
+          "en": "The company expects its revenues to increase another 13 percent in the next quarter.",
+          "words": [
+            {
+              "surface": "trimestre",
+              "lemma": "trimestre",
+              "en": "quarter"
+            }
+          ]
+        },
+        {
+          "es": "Huang renunció voluntariamente después de admitir que no cumplió con los estándares de conducta de la empresa.",
+          "en": "Huang voluntarily resigned after admitting that he did not meet the company's conduct standards.",
+          "words": [
+            {
+              "surface": "renunció",
+              "lemma": "renunciar",
+              "en": "resigned"
+            },
+            {
+              "surface": "voluntariamente",
+              "lemma": "voluntariamente",
+              "en": "voluntarily"
+            },
+            {
+              "surface": "estándares",
+              "lemma": "estándar",
+              "en": "standards"
+            }
+          ]
+        },
+        {
+          "es": "Nvidia está buscando un nuevo director ejecutivo permanente con la ayuda de una empresa especializada en búsqueda de ejecutivos.",
+          "en": "Nvidia is searching for a new permanent CEO with the help of an executive search firm.",
+          "words": [
+            {
+              "surface": "empresa especializada",
+              "lemma": "empresa especializada",
+              "en": "specialized firm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-2",
+      "headline": {
+        "es": "Irán ataca objetivos militares estadounidenses en Bahréin por tercera vez",
+        "en": "Iran attacks US military targets in Bahrain for the third time"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
+      },
+      "sentences": [
+        {
+          "es": "Irán lanzó drones contra una instalación de radar estadounidense en Bahréin el martes, en el tercer ataque en días recientes contra objetivos militares estadounidenses.",
+          "en": "Iran launched drones against a US radar installation in Bahrain on Tuesday, in the third attack in recent days on American military targets.",
+          "words": [
+            {
+              "surface": "lanzó",
+              "lemma": "lanzar",
+              "en": "launched"
+            },
+            {
+              "surface": "drones",
+              "lemma": "dron",
+              "en": "drones"
+            },
+            {
+              "surface": "instalación",
+              "lemma": "instalación",
+              "en": "installation"
+            }
+          ]
+        },
+        {
+          "es": "Los Estados Unidos respondieron atacando un sitio de lanzamiento de misiles en la isla de Qeshm, que pertenece a la Guardia Revolucionaria de Irán.",
+          "en": "The United States responded by attacking a missile launch site on Qeshm Island, which belongs to Iran's Revolutionary Guard.",
+          "words": [
+            {
+              "surface": "respondieron",
+              "lemma": "responder",
+              "en": "responded"
+            },
+            {
+              "surface": "sitio de lanzamiento",
+              "lemma": "sitio de lanzamiento",
+              "en": "launch site"
+            },
+            {
+              "surface": "Guardia Revolucionaria",
+              "lemma": "Guardia Revolucionaria",
+              "en": "Revolutionary Guard"
+            }
+          ]
+        },
+        {
+          "es": "Bahréin dijo que sus sistemas de defensa aérea interceptaron con éxito los ataques iraníes, y no hubo daños a equipos estadounidenses.",
+          "en": "Bahrain said its air defense systems successfully intercepted the Iranian attacks, and there was no damage to US equipment.",
+          "words": [
+            {
+              "surface": "defensa aérea",
+              "lemma": "defensa aérea",
+              "en": "air defense"
+            },
+            {
+              "surface": "interceptaron",
+              "lemma": "interceptar",
+              "en": "intercepted"
+            }
+          ]
+        },
+        {
+          "es": "Irán sufre un bloqueo naval estadounidense que daña su economía al reducir las exportaciones de petróleo crudo.",
+          "en": "Iran suffers from a US naval blockade that damages its economy by reducing crude oil exports.",
+          "words": [
+            {
+              "surface": "bloqueo naval",
+              "lemma": "bloqueo naval",
+              "en": "naval blockade"
+            },
+            {
+              "surface": "exportaciones",
+              "lemma": "exportación",
+              "en": "exports"
+            }
+          ]
+        },
+        {
+          "es": "Los analistas dicen que Irán podría estar considerando si la escalada es menos costosa que aceptar el bloqueo continuo.",
+          "en": "Analysts say Iran may be considering whether escalation is less costly than accepting the continued blockade.",
+          "words": [
+            {
+              "surface": "escalada",
+              "lemma": "escalada",
+              "en": "escalation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-3",
+      "headline": {
+        "es": "Oficial estadounidense arrestado en Reino Unido por espionaje pasa a custodia militar",
+        "en": "US officer arrested in UK for spying handed to military custody"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un oficial del ejército estadounidense fue arrestado en el Reino Unido bajo sospecha de espiar para Rusia y ahora está en custodia militar estadounidense.",
+          "en": "A US Army officer was arrested in the UK on suspicion of spying for Russia and is now in US military custody.",
+          "words": [
+            {
+              "surface": "oficial",
+              "lemma": "oficial",
+              "en": "officer"
+            },
+            {
+              "surface": "arrestado",
+              "lemma": "arrestar",
+              "en": "arrested"
+            },
+            {
+              "surface": "espiar",
+              "lemma": "espiar",
+              "en": "to spy"
+            },
+            {
+              "surface": "custodia",
+              "lemma": "custodia",
+              "en": "custody"
+            }
+          ]
+        },
+        {
+          "es": "El teniente coronel Brandon Carroll Tyner, de 41 años, fue detenido cerca de Gloucester por la policía de contraterrorismo británica.",
+          "en": "Lieutenant Colonel Brandon Carroll Tyner, 41 years old, was detained near Gloucester by British counter-terrorism police.",
+          "words": [
+            {
+              "surface": "teniente coronel",
+              "lemma": "teniente coronel",
+              "en": "lieutenant colonel"
+            },
+            {
+              "surface": "detenido",
+              "lemma": "detener",
+              "en": "detained"
+            },
+            {
+              "surface": "contraterrorismo",
+              "lemma": "contraterrorismo",
+              "en": "counter-terrorism"
+            }
+          ]
+        },
+        {
+          "es": "Tyner trabajaba en la sede de la Rápida Reacción Aliada de la OTAN en Gloucestershire, donde tenía acceso a información muy sensible.",
+          "en": "Tyner worked at NATO's Allied Rapid Reaction Corps headquarters in Gloucestershire, where he had access to highly sensitive information.",
+          "words": [
+            {
+              "surface": "trabajaba",
+              "lemma": "trabajar",
+              "en": "worked"
+            },
+            {
+              "surface": "sede",
+              "lemma": "sede",
+              "en": "headquarters"
+            },
+            {
+              "surface": "sensible",
+              "lemma": "sensible",
+              "en": "sensitive"
+            }
+          ]
+        },
+        {
+          "es": "La investigación fue realizada por el MI5 británico en colaboración con el FBI estadounidense durante un largo período.",
+          "en": "The investigation was conducted by British MI5 in collaboration with the US FBI over a long period.",
+          "words": [
+            {
+              "surface": "investigación",
+              "lemma": "investigación",
+              "en": "investigation"
+            },
+            {
+              "surface": "realizada",
+              "lemma": "realizar",
+              "en": "conducted"
+            },
+            {
+              "surface": "colaboración",
+              "lemma": "colaboración",
+              "en": "collaboration"
+            }
+          ]
+        },
+        {
+          "es": "Tyner será juzgado bajo el código militar estadounidense en lugar de ser procesado en los tribunales británicos.",
+          "en": "Tyner will be tried under US military law instead of being prosecuted in British courts.",
+          "words": [
+            {
+              "surface": "juzgado",
+              "lemma": "juzgar",
+              "en": "tried"
+            },
+            {
+              "surface": "código militar",
+              "lemma": "código militar",
+              "en": "military law"
+            },
+            {
+              "surface": "procesado",
+              "lemma": "procesar",
+              "en": "prosecuted"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-4",
+      "headline": {
+        "es": "Junta de Nvidia confirma que no reinstalará a Jensen Huang",
+        "en": "Nvidia board confirms it will not reinstate Jensen Huang"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
+      },
+      "sentences": [
+        {
+          "es": "La junta de Nvidia anunció de manera unánime que no tiene intención de reinstalar a Jensen Huang como director ejecutivo de la empresa.",
+          "en": "Nvidia's board unanimously announced that it does not intend to reinstate Jensen Huang as the company's CEO.",
+          "words": [
+            {
+              "surface": "junta",
+              "lemma": "junta",
+              "en": "board"
+            },
+            {
+              "surface": "unánime",
+              "lemma": "unánime",
+              "en": "unanimous"
+            },
+            {
+              "surface": "intención",
+              "lemma": "intención",
+              "en": "intention"
+            }
+          ]
+        },
+        {
+          "es": "Huang renunció voluntariamente el 12 de noviembre después de reconocer que tuvo comportamientos personales que no cumplieron con los códigos de conducta de la empresa.",
+          "en": "Huang voluntarily resigned on November 12 after acknowledging personal behavior that did not comply with the company's codes of conduct.",
+          "words": [
+            {
+              "surface": "renunció",
+              "lemma": "renunciar",
+              "en": "resigned"
+            },
+            {
+              "surface": "reconocer",
+              "lemma": "reconocer",
+              "en": "acknowledging"
+            },
+            {
+              "surface": "comportamientos",
+              "lemma": "comportamiento",
+              "en": "behavior"
+            },
+            {
+              "surface": "códigos",
+              "lemma": "código",
+              "en": "codes"
+            }
+          ]
+        },
+        {
+          "es": "Huang dijo que estaría dispuesto a regresar a la empresa si la junta lo permitiera, pero la junta rechazó esta posibilidad.",
+          "en": "Huang said he would be willing to return to the company if the board allowed it, but the board rejected this possibility.",
+          "words": [
+            {
+              "surface": "dispuesto",
+              "lemma": "dispuesto",
+              "en": "willing"
+            },
+            {
+              "surface": "regresar",
+              "lemma": "regresar",
+              "en": "return"
+            },
+            {
+              "surface": "permitiera",
+              "lemma": "permitir",
+              "en": "allowed"
+            },
+            {
+              "surface": "rechazó",
+              "lemma": "rechazar",
+              "en": "rejected"
+            }
+          ]
+        },
+        {
+          "es": "Huang y el asesor legal de Nvidia comparecerán ante comités del Congreso el 1 y 2 de diciembre para responder preguntas sobre seguridad nacional.",
+          "en": "Huang and Nvidia's general counsel will appear before Congressional committees on December 1 and 2 to answer questions about national security.",
+          "words": [
+            {
+              "surface": "asesor legal",
+              "lemma": "asesor legal",
+              "en": "general counsel"
+            },
+            {
+              "surface": "comparecerán",
+              "lemma": "comparecer",
+              "en": "will appear"
+            },
+            {
+              "surface": "comités",
+              "lemma": "comité",
+              "en": "committees"
+            },
+            {
+              "surface": "seguridad nacional",
+              "lemma": "seguridad nacional",
+              "en": "national security"
+            }
+          ]
+        },
+        {
+          "es": "El Departamento de Comercio de Estados Unidos anunció nuevas reglas para prevenir el acceso remoto a chips de inteligencia artificial avanzada.",
+          "en": "The US Department of Commerce announced new rules to prevent remote access to advanced artificial intelligence chips.",
+          "words": [
+            {
+              "surface": "Departamento de Comercio",
+              "lemma": "Departamento de Comercio",
+              "en": "Department of Commerce"
+            },
+            {
+              "surface": "reglas",
+              "lemma": "regla",
+              "en": "rules"
+            },
+            {
+              "surface": "prevenir",
+              "lemma": "prevenir",
+              "en": "prevent"
+            },
+            {
+              "surface": "acceso remoto",
+              "lemma": "acceso remoto",
+              "en": "remote access"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-5",
+      "headline": {
+        "es": "Padre de Meghan Markle enfrenta cargos en Filipinas por material de abuso infantil",
+        "en": "Meghan Markle's father faces charges in Philippines over child abuse material"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "La policía de Filipinas presentó cargos contra Thomas Markle Sr., padre de Meghan, por posesión e intención de distribuir material de abuso sexual infantil.",
+          "en": "Philippine police filed charges against Thomas Markle Sr., Meghan's father, for possession and intent to distribute child sexual abuse material.",
+          "words": [
+            {
+              "surface": "policía",
+              "lemma": "policía",
+              "en": "police"
+            },
+            {
+              "surface": "presentó",
+              "lemma": "presentar",
+              "en": "filed"
+            },
+            {
+              "surface": "cargos",
+              "lemma": "cargo",
+              "en": "charges"
+            },
+            {
+              "surface": "posesión",
+              "lemma": "posesión",
+              "en": "possession"
+            },
+            {
+              "surface": "intención",
+              "lemma": "intención",
+              "en": "intent"
+            },
+            {
+              "surface": "distribuir",
+              "lemma": "distribuir",
+              "en": "distribute"
+            },
+            {
+              "surface": "abuso sexual infantil",
+              "lemma": "abuso sexual infantil",
+              "en": "child sexual abuse"
+            }
+          ]
+        },
+        {
+          "es": "El hombre de 82 años fue arrestado separadamente en Estados Unidos con cargos similares después de que el FBI encontró aproximadamente 78 artículos en unidades de almacenamiento.",
+          "en": "The 82-year-old man was separately arrested in the United States on similar charges after the FBI found approximately 78 items in storage units.",
+          "words": [
+            {
+              "surface": "arrestado",
+              "lemma": "arrestar",
+              "en": "arrested"
+            },
+            {
+              "surface": "separadamente",
+              "lemma": "separadamente",
+              "en": "separately"
+            },
+            {
+              "surface": "artículos",
+              "lemma": "artículo",
+              "en": "items"
+            },
+            {
+              "surface": "almacenamiento",
+              "lemma": "almacenamiento",
+              "en": "storage"
+            }
+          ]
+        },
+        {
+          "es": "Markle Sr. ha negado previamente todas las acusaciones en su contra.",
+          "en": "Markle Sr. has previously denied all allegations against him.",
+          "words": [
+            {
+              "surface": "negado",
+              "lemma": "negar",
+              "en": "denied"
+            },
+            {
+              "surface": "acusaciones",
+              "lemma": "acusación",
+              "en": "allegations"
+            }
+          ]
+        },
+        {
+          "es": "Meghan Markle ha estado alejada de su padre desde 2018 y rompió contacto con él el año pasado después de informarle sobre los abusos.",
+          "en": "Meghan Markle has been estranged from her father since 2018 and broke contact with him last year after informing him about the abuses.",
+          "words": [
+            {
+              "surface": "alejada",
+              "lemma": "alejar",
+              "en": "estranged"
+            },
+            {
+              "surface": "rompió",
+              "lemma": "romper",
+              "en": "broke"
+            },
+            {
+              "surface": "contacto",
+              "lemma": "contacto",
+              "en": "contact"
+            },
+            {
+              "surface": "informarle",
+              "lemma": "informar",
+              "en": "informing"
+            },
+            {
+              "surface": "abusos",
+              "lemma": "abuso",
+              "en": "abuses"
+            }
+          ]
+        },
+        {
+          "es": "Meghan expresó que está profundamente angustiada por las acusaciones y que sus pensamientos están con los niños que puedan haber sido dañados.",
+          "en": "Meghan expressed that she is deeply distressed by the allegations and that her thoughts are with children who may have been harmed.",
+          "words": [
+            {
+              "surface": "expresó",
+              "lemma": "expresar",
+              "en": "expressed"
+            },
+            {
+              "surface": "angustiada",
+              "lemma": "angustiado",
+              "en": "distressed"
+            },
+            {
+              "surface": "pensamientos",
+              "lemma": "pensamiento",
+              "en": "thoughts"
+            },
+            {
+              "surface": "dañados",
+              "lemma": "dañar",
+              "en": "harmed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-6",
+      "headline": {
+        "es": "Trump en Asia mientras líderes tecnológicos piden reinstalar a Huang en Nvidia",
+        "en": "Trump in Asia as tech leaders call for Huang's reinstatement at Nvidia"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy"
+      },
+      "sentences": [
+        {
+          "es": "El presidente Trump está en Manila para reunirse con aliados en la cumbre de la ASEAN y mañana viajará a China para una cumbre conjunta con Xi Jinping y Vladimir Putin.",
+          "en": "President Trump is in Manila to meet with allies at the ASEAN summit and tomorrow will travel to China for a joint summit with Xi Jinping and Vladimir Putin.",
+          "words": [
+            {
+              "surface": "cumbre",
+              "lemma": "cumbre",
+              "en": "summit"
+            },
+            {
+              "surface": "aliados",
+              "lemma": "aliado",
+              "en": "allies"
+            },
+            {
+              "surface": "viajará",
+              "lemma": "viajar",
+              "en": "will travel"
+            }
+          ]
+        },
+        {
+          "es": "Trump dijo que espera que un incidente tecnológico reciente en United Airlines impulse al Congreso a asignar más fondos para modernizar el sistema de control de tráfico aéreo.",
+          "en": "Trump said he hopes that a recent technology incident at United Airlines will prompt Congress to allocate more funds to modernize the air traffic control system.",
+          "words": [
+            {
+              "surface": "incidente",
+              "lemma": "incidente",
+              "en": "incident"
+            },
+            {
+              "surface": "impulse",
+              "lemma": "impulsar",
+              "en": "prompt"
+            },
+            {
+              "surface": "asignar",
+              "lemma": "asignar",
+              "en": "allocate"
+            },
+            {
+              "surface": "fondos",
+              "lemma": "fondo",
+              "en": "funds"
+            },
+            {
+              "surface": "modernizar",
+              "lemma": "modernizar",
+              "en": "modernize"
+            },
+            {
+              "surface": "control de tráfico aéreo",
+              "lemma": "control de tráfico aéreo",
+              "en": "air traffic control"
+            }
+          ]
+        },
+        {
+          "es": "La renuncia de Jensen Huang como director ejecutivo de Nvidia ha causado preocupación en Silicon Valley, y algunos líderes tecnológicos piden que la junta lo reinstale.",
+          "en": "Jensen Huang's resignation as Nvidia's CEO has caused concern in Silicon Valley, and some tech leaders are calling for the board to reinstate him.",
+          "words": [
+            {
+              "surface": "renuncia",
+              "lemma": "renuncia",
+              "en": "resignation"
+            },
+            {
+              "surface": "director ejecutivo",
+              "lemma": "director ejecutivo",
+              "en": "CEO"
+            },
+            {
+              "surface": "preocupación",
+              "lemma": "preocupación",
+              "en": "concern"
+            },
+            {
+              "surface": "líderes",
+              "lemma": "líder",
+              "en": "leaders"
+            },
+            {
+              "surface": "piden",
+              "lemma": "pedir",
+              "en": "are calling"
+            },
+            {
+              "surface": "reinstale",
+              "lemma": "reinstalar",
+              "en": "reinstate"
+            }
+          ]
+        },
+        {
+          "es": "Una petición en línea para apoyar la reinstalación de Huang ha recibido más de 160,000 firmas, incluyendo la de Elon Musk.",
+          "en": "An online petition supporting Huang's reinstatement has received more than 160,000 signatures, including one from Elon Musk.",
+          "words": [
+            {
+              "surface": "petición",
+              "lemma": "petición",
+              "en": "petition"
+            },
+            {
+              "surface": "firmas",
+              "lemma": "firma",
+              "en": "signatures"
+            }
+          ]
+        },
+        {
+          "es": "El gobierno estadounidense introdujo una nueva regla para bloquear el acceso remoto a chips de inteligencia artificial avanzada, cerrando una brecha que podría permitir a gobiernos adversarios acceder a la tecnología estadounidense.",
+          "en": "The US government introduced a new rule to block remote access to advanced AI chips, closing a loophole that could allow adversarial governments to access American technology.",
+          "words": [
+            {
+              "surface": "introdujo",
+              "lemma": "introducir",
+              "en": "introduced"
+            },
+            {
+              "surface": "regla",
+              "lemma": "regla",
+              "en": "rule"
+            },
+            {
+              "surface": "bloquear",
+              "lemma": "bloquear",
+              "en": "block"
+            },
+            {
+              "surface": "brecha",
+              "lemma": "brecha",
+              "en": "loophole"
+            },
+            {
+              "surface": "adversarios",
+              "lemma": "adversario",
+              "en": "adversarial"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
