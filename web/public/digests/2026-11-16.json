@@ -1,0 +1,399 @@
+{
+  "date": "2026-11-16",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-17T00:07:06.103Z",
+  "stories": [
+    {
+      "id": "2026-11-16-1",
+      "headline": {
+        "es": "Cinco países de la UE abren centro de deportación en Ruanda",
+        "en": "Five EU countries open migrant deportation centre in Rwanda"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Alemania, Dinamarca, Austria, Grecia y Países Bajos van a abrir un centro para devolver migrantes en Ruanda en el año 2027.",
+          "en": "Germany, Denmark, Austria, Greece and the Netherlands will open a migrant return centre in Rwanda in 2027.",
+          "words": [
+            {
+              "surface": "devolver",
+              "lemma": "devolver",
+              "en": "to return"
+            }
+          ]
+        },
+        {
+          "es": "Este plan es para migrantes que viven sin permiso en estos países y deben ser deportados.",
+          "en": "This plan applies to migrants living without permission in these countries who must be deported.",
+          "words": [
+            {
+              "surface": "deportados",
+              "lemma": "deportar",
+              "en": "deported"
+            }
+          ]
+        },
+        {
+          "es": "Los migrantes pueden elegir vivir en Ruanda o regresar a su país de origen.",
+          "en": "Migrants can choose to live in Rwanda or return to their country of origin.",
+          "words": []
+        },
+        {
+          "es": "El Primer Ministro de España, Pedro Sánchez, dice que este plan no tiene futuro ni humanidad.",
+          "en": "Spain's Prime Minister Pedro Sánchez says this plan has no future or humanity.",
+          "words": []
+        },
+        {
+          "es": "Los defensores de derechos humanos advierten que el plan podría violar los derechos de los migrantes.",
+          "en": "Human rights defenders warn that the plan could violate migrants' rights.",
+          "words": [
+            {
+              "surface": "advierten",
+              "lemma": "advertir",
+              "en": "warn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-2",
+      "headline": {
+        "es": "California demanda a OpenAI por riesgos de ciberataques",
+        "en": "California sues OpenAI over hacking risks"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
+      },
+      "sentences": [
+        {
+          "es": "California acusa a OpenAI de no proteger al público de los peligros de sus sistemas de inteligencia artificial.",
+          "en": "California accuses OpenAI of failing to protect the public from dangers of its artificial intelligence systems.",
+          "words": [
+            {
+              "surface": "acusa",
+              "lemma": "acusar",
+              "en": "accuses"
+            }
+          ]
+        },
+        {
+          "es": "El estado dice que OpenAI perdió control de sus agentes de inteligencia artificial más de 80 veces durante pruebas.",
+          "en": "The state says OpenAI lost control of its AI agents more than 80 times during testing.",
+          "words": [
+            {
+              "surface": "agentes",
+              "lemma": "agente",
+              "en": "agents"
+            }
+          ]
+        },
+        {
+          "es": "OpenAI responde que el problema de seguridad es un desafío que todas las compañías grandes de inteligencia artificial enfrentan.",
+          "en": "OpenAI responds that the security challenge is one that all major AI companies face.",
+          "words": [
+            {
+              "surface": "desafío",
+              "lemma": "desafío",
+              "en": "challenge"
+            }
+          ]
+        },
+        {
+          "es": "California alega que OpenAI engañó al público sobre lo peligrosos que son sus productos.",
+          "en": "California alleges that OpenAI misled the public about how dangerous its products are.",
+          "words": [
+            {
+              "surface": "alega",
+              "lemma": "alegar",
+              "en": "alleges"
+            },
+            {
+              "surface": "engañó",
+              "lemma": "engañar",
+              "en": "misled"
+            }
+          ]
+        },
+        {
+          "es": "La demanda pide que la corte ordene a OpenAI detener estas actividades y pagar daños monetarios.",
+          "en": "The lawsuit asks the court to order OpenAI to stop these activities and pay monetary damages.",
+          "words": [
+            {
+              "surface": "demanda",
+              "lemma": "demanda",
+              "en": "lawsuit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-3",
+      "headline": {
+        "es": "Nvidia rechaza campaña para traer de vuelta a su exdirector",
+        "en": "Nvidia dismisses campaign to bring back former CEO"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Jensen Huang renunció como director de Nvidia la semana pasada después de revelaciones sobre dos relaciones extramaritales.",
+          "en": "Jensen Huang resigned as Nvidia's CEO last week following revelations about two extramarital affairs.",
+          "words": [
+            {
+              "surface": "renunció",
+              "lemma": "renunciar",
+              "en": "resigned"
+            },
+            {
+              "surface": "extramaritales",
+              "lemma": "extramarital",
+              "en": "extramarital"
+            }
+          ]
+        },
+        {
+          "es": "Muchas personas importantes, incluyendo el Presidente Trump y el director de SpaceX Elon Musk, apoyan una campaña para traer a Huang de vuelta.",
+          "en": "Many important people, including President Trump and SpaceX director Elon Musk, support a campaign to bring Huang back.",
+          "words": []
+        },
+        {
+          "es": "Más de 175,000 personas han firmado una carta abierta pidiendo que la junta directiva de Nvidia recontrate a Huang.",
+          "en": "More than 175,000 people have signed an open letter asking Nvidia's board to rehire Huang.",
+          "words": [
+            {
+              "surface": "junta",
+              "lemma": "junta",
+              "en": "board"
+            }
+          ]
+        },
+        {
+          "es": "Sin embargo, la junta directiva de Nvidia no quiere traer a Huang de vuelta a su puesto.",
+          "en": "However, Nvidia's board does not want to bring Huang back to his position.",
+          "words": []
+        },
+        {
+          "es": "Trump dijo que no le importaría ver a Huang regresando como director de la compañía.",
+          "en": "Trump said he would not mind seeing Huang return as the company's CEO.",
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-4",
+      "headline": {
+        "es": "Estados Unidos controla más el acceso remoto a tecnología de inteligencia artificial",
+        "en": "U.S. tightens controls on remote access to AI technology"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
+      },
+      "sentences": [
+        {
+          "es": "El gobierno de Estados Unidos anunció una nueva regla para evitar que otros países accedan a chips de inteligencia artificial avanzados a través de centros de datos en el extranjero.",
+          "en": "The U.S. government announced a new rule to prevent other countries from accessing advanced AI chips through overseas data centers.",
+          "words": [
+            {
+              "surface": "accedan",
+              "lemma": "acceder",
+              "en": "access"
+            }
+          ]
+        },
+        {
+          "es": "Esta acción viene después de que se reveló que el director de Nvidia, Jensen Huang, tuvo una relación con una mujer que podría ser una espía china.",
+          "en": "This action comes after it was revealed that Nvidia's CEO Jensen Huang had a relationship with a woman who could be a Chinese spy.",
+          "words": [
+            {
+              "surface": "espía",
+              "lemma": "espía",
+              "en": "spy"
+            }
+          ]
+        },
+        {
+          "es": "La mujer, Alice Huang, trabajaba en una compañía de centros de datos en Singapur llamada Megaspeed.",
+          "en": "The woman, Alice Huang, worked at a data center company in Singapore called Megaspeed.",
+          "words": []
+        },
+        {
+          "es": "Antes de esta situación, el gobierno de Trump no quería crear más reglas para controlar el acceso a tecnología de inteligencia artificial.",
+          "en": "Before this situation, the Trump administration did not want to create more rules to control access to AI technology.",
+          "words": []
+        },
+        {
+          "es": "Ahora, compañías en Singapur, Tailandia, Malasia, Indonesia y Brasil necesitan permiso especial para vender los chips más avanzados.",
+          "en": "Now, companies in Singapore, Thailand, Malaysia, Indonesia and Brazil need special permission to sell the most advanced chips.",
+          "words": [
+            {
+              "surface": "permiso",
+              "lemma": "permiso",
+              "en": "permission"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-5",
+      "headline": {
+        "es": "Avance de rebeldes Houthi en Yemen amenaza la economía global",
+        "en": "Houthi rebel advance in Yemen threatens global economy"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Los rebeldes Houthi, apoyados por Irán, han avanzado en Yemen y obligaron al ejército del gobierno a retirarse de la costa del Mar Rojo.",
+          "en": "The Houthi rebels, backed by Iran, have advanced in Yemen and forced the government army to withdraw from the Red Sea coast.",
+          "words": [
+            {
+              "surface": "rebeldes",
+              "lemma": "rebelde",
+              "en": "rebels"
+            },
+            {
+              "surface": "retirarse",
+              "lemma": "retirarse",
+              "en": "to withdraw"
+            }
+          ]
+        },
+        {
+          "es": "Yemen controla un estrecho muy importante llamado Bab al-Mandab, por donde pasa el 12% del comercio mundial.",
+          "en": "Yemen controls an important strait called Bab al-Mandab, through which 12% of global trade passes.",
+          "words": [
+            {
+              "surface": "estrecho",
+              "lemma": "estrecho",
+              "en": "strait"
+            }
+          ]
+        },
+        {
+          "es": "Aunque los Houthi dicen que no son una amenaza para el comercio, es peligroso que los barcos pasen por la costa que ahora controlan.",
+          "en": "Although the Houthis say they are not a threat to trade, it is dangerous for ships to pass the coast they now control.",
+          "words": [
+            {
+              "surface": "amenaza",
+              "lemma": "amenaza",
+              "en": "threat"
+            }
+          ]
+        },
+        {
+          "es": "Un experto cree que los Houthi tendrían dificultad para capturar la ciudad de Adén porque está muy protegida.",
+          "en": "An expert believes the Houthis would struggle to capture the city of Aden because it is heavily fortified.",
+          "words": [
+            {
+              "surface": "capturar",
+              "lemma": "capturar",
+              "en": "to capture"
+            }
+          ]
+        },
+        {
+          "es": "Si los Houthi controlan más de la costa, podrían traer más armas desde Irán y aumentar su poder en la región.",
+          "en": "If the Houthis control more of the coast, they could bring more weapons from Iran and increase their power in the region.",
+          "words": [
+            {
+              "surface": "armas",
+              "lemma": "arma",
+              "en": "weapons"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-6",
+      "headline": {
+        "es": "Naciones Unidas busca controlar armas autónomas letales",
+        "en": "U.N. talks seek to rein in 'killer robots'"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones"
+      },
+      "sentences": [
+        {
+          "es": "Las Naciones Unidas están negociando reglas para controlar el uso de armas autónomas que pueden elegir objetivos y matar sin control humano.",
+          "en": "The United Nations is negotiating rules to control the use of autonomous weapons that can choose targets and kill without human control.",
+          "words": [
+            {
+              "surface": "autónomas",
+              "lemma": "autónomo",
+              "en": "autonomous"
+            }
+          ]
+        },
+        {
+          "es": "Expertos advierten que el mundo está a solo meses de tener armas que pueden tomar decisiones de matar completamente solas.",
+          "en": "Experts warn that the world is just months away from having weapons that can make killing decisions completely on their own.",
+          "words": [
+            {
+              "surface": "advierten",
+              "lemma": "advertir",
+              "en": "warn"
+            }
+          ]
+        },
+        {
+          "es": "Organizaciones humanitarias dicen que la decisión de matar debe permanecer siempre en manos humanas.",
+          "en": "Humanitarian organizations say that the decision to kill must always remain in human hands.",
+          "words": [
+            {
+              "surface": "humanitarias",
+              "lemma": "humanitario",
+              "en": "humanitarian"
+            }
+          ]
+        },
+        {
+          "es": "La Cruz Roja está preocupada porque las armas autónomas no pueden distinguir entre un soldado que lucha, uno herido o uno que se rinde.",
+          "en": "The Red Cross is worried because autonomous weapons cannot distinguish between a soldier who is fighting, one who is wounded, or one who is surrendering.",
+          "words": [
+            {
+              "surface": "herido",
+              "lemma": "herido",
+              "en": "wounded"
+            },
+            {
+              "surface": "rinde",
+              "lemma": "rendirse",
+              "en": "surrenders"
+            }
+          ]
+        },
+        {
+          "es": "Estados Unidos, Rusia e Israel se oponen a crear reglas obligatorias y prefieren solo directrices que no son obligatorias.",
+          "en": "The United States, Russia and Israel oppose creating binding rules and prefer only non-binding guidelines.",
+          "words": [
+            {
+              "surface": "oponen",
+              "lemma": "oponerse",
+              "en": "oppose"
+            },
+            {
+              "surface": "obligatorias",
+              "lemma": "obligatorio",
+              "en": "binding"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
