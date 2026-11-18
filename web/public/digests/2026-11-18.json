@@ -1,0 +1,826 @@
+{
+  "date": "2026-11-18",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-18T22:54:06.061Z",
+  "stories": [
+    {
+      "id": "2026-11-18-1",
+      "headline": {
+        "es": "Israel realiza operación militar rara en Gaza fuera de su control",
+        "en": "Israeli military launches rare ground operation in Gaza beyond Yellow Line"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El ejército israelí lanzó una operación en la Franja de Gaza que está fuera de su control.",
+          "en": "The Israeli military launched an operation in the Gaza Strip that is outside its control.",
+          "words": [
+            {
+              "surface": "ejército",
+              "lemma": "ejército",
+              "en": "military"
+            },
+            {
+              "surface": "Franja",
+              "lemma": "franja",
+              "en": "strip"
+            }
+          ]
+        },
+        {
+          "es": "Los tanques avanzaron cerca del campamento de refugiados de Nuseirat y llegaron a la carretera principal.",
+          "en": "Tanks advanced near the Nuseirat refugee camp and reached the main road.",
+          "words": [
+            {
+              "surface": "tanques",
+              "lemma": "tanque",
+              "en": "tanks"
+            },
+            {
+              "surface": "campamento",
+              "lemma": "campamento",
+              "en": "camp"
+            },
+            {
+              "surface": "refugiados",
+              "lemma": "refugiado",
+              "en": "refugees"
+            }
+          ]
+        },
+        {
+          "es": "Israel dijo que la operación buscaba destruir un túnel de terroristas al oeste de la Línea Amarilla.",
+          "en": "Israel said the operation aimed to destroy a terrorist tunnel west of the Yellow Line.",
+          "words": [
+            {
+              "surface": "túnel",
+              "lemma": "túnel",
+              "en": "tunnel"
+            },
+            {
+              "surface": "terroristas",
+              "lemma": "terrorista",
+              "en": "terrorists"
+            }
+          ]
+        },
+        {
+          "es": "Hamás acusó a Israel de violar el acuerdo de alto el fuego de octubre de 2025.",
+          "en": "Hamas accused Israel of violating the October 2025 ceasefire agreement.",
+          "words": [
+            {
+              "surface": "acuerdo",
+              "lemma": "acuerdo",
+              "en": "agreement"
+            },
+            {
+              "surface": "alto el fuego",
+              "lemma": "alto el fuego",
+              "en": "ceasefire"
+            }
+          ]
+        },
+        {
+          "es": "Más de 1.6 millones de personas han muerto en ataques israelíes desde que comenzó el alto el fuego.",
+          "en": "More than 1.6 million people have died in Israeli attacks since the ceasefire began.",
+          "words": [
+            {
+              "surface": "millones",
+              "lemma": "millón",
+              "en": "millions"
+            },
+            {
+              "surface": "muerto",
+              "lemma": "morir",
+              "en": "died"
+            },
+            {
+              "surface": "ataques",
+              "lemma": "ataque",
+              "en": "attacks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-2",
+      "headline": {
+        "es": "Muertes por sobredosis bajan, pero la Casa Blanca exagera su papel",
+        "en": "As overdose deaths fall, White House makes misleading claims about who deserves credit"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl"
+      },
+      "sentences": [
+        {
+          "es": "Las muertes por drogas en Estados Unidos bajaron a su nivel más bajo en diez años.",
+          "en": "Drug deaths in the United States fell to their lowest level in ten years.",
+          "words": [
+            {
+              "surface": "muertes",
+              "lemma": "muerte",
+              "en": "deaths"
+            },
+            {
+              "surface": "drogas",
+              "lemma": "droga",
+              "en": "drugs"
+            }
+          ]
+        },
+        {
+          "es": "La Casa Blanca dijo que esta mejora ocurrió principalmente en los últimos 18 meses bajo Trump.",
+          "en": "The White House said this improvement occurred mainly in the last 18 months under Trump.",
+          "words": [
+            {
+              "surface": "mejora",
+              "lemma": "mejora",
+              "en": "improvement"
+            }
+          ]
+        },
+        {
+          "es": "Pero los expertos dicen que las muertes por drogas comenzaron a bajar desde 2023, durante la administración Biden.",
+          "en": "But experts say drug deaths began to fall from 2023, during the Biden administration.",
+          "words": [
+            {
+              "surface": "expertos",
+              "lemma": "experto",
+              "en": "experts"
+            },
+            {
+              "surface": "administración",
+              "lemma": "administración",
+              "en": "administration"
+            }
+          ]
+        },
+        {
+          "es": "Los investigadores dicen que Biden aprobó políticas que ayudaron, como dar más acceso a medicinas para la sobredosis.",
+          "en": "Researchers say Biden approved policies that helped, such as providing more access to overdose medications.",
+          "words": [
+            {
+              "surface": "investigadores",
+              "lemma": "investigador",
+              "en": "researchers"
+            },
+            {
+              "surface": "políticas",
+              "lemma": "política",
+              "en": "policies"
+            },
+            {
+              "surface": "medicinas",
+              "lemma": "medicina",
+              "en": "medicines"
+            },
+            {
+              "surface": "sobredosis",
+              "lemma": "sobredosis",
+              "en": "overdose"
+            }
+          ]
+        },
+        {
+          "es": "Los expertos creen que es importante tener una línea de tiempo correcta para entender mejor la crisis de drogas.",
+          "en": "Experts believe it is important to have an accurate timeline to better understand the drug crisis.",
+          "words": [
+            {
+              "surface": "línea de tiempo",
+              "lemma": "línea de tiempo",
+              "en": "timeline"
+            },
+            {
+              "surface": "crisis",
+              "lemma": "crisis",
+              "en": "crisis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-3",
+      "headline": {
+        "es": "Demócratas nominan a Hakeem Jeffries como presidente de la Cámara",
+        "en": "Democrats nominate Hakeem Jeffries to be US Speaker of the House"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Los demócratas nominaron a Hakeem Jeffries para ser el presidente de la Cámara de Representantes.",
+          "en": "Democrats nominated Hakeem Jeffries to be the Speaker of the House of Representatives.",
+          "words": [
+            {
+              "surface": "demócratas",
+              "lemma": "demócrata",
+              "en": "Democrats"
+            },
+            {
+              "surface": "nominaron",
+              "lemma": "nominar",
+              "en": "nominated"
+            },
+            {
+              "surface": "presidente",
+              "lemma": "presidente",
+              "en": "speaker"
+            },
+            {
+              "surface": "Cámara",
+              "lemma": "cámara",
+              "en": "chamber"
+            },
+            {
+              "surface": "Representantes",
+              "lemma": "representante",
+              "en": "representatives"
+            }
+          ]
+        },
+        {
+          "es": "Jeffries sería el primer líder negro de la Cámara en la historia de Estados Unidos.",
+          "en": "Jeffries would be the first Black leader of the Chamber in United States history.",
+          "words": [
+            {
+              "surface": "líder",
+              "lemma": "líder",
+              "en": "leader"
+            },
+            {
+              "surface": "negro",
+              "lemma": "negro",
+              "en": "Black"
+            },
+            {
+              "surface": "historia",
+              "lemma": "historia",
+              "en": "history"
+            }
+          ]
+        },
+        {
+          "es": "Los demócratas tendrán al menos 257 escaños en la Cámara, más que los 218 necesarios para tener mayoría.",
+          "en": "Democrats will have at least 257 seats in the Chamber, more than the 218 needed for a majority.",
+          "words": [
+            {
+              "surface": "escaños",
+              "lemma": "escaño",
+              "en": "seats"
+            },
+            {
+              "surface": "mayoría",
+              "lemma": "mayoría",
+              "en": "majority"
+            }
+          ]
+        },
+        {
+          "es": "Algunos demócratas nuevos votaron en contra porque quieren cambios más grandes en el partido.",
+          "en": "Some new Democrats voted against because they want bigger changes in the party.",
+          "words": [
+            {
+              "surface": "votaron",
+              "lemma": "votar",
+              "en": "voted"
+            },
+            {
+              "surface": "cambios",
+              "lemma": "cambio",
+              "en": "changes"
+            },
+            {
+              "surface": "partido",
+              "lemma": "partido",
+              "en": "party"
+            }
+          ]
+        },
+        {
+          "es": "Jeffries prometió que los demócratas lucharían para bajar los precios de la comida, gasolina y vivienda.",
+          "en": "Jeffries promised that Democrats would fight to lower the prices of food, gas, and housing.",
+          "words": [
+            {
+              "surface": "prometió",
+              "lemma": "prometer",
+              "en": "promised"
+            },
+            {
+              "surface": "lucharían",
+              "lemma": "luchar",
+              "en": "would fight"
+            },
+            {
+              "surface": "bajar",
+              "lemma": "bajar",
+              "en": "lower"
+            },
+            {
+              "surface": "precios",
+              "lemma": "precio",
+              "en": "prices"
+            },
+            {
+              "surface": "comida",
+              "lemma": "comida",
+              "en": "food"
+            },
+            {
+              "surface": "gasolina",
+              "lemma": "gasolina",
+              "en": "gas"
+            },
+            {
+              "surface": "vivienda",
+              "lemma": "vivienda",
+              "en": "housing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-4",
+      "headline": {
+        "es": "Karl Kani, diseñador de moda del hip-hop, cuenta su historia",
+        "en": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design"
+      },
+      "sentences": [
+        {
+          "es": "Karl Kani es un diseñador que creó ropa para artistas de hip-hop en los años noventa.",
+          "en": "Karl Kani is a designer who created clothes for hip-hop artists in the 1990s.",
+          "words": [
+            {
+              "surface": "diseñador",
+              "lemma": "diseñador",
+              "en": "designer"
+            },
+            {
+              "surface": "creó",
+              "lemma": "crear",
+              "en": "created"
+            },
+            {
+              "surface": "ropa",
+              "lemma": "ropa",
+              "en": "clothes"
+            },
+            {
+              "surface": "artistas",
+              "lemma": "artista",
+              "en": "artists"
+            },
+            {
+              "surface": "hip-hop",
+              "lemma": "hip-hop",
+              "en": "hip-hop"
+            }
+          ]
+        },
+        {
+          "es": "Kani nació en Brooklyn y aprendió a diseñar viendo a su padre, un sastre haitiano.",
+          "en": "Kani was born in Brooklyn and learned to design by watching his father, a Haitian tailor.",
+          "words": [
+            {
+              "surface": "nació",
+              "lemma": "nacer",
+              "en": "was born"
+            },
+            {
+              "surface": "aprendió",
+              "lemma": "aprender",
+              "en": "learned"
+            },
+            {
+              "surface": "sastre",
+              "lemma": "sastre",
+              "en": "tailor"
+            },
+            {
+              "surface": "haitiano",
+              "lemma": "haitiano",
+              "en": "Haitian"
+            }
+          ]
+        },
+        {
+          "es": "Los artistas de hip-hop usaban ropa de marcas famosas pero las modificaban con estilos propios.",
+          "en": "Hip-hop artists wore famous brand clothes but modified them with their own styles.",
+          "words": [
+            {
+              "surface": "usaban",
+              "lemma": "usar",
+              "en": "wore"
+            },
+            {
+              "surface": "marcas",
+              "lemma": "marca",
+              "en": "brands"
+            },
+            {
+              "surface": "famosas",
+              "lemma": "famoso",
+              "en": "famous"
+            },
+            {
+              "surface": "modificaban",
+              "lemma": "modificar",
+              "en": "modified"
+            },
+            {
+              "surface": "estilos",
+              "lemma": "estilo",
+              "en": "styles"
+            }
+          ]
+        },
+        {
+          "es": "Kani entendió lo que querían y creó una marca de ropa que reflejaba la cultura del hip-hop.",
+          "en": "Kani understood what they wanted and created a clothing brand that reflected hip-hop culture.",
+          "words": [
+            {
+              "surface": "entendió",
+              "lemma": "entender",
+              "en": "understood"
+            },
+            {
+              "surface": "marca",
+              "lemma": "marca",
+              "en": "brand"
+            },
+            {
+              "surface": "reflejaba",
+              "lemma": "reflejar",
+              "en": "reflected"
+            },
+            {
+              "surface": "cultura",
+              "lemma": "cultura",
+              "en": "culture"
+            }
+          ]
+        },
+        {
+          "es": "Ahora Kani escribió un libro sobre su vida y sus experiencias en la moda.",
+          "en": "Now Kani wrote a book about his life and his experiences in fashion.",
+          "words": [
+            {
+              "surface": "escribió",
+              "lemma": "escribir",
+              "en": "wrote"
+            },
+            {
+              "surface": "libro",
+              "lemma": "libro",
+              "en": "book"
+            },
+            {
+              "surface": "vida",
+              "lemma": "vida",
+              "en": "life"
+            },
+            {
+              "surface": "experiencias",
+              "lemma": "experiencia",
+              "en": "experiences"
+            },
+            {
+              "surface": "moda",
+              "lemma": "moda",
+              "en": "fashion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-5",
+      "headline": {
+        "es": "Guillermo y Catalina se reúnen con el primer ministro Modi en India",
+        "en": "William and Kate meet PM Modi as they wrap up India tour"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El príncipe Guillermo y la princesa Catalina viajaron a Nueva Delhi para terminar su viaje a India.",
+          "en": "Prince William and Princess Catherine traveled to New Delhi to finish their trip to India.",
+          "words": [
+            {
+              "surface": "príncipe",
+              "lemma": "príncipe",
+              "en": "prince"
+            },
+            {
+              "surface": "princesa",
+              "lemma": "princesa",
+              "en": "princess"
+            },
+            {
+              "surface": "viajaron",
+              "lemma": "viajar",
+              "en": "traveled"
+            }
+          ]
+        },
+        {
+          "es": "Se reunieron con el primer ministro Modi en su casa privada en Nueva Delhi.",
+          "en": "They met with Prime Minister Modi at his private home in New Delhi.",
+          "words": [
+            {
+              "surface": "reunieron",
+              "lemma": "reunir",
+              "en": "met"
+            },
+            {
+              "surface": "primer ministro",
+              "lemma": "primer ministro",
+              "en": "prime minister"
+            },
+            {
+              "surface": "casa",
+              "lemma": "casa",
+              "en": "home"
+            },
+            {
+              "surface": "privada",
+              "lemma": "privado",
+              "en": "private"
+            }
+          ]
+        },
+        {
+          "es": "Hablaron sobre la relación importante entre Reino Unido e India y cómo fortalecerla.",
+          "en": "They talked about the important relationship between the United Kingdom and India and how to strengthen it.",
+          "words": [
+            {
+              "surface": "Hablaron",
+              "lemma": "hablar",
+              "en": "talked"
+            },
+            {
+              "surface": "relación",
+              "lemma": "relación",
+              "en": "relationship"
+            },
+            {
+              "surface": "fortalecerla",
+              "lemma": "fortalecer",
+              "en": "strengthen it"
+            }
+          ]
+        },
+        {
+          "es": "Guillermo anunció que la ceremonia del Premio Earthshot se realizaría en India por primera vez.",
+          "en": "William announced that the Earthshot Prize ceremony would be held in India for the first time.",
+          "words": [
+            {
+              "surface": "anunció",
+              "lemma": "anunciar",
+              "en": "announced"
+            },
+            {
+              "surface": "ceremonia",
+              "lemma": "ceremonia",
+              "en": "ceremony"
+            },
+            {
+              "surface": "Premio",
+              "lemma": "premio",
+              "en": "prize"
+            },
+            {
+              "surface": "realizaría",
+              "lemma": "realizar",
+              "en": "would be held"
+            }
+          ]
+        },
+        {
+          "es": "La pareja visitó India hace diez años y ahora regresó para fortalecer los lazos entre los dos países.",
+          "en": "The couple visited India ten years ago and now returned to strengthen the ties between the two countries.",
+          "words": [
+            {
+              "surface": "pareja",
+              "lemma": "pareja",
+              "en": "couple"
+            },
+            {
+              "surface": "visitó",
+              "lemma": "visitar",
+              "en": "visited"
+            },
+            {
+              "surface": "regresó",
+              "lemma": "regresar",
+              "en": "returned"
+            },
+            {
+              "surface": "lazos",
+              "lemma": "lazo",
+              "en": "ties"
+            },
+            {
+              "surface": "países",
+              "lemma": "país",
+              "en": "countries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-6",
+      "headline": {
+        "es": "Siete formas inteligentes de conseguir un nuevo vuelo rápidamente",
+        "en": "Got a canceled flight? 7 clever ways to get rebooked fast"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast"
+      },
+      "sentences": [
+        {
+          "es": "Casi seis millones de viajeros viajarán en avión durante las vacaciones de Acción de Gracias este año.",
+          "en": "Almost six million travelers will fly during Thanksgiving holidays this year.",
+          "words": [
+            {
+              "surface": "millones",
+              "lemma": "millón",
+              "en": "millions"
+            },
+            {
+              "surface": "viajeros",
+              "lemma": "viajero",
+              "en": "travelers"
+            },
+            {
+              "surface": "viajarán",
+              "lemma": "viajar",
+              "en": "will fly"
+            },
+            {
+              "surface": "avión",
+              "lemma": "avión",
+              "en": "airplane"
+            },
+            {
+              "surface": "vacaciones",
+              "lemma": "vacación",
+              "en": "holidays"
+            },
+            {
+              "surface": "Acción de Gracias",
+              "lemma": "Acción de Gracias",
+              "en": "Thanksgiving"
+            }
+          ]
+        },
+        {
+          "es": "Los viajes en avión han empeorado en los últimos diez años, con más cancelaciones y retrasos.",
+          "en": "Air travel has gotten worse over the last ten years, with more cancellations and delays.",
+          "words": [
+            {
+              "surface": "viajes",
+              "lemma": "viaje",
+              "en": "travel"
+            },
+            {
+              "surface": "avión",
+              "lemma": "avión",
+              "en": "air"
+            },
+            {
+              "surface": "empeorado",
+              "lemma": "empeorar",
+              "en": "gotten worse"
+            },
+            {
+              "surface": "cancelaciones",
+              "lemma": "cancelación",
+              "en": "cancellations"
+            },
+            {
+              "surface": "retrasos",
+              "lemma": "retraso",
+              "en": "delays"
+            }
+          ]
+        },
+        {
+          "es": "Una forma inteligente es usar la aplicación de la aerolínea mientras esperas en la fila.",
+          "en": "One clever way is to use the airline app while you wait in line.",
+          "words": [
+            {
+              "surface": "forma",
+              "lemma": "forma",
+              "en": "way"
+            },
+            {
+              "surface": "inteligente",
+              "lemma": "inteligente",
+              "en": "clever"
+            },
+            {
+              "surface": "aplicación",
+              "lemma": "aplicación",
+              "en": "app"
+            },
+            {
+              "surface": "aerolínea",
+              "lemma": "aerolínea",
+              "en": "airline"
+            },
+            {
+              "surface": "esperas",
+              "lemma": "esperar",
+              "en": "wait"
+            },
+            {
+              "surface": "fila",
+              "lemma": "fila",
+              "en": "line"
+            }
+          ]
+        },
+        {
+          "es": "Si tienes acceso a una sala de espera de aeropuerto, puedes pedir ayuda a un agente allí.",
+          "en": "If you have access to an airport lounge, you can ask for help from an agent there.",
+          "words": [
+            {
+              "surface": "acceso",
+              "lemma": "acceso",
+              "en": "access"
+            },
+            {
+              "surface": "sala",
+              "lemma": "sala",
+              "en": "lounge"
+            },
+            {
+              "surface": "espera",
+              "lemma": "espera",
+              "en": "waiting"
+            },
+            {
+              "surface": "aeropuerto",
+              "lemma": "aeropuerto",
+              "en": "airport"
+            },
+            {
+              "surface": "agente",
+              "lemma": "agente",
+              "en": "agent"
+            }
+          ]
+        },
+        {
+          "es": "Es importante saber qué derechos tienes si tu vuelo se cancela o se retrasa mucho.",
+          "en": "It is important to know what rights you have if your flight is canceled or significantly delayed.",
+          "words": [
+            {
+              "surface": "importante",
+              "lemma": "importante",
+              "en": "important"
+            },
+            {
+              "surface": "saber",
+              "lemma": "saber",
+              "en": "know"
+            },
+            {
+              "surface": "derechos",
+              "lemma": "derecho",
+              "en": "rights"
+            },
+            {
+              "surface": "cancela",
+              "lemma": "cancelar",
+              "en": "is canceled"
+            },
+            {
+              "surface": "retrasa",
+              "lemma": "retrasar",
+              "en": "is delayed"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
