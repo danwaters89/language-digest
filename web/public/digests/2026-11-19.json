@@ -1,0 +1,936 @@
+{
+  "date": "2026-11-19",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-19T22:59:04.489Z",
+  "stories": [
+    {
+      "id": "2026-11-19-1",
+      "headline": {
+        "es": "Juez declara que Thomas Markle es competente para enfrentar juicio",
+        "en": "Judge declares Thomas Markle mentally fit to stand trial"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un juez en Florida determina que Thomas Markle Sr., padre de Meghan, es mentalmente competente para enfrentar un juicio.",
+          "en": "A judge in Florida determines that Thomas Markle Sr., father of Meghan, is mentally competent to face trial.",
+          "words": [
+            {
+              "surface": "determina",
+              "lemma": "determinar",
+              "en": "determines"
+            },
+            {
+              "surface": "mentalmente",
+              "lemma": "mentalmente",
+              "en": "mentally"
+            },
+            {
+              "surface": "competente",
+              "lemma": "competente",
+              "en": "competent"
+            },
+            {
+              "surface": "juicio",
+              "lemma": "juicio",
+              "en": "trial"
+            }
+          ]
+        },
+        {
+          "es": "Markle fue arrestado en noviembre después de que el FBI encontró material de abuso infantil en una unidad de almacenamiento en Los Ángeles.",
+          "en": "Markle was arrested in November after the FBI found child abuse material in a storage unit in Los Angeles.",
+          "words": [
+            {
+              "surface": "arrestado",
+              "lemma": "arrestar",
+              "en": "arrested"
+            },
+            {
+              "surface": "encontró",
+              "lemma": "encontrar",
+              "en": "found"
+            },
+            {
+              "surface": "abuso",
+              "lemma": "abuso",
+              "en": "abuse"
+            },
+            {
+              "surface": "almacenamiento",
+              "lemma": "almacenamiento",
+              "en": "storage"
+            }
+          ]
+        },
+        {
+          "es": "Markle niega que posea imágenes de abuso sexual infantil y llama las acusaciones \"mentiras enfermas\".",
+          "en": "Markle denies possessing images of child sexual abuse and calls the accusations 'sick lies'.",
+          "words": [
+            {
+              "surface": "niega",
+              "lemma": "negar",
+              "en": "denies"
+            },
+            {
+              "surface": "posea",
+              "lemma": "poseer",
+              "en": "possessing"
+            },
+            {
+              "surface": "acusaciones",
+              "lemma": "acusación",
+              "en": "accusations"
+            }
+          ]
+        },
+        {
+          "es": "El FBI encontró aproximadamente 78 artículos en la unidad, incluyendo negativos de película, diapositivas y libros que supuestamente contienen material de abuso infantil.",
+          "en": "The FBI found approximately 78 items in the unit, including film negatives, slides, and books that allegedly contain child abuse material.",
+          "words": [
+            {
+              "surface": "negativos",
+              "lemma": "negativo",
+              "en": "negatives"
+            },
+            {
+              "surface": "diapositivas",
+              "lemma": "diapositiva",
+              "en": "slides"
+            },
+            {
+              "surface": "supuestamente",
+              "lemma": "supuestamente",
+              "en": "allegedly"
+            }
+          ]
+        },
+        {
+          "es": "La próxima audiencia de Markle está programada para principios de diciembre, pero el juicio se espera que ocurra en California.",
+          "en": "Markle's next hearing is scheduled for early December, but the trial is expected to take place in California.",
+          "words": [
+            {
+              "surface": "audiencia",
+              "lemma": "audiencia",
+              "en": "hearing"
+            },
+            {
+              "surface": "programada",
+              "lemma": "programar",
+              "en": "scheduled"
+            },
+            {
+              "surface": "juicio",
+              "lemma": "juicio",
+              "en": "trial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-2",
+      "headline": {
+        "es": "Jueces detienen temporalmente el arco y campo de golf de Trump",
+        "en": "Judges temporarily halt Trump's arch and golf course projects"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders"
+      },
+      "sentences": [
+        {
+          "es": "Una jueza federal extiende el bloqueo de la construcción del arco de Trump en Washington por dos semanas más.",
+          "en": "A federal judge extends the block on construction of Trump's arch in Washington for two more weeks.",
+          "words": [
+            {
+              "surface": "extiende",
+              "lemma": "extender",
+              "en": "extends"
+            },
+            {
+              "surface": "bloqueo",
+              "lemma": "bloqueo",
+              "en": "block"
+            },
+            {
+              "surface": "construcción",
+              "lemma": "construcción",
+              "en": "construction"
+            }
+          ]
+        },
+        {
+          "es": "Veteranos de la Guerra de Vietnam, historiadores y miembros de la familia Kennedy se oponen al arco porque dicen que bloqueará vistas históricas.",
+          "en": "Vietnam War veterans, historians, and Kennedy family members oppose the arch because they say it will block historic views.",
+          "words": [
+            {
+              "surface": "Veteranos",
+              "lemma": "veterano",
+              "en": "veterans"
+            },
+            {
+              "surface": "oponen",
+              "lemma": "oponer",
+              "en": "oppose"
+            },
+            {
+              "surface": "bloqueará",
+              "lemma": "bloquear",
+              "en": "will block"
+            },
+            {
+              "surface": "vistas",
+              "lemma": "vista",
+              "en": "views"
+            }
+          ]
+        },
+        {
+          "es": "Los críticos argumentan que el arco viola varias leyes, incluyendo la Ley de Obras Conmemorativas, y que necesita aprobación del Congreso.",
+          "en": "Critics argue that the arch violates several laws, including the Commemorative Works Act, and that it needs Congressional approval.",
+          "words": [
+            {
+              "surface": "críticos",
+              "lemma": "crítico",
+              "en": "critics"
+            },
+            {
+              "surface": "argumentan",
+              "lemma": "argumentar",
+              "en": "argue"
+            },
+            {
+              "surface": "viola",
+              "lemma": "violar",
+              "en": "violates"
+            },
+            {
+              "surface": "aprobación",
+              "lemma": "aprobación",
+              "en": "approval"
+            }
+          ]
+        },
+        {
+          "es": "La administración Trump también enfrenta un desafío legal para mantener abierto el campo de golf municipal de East Potomac Park.",
+          "en": "The Trump administration also faces a legal challenge to keep the municipal East Potomac Park golf course open.",
+          "words": [
+            {
+              "surface": "enfrenta",
+              "lemma": "enfrentar",
+              "en": "faces"
+            },
+            {
+              "surface": "desafío",
+              "lemma": "desafío",
+              "en": "challenge"
+            },
+            {
+              "surface": "municipal",
+              "lemma": "municipal",
+              "en": "municipal"
+            }
+          ]
+        },
+        {
+          "es": "Una jueza ordenó que el parque permanezca abierto por dos semanas mientras se resuelven los problemas legales.",
+          "en": "A judge ordered the park to remain open for two weeks while legal issues are resolved.",
+          "words": [
+            {
+              "surface": "ordenó",
+              "lemma": "ordenar",
+              "en": "ordered"
+            },
+            {
+              "surface": "permanezca",
+              "lemma": "permanecer",
+              "en": "remain"
+            },
+            {
+              "surface": "resuelven",
+              "lemma": "resolver",
+              "en": "are resolved"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-3",
+      "headline": {
+        "es": "Fiona la hipopótama muere después de tragar un sombrero",
+        "en": "Fiona the hippo dies after swallowing a hat"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Fiona, una hipopótama famosa del zoológico de Cincinnati, muere después de accidentalmente tragar un sombrero que cayó en su recinto.",
+          "en": "Fiona, a famous hippo at the Cincinnati Zoo, dies after accidentally swallowing a hat that fell into her enclosure.",
+          "words": [
+            {
+              "surface": "hipopótama",
+              "lemma": "hipopótama",
+              "en": "hippo"
+            },
+            {
+              "surface": "zoológico",
+              "lemma": "zoológico",
+              "en": "zoo"
+            },
+            {
+              "surface": "muere",
+              "lemma": "morir",
+              "en": "dies"
+            },
+            {
+              "surface": "tragar",
+              "lemma": "tragar",
+              "en": "swallowing"
+            },
+            {
+              "surface": "recinto",
+              "lemma": "recinto",
+              "en": "enclosure"
+            }
+          ]
+        },
+        {
+          "es": "El sombrero entró al recinto de forma accidental cuando un visitante lo lanzó al aire y un ventilador de techo lo empujó a través de una pequeña abertura.",
+          "en": "The hat entered the enclosure by accident when a visitor tossed it in the air and a ceiling fan pushed it through a small opening.",
+          "words": [
+            {
+              "surface": "accidental",
+              "lemma": "accidental",
+              "en": "by accident"
+            },
+            {
+              "surface": "lanzó",
+              "lemma": "lanzar",
+              "en": "tossed"
+            },
+            {
+              "surface": "ventilador",
+              "lemma": "ventilador",
+              "en": "fan"
+            },
+            {
+              "surface": "empujó",
+              "lemma": "empujar",
+              "en": "pushed"
+            },
+            {
+              "surface": "abertura",
+              "lemma": "abertura",
+              "en": "opening"
+            }
+          ]
+        },
+        {
+          "es": "Al principio Fiona parecía estar bien, pero días después su apetito disminuyó y el personal del zoológico intentó ayudarla a comer.",
+          "en": "At first Fiona seemed fine, but days later her appetite decreased and zoo staff tried to help her eat.",
+          "words": [
+            {
+              "surface": "parecía",
+              "lemma": "parecer",
+              "en": "seemed"
+            },
+            {
+              "surface": "apetito",
+              "lemma": "apetito",
+              "en": "appetite"
+            },
+            {
+              "surface": "disminuyó",
+              "lemma": "disminuir",
+              "en": "decreased"
+            },
+            {
+              "surface": "intentó",
+              "lemma": "intentar",
+              "en": "tried"
+            }
+          ]
+        },
+        {
+          "es": "Los veterinarios determinaron que la cirugía no era una opción para hipopótamos adultos y esperaban que Fiona pudiera expulsar el sombrero naturalmente.",
+          "en": "Veterinarians determined that surgery was not an option for adult hippos and hoped Fiona could pass the hat naturally.",
+          "words": [
+            {
+              "surface": "veterinarios",
+              "lemma": "veterinario",
+              "en": "veterinarians"
+            },
+            {
+              "surface": "determinaron",
+              "lemma": "determinar",
+              "en": "determined"
+            },
+            {
+              "surface": "cirugía",
+              "lemma": "cirugía",
+              "en": "surgery"
+            },
+            {
+              "surface": "opción",
+              "lemma": "opción",
+              "en": "option"
+            },
+            {
+              "surface": "expulsar",
+              "lemma": "expulsar",
+              "en": "pass"
+            }
+          ]
+        },
+        {
+          "es": "El equipo de cuidado animal hizo todo lo posible para salvar a Fiona, pero su cuerpo no pudo luchar más, según el director del zoológico.",
+          "en": "The animal care team did everything possible to save Fiona, but her body could not fight anymore, according to the zoo director.",
+          "words": [
+            {
+              "surface": "equipo",
+              "lemma": "equipo",
+              "en": "team"
+            },
+            {
+              "surface": "cuidado",
+              "lemma": "cuidado",
+              "en": "care"
+            },
+            {
+              "surface": "posible",
+              "lemma": "posible",
+              "en": "possible"
+            },
+            {
+              "surface": "luchar",
+              "lemma": "luchar",
+              "en": "fight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-4",
+      "headline": {
+        "es": "Consejos para fortalecer el matrimonio en la edad media",
+        "en": "Tips to strengthen marriage in midlife"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships"
+      },
+      "sentences": [
+        {
+          "es": "Expertos en relaciones sugieren que las parejas pasen aproximadamente seis horas juntas cada semana para mejorar su matrimonio.",
+          "en": "Relationship experts suggest that couples spend approximately six hours together each week to improve their marriage.",
+          "words": [
+            {
+              "surface": "Expertos",
+              "lemma": "experto",
+              "en": "experts"
+            },
+            {
+              "surface": "relaciones",
+              "lemma": "relación",
+              "en": "relationships"
+            },
+            {
+              "surface": "sugieren",
+              "lemma": "sugerir",
+              "en": "suggest"
+            },
+            {
+              "surface": "parejas",
+              "lemma": "pareja",
+              "en": "couples"
+            },
+            {
+              "surface": "mejorar",
+              "lemma": "mejorar",
+              "en": "improve"
+            }
+          ]
+        },
+        {
+          "es": "Los Gottman recomiendan que las parejas tengan conversaciones diarias de reducción de estrés de aproximadamente veinte minutos al final del día laboral.",
+          "en": "The Gottmans recommend that couples have daily stress-reducing conversations of approximately twenty minutes at the end of the workday.",
+          "words": [
+            {
+              "surface": "recomiendan",
+              "lemma": "recomendar",
+              "en": "recommend"
+            },
+            {
+              "surface": "conversaciones",
+              "lemma": "conversación",
+              "en": "conversations"
+            },
+            {
+              "surface": "reducción",
+              "lemma": "reducción",
+              "en": "reducing"
+            },
+            {
+              "surface": "estrés",
+              "lemma": "estrés",
+              "en": "stress"
+            }
+          ]
+        },
+        {
+          "es": "Es importante expresar gratitud genuina y admiración hacia la pareja durante aproximadamente cinco minutos cada día.",
+          "en": "It is important to express genuine gratitude and admiration toward your partner for approximately five minutes each day.",
+          "words": [
+            {
+              "surface": "importante",
+              "lemma": "importante",
+              "en": "important"
+            },
+            {
+              "surface": "expresar",
+              "lemma": "expresar",
+              "en": "express"
+            },
+            {
+              "surface": "gratitud",
+              "lemma": "gratitud",
+              "en": "gratitude"
+            },
+            {
+              "surface": "admiración",
+              "lemma": "admiración",
+              "en": "admiration"
+            }
+          ]
+        },
+        {
+          "es": "Cuando tu pareja comparte un problema, es mejor escuchar sin intentar arreglarlo, usando frases como \"Cuéntame más\".",
+          "en": "When your partner shares a problem, it is better to listen without trying to fix it, using phrases like 'Tell me more'.",
+          "words": [
+            {
+              "surface": "comparte",
+              "lemma": "compartir",
+              "en": "shares"
+            },
+            {
+              "surface": "problema",
+              "lemma": "problema",
+              "en": "problem"
+            },
+            {
+              "surface": "escuchar",
+              "lemma": "escuchar",
+              "en": "listen"
+            },
+            {
+              "surface": "arreglarlo",
+              "lemma": "arreglar",
+              "en": "fix it"
+            },
+            {
+              "surface": "frases",
+              "lemma": "frase",
+              "en": "phrases"
+            }
+          ]
+        },
+        {
+          "es": "Las parejas pueden tener intereses diferentes, pero es importante mantener la curiosidad sobre lo que hace tu pareja.",
+          "en": "Couples can have different interests, but it is important to maintain curiosity about what your partner does.",
+          "words": [
+            {
+              "surface": "intereses",
+              "lemma": "interés",
+              "en": "interests"
+            },
+            {
+              "surface": "diferentes",
+              "lemma": "diferente",
+              "en": "different"
+            },
+            {
+              "surface": "importante",
+              "lemma": "importante",
+              "en": "important"
+            },
+            {
+              "surface": "mantener",
+              "lemma": "mantener",
+              "en": "maintain"
+            },
+            {
+              "surface": "curiosidad",
+              "lemma": "curiosidad",
+              "en": "curiosity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-5",
+      "headline": {
+        "es": "Anthropic se convierte en una de las empresas más valiosas del mundo",
+        "en": "Anthropic becomes one of the world's most valuable companies"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "La empresa de inteligencia artificial Anthropic comienza a cotizar en la bolsa de valores Nasdaq con una valoración de aproximadamente 1.76 billones de dólares.",
+          "en": "The artificial intelligence company Anthropic begins trading on the Nasdaq stock exchange with a valuation of approximately 1.76 trillion dollars.",
+          "words": [
+            {
+              "surface": "inteligencia",
+              "lemma": "inteligencia",
+              "en": "intelligence"
+            },
+            {
+              "surface": "artificial",
+              "lemma": "artificial",
+              "en": "artificial"
+            },
+            {
+              "surface": "cotizar",
+              "lemma": "cotizar",
+              "en": "trading"
+            },
+            {
+              "surface": "bolsa",
+              "lemma": "bolsa",
+              "en": "stock exchange"
+            },
+            {
+              "surface": "valoración",
+              "lemma": "valoración",
+              "en": "valuation"
+            }
+          ]
+        },
+        {
+          "es": "Las acciones de Anthropic suben rápidamente a 111.50 dólares en las primeras horas de negociación, pero caen a 97 dólares al final del día.",
+          "en": "Anthropic's shares rise quickly to $111.50 in the first hours of trading, but fall to $97 by the end of the day.",
+          "words": [
+            {
+              "surface": "acciones",
+              "lemma": "acción",
+              "en": "shares"
+            },
+            {
+              "surface": "suben",
+              "lemma": "subir",
+              "en": "rise"
+            },
+            {
+              "surface": "negociación",
+              "lemma": "negociación",
+              "en": "trading"
+            },
+            {
+              "surface": "caen",
+              "lemma": "caer",
+              "en": "fall"
+            }
+          ]
+        },
+        {
+          "es": "La inversión en tecnología de inteligencia artificial es una de las más costosas en la historia, con más de un billón de dólares gastados en el último año.",
+          "en": "Investment in artificial intelligence technology is one of the most expensive in history, with more than one trillion dollars spent in the last year.",
+          "words": [
+            {
+              "surface": "inversión",
+              "lemma": "inversión",
+              "en": "investment"
+            },
+            {
+              "surface": "costosas",
+              "lemma": "costoso",
+              "en": "expensive"
+            },
+            {
+              "surface": "historia",
+              "lemma": "historia",
+              "en": "history"
+            },
+            {
+              "surface": "gastados",
+              "lemma": "gastar",
+              "en": "spent"
+            }
+          ]
+        },
+        {
+          "es": "Algunos expertos advierten que el rápido crecimiento de la inversión en inteligencia artificial podría causar una burbuja financiera.",
+          "en": "Some experts warn that rapid growth in artificial intelligence investment could cause a financial bubble.",
+          "words": [
+            {
+              "surface": "expertos",
+              "lemma": "experto",
+              "en": "experts"
+            },
+            {
+              "surface": "advierten",
+              "lemma": "advertir",
+              "en": "warn"
+            },
+            {
+              "surface": "crecimiento",
+              "lemma": "crecimiento",
+              "en": "growth"
+            },
+            {
+              "surface": "burbuja",
+              "lemma": "burbuja",
+              "en": "bubble"
+            },
+            {
+              "surface": "financiera",
+              "lemma": "financiero",
+              "en": "financial"
+            }
+          ]
+        },
+        {
+          "es": "Anthropic es la primera empresa puramente de inteligencia artificial en cotizar en bolsa, lo que la hace única en el mercado de valores.",
+          "en": "Anthropic is the first purely artificial intelligence company to go public, making it unique in the stock market.",
+          "words": [
+            {
+              "surface": "primera",
+              "lemma": "primero",
+              "en": "first"
+            },
+            {
+              "surface": "puramente",
+              "lemma": "puramente",
+              "en": "purely"
+            },
+            {
+              "surface": "cotizar",
+              "lemma": "cotizar",
+              "en": "go public"
+            },
+            {
+              "surface": "bolsa",
+              "lemma": "bolsa",
+              "en": "stock market"
+            },
+            {
+              "surface": "única",
+              "lemma": "único",
+              "en": "unique"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-6",
+      "headline": {
+        "es": "Scott Colom gana la carrera al Senado en Misisipi",
+        "en": "Scott Colom wins Mississippi Senate race"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race"
+      },
+      "sentences": [
+        {
+          "es": "Scott Colom, demócrata, gana la carrera al Senado en Misisipi y se convierte en el primer senador negro del estado en casi ciento cincuenta años.",
+          "en": "Scott Colom, a Democrat, wins the Mississippi Senate race and becomes the state's first Black senator in nearly one hundred fifty years.",
+          "words": [
+            {
+              "surface": "demócrata",
+              "lemma": "demócrata",
+              "en": "Democrat"
+            },
+            {
+              "surface": "gana",
+              "lemma": "ganar",
+              "en": "wins"
+            },
+            {
+              "surface": "carrera",
+              "lemma": "carrera",
+              "en": "race"
+            },
+            {
+              "surface": "Senado",
+              "lemma": "Senado",
+              "en": "Senate"
+            },
+            {
+              "surface": "senador",
+              "lemma": "senador",
+              "en": "senator"
+            }
+          ]
+        },
+        {
+          "es": "Colom es descendiente de una mujer esclavizada y representa un momento histórico en un estado donde el poder político negro fue destruido después de la Reconstrucción.",
+          "en": "Colom is descended from an enslaved woman and represents a historic moment in a state where Black political power was destroyed after Reconstruction.",
+          "words": [
+            {
+              "surface": "descendiente",
+              "lemma": "descendiente",
+              "en": "descended"
+            },
+            {
+              "surface": "esclavizada",
+              "lemma": "esclavizar",
+              "en": "enslaved"
+            },
+            {
+              "surface": "representa",
+              "lemma": "representar",
+              "en": "represents"
+            },
+            {
+              "surface": "histórico",
+              "lemma": "histórico",
+              "en": "historic"
+            },
+            {
+              "surface": "destruido",
+              "lemma": "destruir",
+              "en": "destroyed"
+            },
+            {
+              "surface": "Reconstrucción",
+              "lemma": "Reconstrucción",
+              "en": "Reconstruction"
+            }
+          ]
+        },
+        {
+          "es": "Durante la Gran Migración, muchos afroamericanos huyeron de Misisipi para escapar del racismo y el terror, pero la familia de Colom se quedó para luchar por el cambio.",
+          "en": "During the Great Migration, many African Americans fled Mississippi to escape racism and terror, but Colom's family stayed to fight for change.",
+          "words": [
+            {
+              "surface": "Gran",
+              "lemma": "grande",
+              "en": "Great"
+            },
+            {
+              "surface": "Migración",
+              "lemma": "Migración",
+              "en": "Migration"
+            },
+            {
+              "surface": "huyeron",
+              "lemma": "huir",
+              "en": "fled"
+            },
+            {
+              "surface": "escapar",
+              "lemma": "escapar",
+              "en": "escape"
+            },
+            {
+              "surface": "racismo",
+              "lemma": "racismo",
+              "en": "racism"
+            },
+            {
+              "surface": "terror",
+              "lemma": "terror",
+              "en": "terror"
+            },
+            {
+              "surface": "quedó",
+              "lemma": "quedarse",
+              "en": "stayed"
+            },
+            {
+              "surface": "luchar",
+              "lemma": "luchar",
+              "en": "fight"
+            }
+          ]
+        },
+        {
+          "es": "Expertos observan que la movilización de votantes negros en Misisipi fue organizada y estratégica, contando con el apoyo de jóvenes y personas mayores.",
+          "en": "Experts observe that the mobilization of Black voters in Mississippi was organized and strategic, counting on support from young people and older folks.",
+          "words": [
+            {
+              "surface": "Expertos",
+              "lemma": "experto",
+              "en": "Experts"
+            },
+            {
+              "surface": "observan",
+              "lemma": "observar",
+              "en": "observe"
+            },
+            {
+              "surface": "movilización",
+              "lemma": "movilización",
+              "en": "mobilization"
+            },
+            {
+              "surface": "votantes",
+              "lemma": "votante",
+              "en": "voters"
+            },
+            {
+              "surface": "organizada",
+              "lemma": "organizado",
+              "en": "organized"
+            },
+            {
+              "surface": "estratégica",
+              "lemma": "estratégico",
+              "en": "strategic"
+            },
+            {
+              "surface": "apoyo",
+              "lemma": "apoyo",
+              "en": "support"
+            }
+          ]
+        },
+        {
+          "es": "La victoria de Colom es considerada más significativa que la elección de Barack Obama por algunos estudiosos de Misisipi.",
+          "en": "Colom's victory is considered more significant than Barack Obama's election by some Mississippi scholars.",
+          "words": [
+            {
+              "surface": "victoria",
+              "lemma": "victoria",
+              "en": "victory"
+            },
+            {
+              "surface": "considerada",
+              "lemma": "considerar",
+              "en": "considered"
+            },
+            {
+              "surface": "significativa",
+              "lemma": "significativo",
+              "en": "significant"
+            },
+            {
+              "surface": "elección",
+              "lemma": "elección",
+              "en": "election"
+            },
+            {
+              "surface": "estudiosos",
+              "lemma": "estudioso",
+              "en": "scholars"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
