@@ -1,0 +1,556 @@
+{
+  "date": "2026-11-20",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-20T22:34:52.357Z",
+  "stories": [
+    {
+      "id": "2026-11-20-1",
+      "headline": {
+        "es": "La ciudad yemení de Taiz sufre un asedio de los hutíes",
+        "en": "Yemeni city of Taiz suffers under Houthi siege"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "La ciudad de Taiz en Yemen está completamente rodeada por combatientes hutíes desde hace poco tiempo.",
+          "en": "The city of Taiz in Yemen has been completely surrounded by Houthi fighters for a short time.",
+          "words": [
+            {
+              "surface": "rodeada",
+              "lemma": "rodear",
+              "en": "surrounded"
+            },
+            {
+              "surface": "hutíes",
+              "lemma": "hutí",
+              "en": "Houthis"
+            },
+            {
+              "surface": "combatientes",
+              "lemma": "combatiente",
+              "en": "fighters"
+            }
+          ]
+        },
+        {
+          "es": "Los residentes no pueden entrar ni salir de la ciudad, y hay muy poca comida disponible.",
+          "en": "Residents cannot enter or leave the city, and there is very little food available.",
+          "words": [
+            {
+              "surface": "residentes",
+              "lemma": "residente",
+              "en": "residents"
+            },
+            {
+              "surface": "disponible",
+              "lemma": "disponible",
+              "en": "available"
+            }
+          ]
+        },
+        {
+          "es": "Los precios de alimentos básicos como el arroz y el aceite han subido mucho, y hay falta de medicina y combustible.",
+          "en": "Prices for basic foods like rice and oil have risen greatly, and there is a shortage of medicine and fuel.",
+          "words": [
+            {
+              "surface": "básicos",
+              "lemma": "básico",
+              "en": "basic"
+            },
+            {
+              "surface": "combustible",
+              "lemma": "combustible",
+              "en": "fuel"
+            }
+          ]
+        },
+        {
+          "es": "Las escuelas están cerradas, los restaurantes no funcionan, y muchas personas mueren por los ataques y la falta de recursos.",
+          "en": "Schools are closed, restaurants are not operating, and many people die from attacks and lack of resources.",
+          "words": [
+            {
+              "surface": "recursos",
+              "lemma": "recurso",
+              "en": "resources"
+            }
+          ]
+        },
+        {
+          "es": "Los hospitales tienen muy poco medicamento y equipo, y pueden continuar solo dos semanas más.",
+          "en": "Hospitals have very little medicine and equipment, and can continue for only two more weeks.",
+          "words": [
+            {
+              "surface": "medicamento",
+              "lemma": "medicamento",
+              "en": "medicine"
+            },
+            {
+              "surface": "equipo",
+              "lemma": "equipo",
+              "en": "equipment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-2",
+      "headline": {
+        "es": "El mercado de valores cae fuertemente por problemas en acciones de tecnología",
+        "en": "Stock market falls sharply due to problems in technology stocks"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
+      },
+      "sentences": [
+        {
+          "es": "El índice S&P 500 bajó 3.7% el viernes, lo que es la peor semana en más de dieciocho meses.",
+          "en": "The S&P 500 index fell 3.7% on Friday, which is the worst week in more than eighteen months.",
+          "words": [
+            {
+              "surface": "índice",
+              "lemma": "índice",
+              "en": "index"
+            }
+          ]
+        },
+        {
+          "es": "El Nasdaq bajó 5.3% y ahora está en números rojos para todo el año.",
+          "en": "The Nasdaq fell 5.3% and is now in negative territory for the entire year.",
+          "words": [
+            {
+              "surface": "números rojos",
+              "lemma": "número rojo",
+              "en": "negative territory"
+            }
+          ]
+        },
+        {
+          "es": "Las acciones de empresas de tecnología e inteligencia artificial cayeron mucho, especialmente las de chips como Nvidia y Micron.",
+          "en": "Shares of technology and artificial intelligence companies fell sharply, especially those of chip makers like Nvidia and Micron.",
+          "words": [
+            {
+              "surface": "acciones",
+              "lemma": "acción",
+              "en": "shares"
+            },
+            {
+              "surface": "inteligencia artificial",
+              "lemma": "inteligencia artificial",
+              "en": "artificial intelligence"
+            },
+            {
+              "surface": "chips",
+              "lemma": "chip",
+              "en": "chips"
+            }
+          ]
+        },
+        {
+          "es": "Muchos inversionistas creen que el valor de las empresas de inteligencia artificial es demasiado alto y que hay una burbuja en este sector.",
+          "en": "Many investors believe that the value of artificial intelligence companies is too high and that there is a bubble in this sector.",
+          "words": [
+            {
+              "surface": "inversionistas",
+              "lemma": "inversionista",
+              "en": "investors"
+            },
+            {
+              "surface": "burbuja",
+              "lemma": "burbuja",
+              "en": "bubble"
+            },
+            {
+              "surface": "sector",
+              "lemma": "sector",
+              "en": "sector"
+            }
+          ]
+        },
+        {
+          "es": "La caída en el mercado de valores también afectó a otros países como Japón y Corea del Sur.",
+          "en": "The fall in the stock market also affected other countries like Japan and South Korea.",
+          "words": [
+            {
+              "surface": "caída",
+              "lemma": "caída",
+              "en": "fall"
+            },
+            {
+              "surface": "afectó",
+              "lemma": "afectar",
+              "en": "affected"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-3",
+      "headline": {
+        "es": "Dinamarca acusa a Rusia de planear un asesinato en Copenhague",
+        "en": "Denmark accuses Russia of planning an assassination in Copenhagen"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Dinamarca dice que los servicios de inteligencia rusos planearon matar a un rapero ucraniano-estadounidense llamado Kyivstoner.",
+          "en": "Denmark says that Russian intelligence services planned to kill a Ukrainian-American rapper named Kyivstoner.",
+          "words": [
+            {
+              "surface": "servicios de inteligencia",
+              "lemma": "servicio de inteligencia",
+              "en": "intelligence services"
+            },
+            {
+              "surface": "rapero",
+              "lemma": "rapero",
+              "en": "rapper"
+            }
+          ]
+        },
+        {
+          "es": "La policía detuvo a tres personas que viajaban en un auto cerca del lugar donde el rapero iba a cantar en septiembre.",
+          "en": "Police stopped three people who were traveling in a car near the place where the rapper was going to perform in September.",
+          "words": [
+            {
+              "surface": "detuvo",
+              "lemma": "detener",
+              "en": "stopped"
+            }
+          ]
+        },
+        {
+          "es": "Encontraron armas de fuego y cuchillos en el vehículo, y dos personas fueron acusadas de intento de asesinato.",
+          "en": "They found firearms and knives in the vehicle, and two people were charged with attempted murder.",
+          "words": [
+            {
+              "surface": "armas de fuego",
+              "lemma": "arma de fuego",
+              "en": "firearms"
+            },
+            {
+              "surface": "acusadas",
+              "lemma": "acusar",
+              "en": "charged"
+            }
+          ]
+        },
+        {
+          "es": "Rusia niega que esté involucrada y dice que Dinamarca no tiene pruebas de su participación.",
+          "en": "Russia denies that it is involved and says that Denmark has no evidence of its participation.",
+          "words": [
+            {
+              "surface": "niega",
+              "lemma": "negar",
+              "en": "denies"
+            },
+            {
+              "surface": "involucrada",
+              "lemma": "involucrado",
+              "en": "involved"
+            },
+            {
+              "surface": "pruebas",
+              "lemma": "prueba",
+              "en": "evidence"
+            }
+          ]
+        },
+        {
+          "es": "Dinamarca va a expulsar al agregado de defensa ruso como respuesta a las acusaciones.",
+          "en": "Denmark will expel the Russian defense attaché in response to the accusations.",
+          "words": [
+            {
+              "surface": "expulsar",
+              "lemma": "expulsar",
+              "en": "expel"
+            },
+            {
+              "surface": "agregado de defensa",
+              "lemma": "agregado de defensa",
+              "en": "defense attaché"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-4",
+      "headline": {
+        "es": "Trump da una conferencia de prensa después de su viaje a Asia",
+        "en": "Trump holds press conference following his trip to Asia"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser"
+      },
+      "sentences": [
+        {
+          "es": "El presidente Trump dio una conferencia de prensa después de viajar a Asia.",
+          "en": "President Trump held a press conference after traveling to Asia.",
+          "words": [
+            {
+              "surface": "conferencia de prensa",
+              "lemma": "conferencia de prensa",
+              "en": "press conference"
+            }
+          ]
+        },
+        {
+          "es": "Durante su viaje, Trump se reunió con el presidente chino Xi y el presidente ruso Putin.",
+          "en": "During his trip, Trump met with Chinese President Xi and Russian President Putin.",
+          "words": [
+            {
+              "surface": "reunió",
+              "lemma": "reunir",
+              "en": "met"
+            }
+          ]
+        },
+        {
+          "es": "El viaje fue considerado histórico por los encuentros con estos líderes importantes.",
+          "en": "The trip was considered historic because of the meetings with these important leaders.",
+          "words": [
+            {
+              "surface": "histórico",
+              "lemma": "histórico",
+              "en": "historic"
+            },
+            {
+              "surface": "encuentros",
+              "lemma": "encuentro",
+              "en": "meetings"
+            }
+          ]
+        },
+        {
+          "es": "Trump habló sobre muchos temas diferentes en la conferencia.",
+          "en": "Trump spoke about many different topics at the conference.",
+          "words": [
+            {
+              "surface": "temas",
+              "lemma": "tema",
+              "en": "topics"
+            }
+          ]
+        },
+        {
+          "es": "La conferencia fue amplia y cubrió varios aspectos de la política internacional.",
+          "en": "The conference was wide-ranging and covered several aspects of international politics.",
+          "words": [
+            {
+              "surface": "amplia",
+              "lemma": "amplio",
+              "en": "wide-ranging"
+            },
+            {
+              "surface": "cubrió",
+              "lemma": "cubrir",
+              "en": "covered"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-5",
+      "headline": {
+        "es": "Reino Unido y la Unión Europea llegan a un nuevo acuerdo",
+        "en": "United Kingdom and European Union reach new agreement"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El Reino Unido y la Unión Europea firmaron un acuerdo el viernes para mejorar sus relaciones después del Brexit.",
+          "en": "The United Kingdom and the European Union signed an agreement on Friday to improve their relations after Brexit.",
+          "words": [
+            {
+              "surface": "firmaron",
+              "lemma": "firmar",
+              "en": "signed"
+            },
+            {
+              "surface": "acuerdo",
+              "lemma": "acuerdo",
+              "en": "agreement"
+            },
+            {
+              "surface": "Brexit",
+              "lemma": "Brexit",
+              "en": "Brexit"
+            }
+          ]
+        },
+        {
+          "es": "El acuerdo incluye temas sobre exportaciones de comida británica, comercio de emisiones y un programa para jóvenes.",
+          "en": "The agreement includes topics about British food exports, emissions trading, and a youth program.",
+          "words": [
+            {
+              "surface": "exportaciones",
+              "lemma": "exportación",
+              "en": "exports"
+            },
+            {
+              "surface": "emisiones",
+              "lemma": "emisión",
+              "en": "emissions"
+            }
+          ]
+        },
+        {
+          "es": "El primer ministro Andy Burnham dijo que fue un buen día para Gran Bretaña y Europa.",
+          "en": "Prime Minister Andy Burnham said it was a good day for Great Britain and Europe.",
+          "words": [
+            {
+              "surface": "primer ministro",
+              "lemma": "primer ministro",
+              "en": "prime minister"
+            }
+          ]
+        },
+        {
+          "es": "El presidente del Consejo Europeo dijo que la Unión Europea quiere tener la mejor relación posible con el Reino Unido.",
+          "en": "The President of the European Council said that the European Union wants to have the best possible relationship with the United Kingdom.",
+          "words": [
+            {
+              "surface": "Consejo Europeo",
+              "lemma": "Consejo Europeo",
+              "en": "European Council"
+            }
+          ]
+        },
+        {
+          "es": "Algunos políticos británicos criticaron el acuerdo y dijeron que no es justo para el Reino Unido.",
+          "en": "Some British politicians criticized the agreement and said that it is not fair for the United Kingdom.",
+          "words": [
+            {
+              "surface": "criticaron",
+              "lemma": "criticar",
+              "en": "criticized"
+            },
+            {
+              "surface": "justo",
+              "lemma": "justo",
+              "en": "fair"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-6",
+      "headline": {
+        "es": "Una aldea indígena se muda por el aumento del nivel del mar",
+        "en": "Indigenous village relocates due to rising sea levels"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate"
+      },
+      "sentences": [
+        {
+          "es": "La nación indígena Quinault tuvo que trasladar su aldea más grande porque el nivel del mar está subiendo.",
+          "en": "The Quinault Indian Nation had to move its largest village because sea levels are rising.",
+          "words": [
+            {
+              "surface": "trasladar",
+              "lemma": "trasladar",
+              "en": "move"
+            },
+            {
+              "surface": "aldea",
+              "lemma": "aldea",
+              "en": "village"
+            }
+          ]
+        },
+        {
+          "es": "El aumento del nivel del mar es un problema causado por el cambio climático.",
+          "en": "The rise in sea level is a problem caused by climate change.",
+          "words": [
+            {
+              "surface": "aumento",
+              "lemma": "aumento",
+              "en": "rise"
+            },
+            {
+              "surface": "cambio climático",
+              "lemma": "cambio climático",
+              "en": "climate change"
+            }
+          ]
+        },
+        {
+          "es": "La aldea también está en peligro por los tsunamis que pueden ocurrir en la costa.",
+          "en": "The village is also in danger from tsunamis that can occur on the coast.",
+          "words": [
+            {
+              "surface": "peligro",
+              "lemma": "peligro",
+              "en": "danger"
+            },
+            {
+              "surface": "tsunamis",
+              "lemma": "tsunami",
+              "en": "tsunamis"
+            },
+            {
+              "surface": "costa",
+              "lemma": "costa",
+              "en": "coast"
+            }
+          ]
+        },
+        {
+          "es": "La comunidad Quinault decidió mudarse a un lugar más seguro lejos del océano.",
+          "en": "The Quinault community decided to move to a safer place away from the ocean.",
+          "words": [
+            {
+              "surface": "comunidad",
+              "lemma": "comunidad",
+              "en": "community"
+            },
+            {
+              "surface": "seguro",
+              "lemma": "seguro",
+              "en": "safe"
+            }
+          ]
+        },
+        {
+          "es": "Este es un ejemplo de cómo el cambio climático afecta a las comunidades indígenas en todo el mundo.",
+          "en": "This is an example of how climate change affects indigenous communities around the world.",
+          "words": [
+            {
+              "surface": "ejemplo",
+              "lemma": "ejemplo",
+              "en": "example"
+            },
+            {
+              "surface": "afecta",
+              "lemma": "afectar",
+              "en": "affects"
+            },
+            {
+              "surface": "indígenas",
+              "lemma": "indígena",
+              "en": "indigenous"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
