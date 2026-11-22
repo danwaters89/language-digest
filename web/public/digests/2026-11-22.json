@@ -1,0 +1,896 @@
+{
+  "date": "2026-11-22",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-22T21:39:21.912Z",
+  "stories": [
+    {
+      "id": "2026-11-22-1",
+      "headline": {
+        "es": "Miley Cyrus se casa con Maxx Morando en California",
+        "en": "Miley Cyrus marries Maxx Morando in California"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "La cantante Miley Cyrus se casó con su pareja Maxx Morando en una ceremonia en Palm Springs, California.",
+          "en": "Singer Miley Cyrus married her partner Maxx Morando at a ceremony in Palm Springs, California.",
+          "words": [
+            {
+              "surface": "cantante",
+              "lemma": "cantante",
+              "en": "singer"
+            },
+            {
+              "surface": "ceremonia",
+              "lemma": "ceremonia",
+              "en": "ceremony"
+            }
+          ]
+        },
+        {
+          "es": "Cyrus llevaba un vestido blanco de seda y Morando usaba un traje negro, ambos diseñados por la marca Saint Laurent.",
+          "en": "Cyrus wore a white silk dress and Morando wore a black suit, both designed by the Saint Laurent brand.",
+          "words": [
+            {
+              "surface": "vestido",
+              "lemma": "vestido",
+              "en": "dress"
+            },
+            {
+              "surface": "seda",
+              "lemma": "seda",
+              "en": "silk"
+            },
+            {
+              "surface": "traje",
+              "lemma": "traje",
+              "en": "suit"
+            }
+          ]
+        },
+        {
+          "es": "La madre y la hermana de Miley estuvieron presentes en la boda, pero su padre Billy Ray Cyrus asistió con su pareja, la actriz Liz Hurley.",
+          "en": "Miley's mother and sister were present at the wedding, but her father Billy Ray Cyrus attended with his partner, actress Liz Hurley.",
+          "words": [
+            {
+              "surface": "boda",
+              "lemma": "boda",
+              "en": "wedding"
+            },
+            {
+              "surface": "actriz",
+              "lemma": "actriz",
+              "en": "actress"
+            }
+          ]
+        },
+        {
+          "es": "Miley compartió fotos en blanco y negro en Instagram donde aparecen los novios besándose rodeados de rosas blancas.",
+          "en": "Miley shared black and white photos on Instagram showing the newlyweds kissing surrounded by white roses.",
+          "words": [
+            {
+              "surface": "novios",
+              "lemma": "novio",
+              "en": "newlyweds"
+            },
+            {
+              "surface": "rosas",
+              "lemma": "rosa",
+              "en": "roses"
+            }
+          ]
+        },
+        {
+          "es": "Miley y Maxx se conocieron en una cita a ciegas hace cuatro años, y él le propuso matrimonio durante un viaje a Asia el año pasado.",
+          "en": "Miley and Maxx met on a blind date four years ago, and he proposed to her during a trip to Asia last year.",
+          "words": [
+            {
+              "surface": "cita",
+              "lemma": "cita",
+              "en": "date"
+            },
+            {
+              "surface": "ciegas",
+              "lemma": "ciego",
+              "en": "blind"
+            },
+            {
+              "surface": "propuso",
+              "lemma": "proponer",
+              "en": "proposed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-2",
+      "headline": {
+        "es": "Familias libanesas regresan a sus casas destruidas tras retiro del ejército israelí",
+        "en": "Lebanese families return to destroyed homes after Israeli army withdrawal"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes"
+      },
+      "sentences": [
+        {
+          "es": "Atef Kadouh y su esposa Soumaya vivieron en su casa en el sur del Líbano durante cuarenta años, pero cuando regresaron encontraron que los soldados israelíes la habían ocupado y quemado.",
+          "en": "Atef Kadouh and his wife Soumaya lived in their home in southern Lebanon for forty years, but when they returned they found that Israeli soldiers had occupied and burned it.",
+          "words": [
+            {
+              "surface": "ocupado",
+              "lemma": "ocupar",
+              "en": "occupied"
+            },
+            {
+              "surface": "quemado",
+              "lemma": "quemar",
+              "en": "burned"
+            }
+          ]
+        },
+        {
+          "es": "El hijo menor de Atef, Adel, era maestro de deportes y campeón de baloncesto, pero murió en un ataque con drones cuando trabajaba como conductor de ambulancia durante la guerra.",
+          "en": "Atef's youngest son, Adel, was a sports teacher and basketball champion, but he died in a drone strike while working as an ambulance driver during the war.",
+          "words": [
+            {
+              "surface": "maestro",
+              "lemma": "maestro",
+              "en": "teacher"
+            },
+            {
+              "surface": "campeón",
+              "lemma": "campeón",
+              "en": "champion"
+            },
+            {
+              "surface": "drones",
+              "lemma": "dron",
+              "en": "drones"
+            },
+            {
+              "surface": "ambulancia",
+              "lemma": "ambulancia",
+              "en": "ambulance"
+            }
+          ]
+        },
+        {
+          "es": "Dentro de la casa destruida, Atef y Soumaya encontraron agujeros de balas en los electrodomésticos, paredes quemadas y explosivos que el ejército libanés tuvo que desmantelar.",
+          "en": "Inside the destroyed house, Atef and Soumaya found bullet holes in appliances, burned walls, and explosives that the Lebanese army had to dismantle.",
+          "words": [
+            {
+              "surface": "agujeros",
+              "lemma": "agujero",
+              "en": "holes"
+            },
+            {
+              "surface": "balas",
+              "lemma": "bala",
+              "en": "bullets"
+            },
+            {
+              "surface": "electrodomésticos",
+              "lemma": "electrodoméstico",
+              "en": "appliances"
+            },
+            {
+              "surface": "desmantelar",
+              "lemma": "desmantelar",
+              "en": "dismantle"
+            }
+          ]
+        },
+        {
+          "es": "El ejército israelí también usó un bulldócer para arrancar los árboles de pino, que producían piñones, una de sus cosechas más valiosas.",
+          "en": "The Israeli army also used a bulldozer to uproot the pine trees, which produced pine nuts, one of their most valuable crops.",
+          "words": [
+            {
+              "surface": "bulldócer",
+              "lemma": "bulldócer",
+              "en": "bulldozer"
+            },
+            {
+              "surface": "arrancar",
+              "lemma": "arrancar",
+              "en": "uproot"
+            },
+            {
+              "surface": "piñones",
+              "lemma": "piñón",
+              "en": "pine nuts"
+            },
+            {
+              "surface": "cosechas",
+              "lemma": "cosecha",
+              "en": "crops"
+            }
+          ]
+        },
+        {
+          "es": "Atef dice que la familia debe empezar de cero, pero la destrucción de los árboles que cuidó como si fueran sus hijos es lo que más le duele.",
+          "en": "Atef says the family must start from scratch, but the destruction of the trees he cared for as if they were his children is what hurts him most.",
+          "words": [
+            {
+              "surface": "cuidó",
+              "lemma": "cuidar",
+              "en": "cared for"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-3",
+      "headline": {
+        "es": "Explosión en barco ruso en Libia fue causada por ataque con drones, dicen autoridades",
+        "en": "Explosion on Russian ship in Libya caused by suspected drone attack, officials say"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un barco militar ruso que estaba en el puerto de Bengasi, Libia, sufrió una explosión el domingo por la mañana, probablemente causada por un ataque con drones.",
+          "en": "A Russian military ship at Benghazi port in Libya suffered an explosion on Sunday morning, likely caused by a drone attack.",
+          "words": [
+            {
+              "surface": "barco",
+              "lemma": "barco",
+              "en": "ship"
+            },
+            {
+              "surface": "puerto",
+              "lemma": "puerto",
+              "en": "port"
+            },
+            {
+              "surface": "explosión",
+              "lemma": "explosión",
+              "en": "explosion"
+            },
+            {
+              "surface": "drones",
+              "lemma": "dron",
+              "en": "drones"
+            }
+          ]
+        },
+        {
+          "es": "El barco estaba detenido en el puerto para cargar combustible y suministros antes de regresar a Rusia, según informó el gobierno oriental de Libia.",
+          "en": "The ship was stopped at the port to load fuel and supplies before returning to Russia, according to Libya's eastern government.",
+          "words": [
+            {
+              "surface": "combustible",
+              "lemma": "combustible",
+              "en": "fuel"
+            },
+            {
+              "surface": "suministros",
+              "lemma": "suministro",
+              "en": "supplies"
+            }
+          ]
+        },
+        {
+          "es": "Imágenes de satélite muestran que el barco de guerra ruso se hundió, quedando visible solo la proa delantera.",
+          "en": "Satellite images show that the Russian warship sank, with only the forward bow remaining visible.",
+          "words": [
+            {
+              "surface": "satélite",
+              "lemma": "satélite",
+              "en": "satellite"
+            },
+            {
+              "surface": "hundió",
+              "lemma": "hundir",
+              "en": "sank"
+            },
+            {
+              "surface": "proa",
+              "lemma": "proa",
+              "en": "bow"
+            }
+          ]
+        },
+        {
+          "es": "Especialistas creen que Ucrania fue responsable del ataque, ya que es el único país capaz de realizar operaciones de este tipo contra Rusia.",
+          "en": "Experts believe Ukraine was responsible for the attack, as it is the only country capable of carrying out operations of this type against Russia.",
+          "words": [
+            {
+              "surface": "Especialistas",
+              "lemma": "especialista",
+              "en": "experts"
+            },
+            {
+              "surface": "responsable",
+              "lemma": "responsable",
+              "en": "responsible"
+            },
+            {
+              "surface": "capaz",
+              "lemma": "capaz",
+              "en": "capable"
+            }
+          ]
+        },
+        {
+          "es": "El ataque afecta económicamente a Rusia y es considerado humillante para el Kremlin, además de ser un insulto personal para Khalifa Haftar, el comandante aliado del gobierno oriental.",
+          "en": "The attack affects Russia economically and is considered humiliating for the Kremlin, as well as being a personal insult to Khalifa Haftar, the commander allied with the eastern government.",
+          "words": [
+            {
+              "surface": "afecta",
+              "lemma": "afectar",
+              "en": "affects"
+            },
+            {
+              "surface": "económicamente",
+              "lemma": "económicamente",
+              "en": "economically"
+            },
+            {
+              "surface": "humillante",
+              "lemma": "humillante",
+              "en": "humiliating"
+            },
+            {
+              "surface": "Kremlin",
+              "lemma": "Kremlin",
+              "en": "Kremlin"
+            },
+            {
+              "surface": "insulto",
+              "lemma": "insulto",
+              "en": "insult"
+            },
+            {
+              "surface": "comandante",
+              "lemma": "comandante",
+              "en": "commander"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-4",
+      "headline": {
+        "es": "Jóvenes autores inspiran a niños en Sudáfrica con programa de lectura",
+        "en": "Young authors inspire children in South Africa with literacy program"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy"
+      },
+      "sentences": [
+        {
+          "es": "En la ciudad de Alexandra, Sudáfrica, un programa gratuito de lectura llamado Read Alex ayuda a niños a mejorar sus habilidades de lectura y escritura.",
+          "en": "In Alexandra township, South Africa, a free reading program called Read Alex helps children improve their reading and writing skills.",
+          "words": [
+            {
+              "surface": "ciudad",
+              "lemma": "ciudad",
+              "en": "township"
+            },
+            {
+              "surface": "programa",
+              "lemma": "programa",
+              "en": "program"
+            },
+            {
+              "surface": "gratuito",
+              "lemma": "gratuito",
+              "en": "free"
+            },
+            {
+              "surface": "habilidades",
+              "lemma": "habilidad",
+              "en": "skills"
+            }
+          ]
+        },
+        {
+          "es": "Sudáfrica enfrenta una crisis de alfabetismo, donde el ochenta y uno por ciento de los niños de diez años no pueden leer con comprensión en ninguno de los idiomas oficiales del país.",
+          "en": "South Africa faces a literacy crisis, where eighty-one percent of ten-year-old children cannot read for meaning in any of the country's official languages.",
+          "words": [
+            {
+              "surface": "crisis",
+              "lemma": "crisis",
+              "en": "crisis"
+            },
+            {
+              "surface": "alfabetismo",
+              "lemma": "alfabetismo",
+              "en": "literacy"
+            },
+            {
+              "surface": "comprensión",
+              "lemma": "comprensión",
+              "en": "meaning"
+            }
+          ]
+        },
+        {
+          "es": "Fiona Mogane, una niña de trece años, escribió una historia sobre una chica llamada Lindani que supera los desafíos de su vida vendiendo pasteles.",
+          "en": "Fiona Mogane, a thirteen-year-old girl, wrote a story about a girl named Lindani who overcomes life's challenges by selling cakes.",
+          "words": [
+            {
+              "surface": "escribió",
+              "lemma": "escribir",
+              "en": "wrote"
+            },
+            {
+              "surface": "historia",
+              "lemma": "historia",
+              "en": "story"
+            },
+            {
+              "surface": "supera",
+              "lemma": "superar",
+              "en": "overcomes"
+            },
+            {
+              "surface": "desafíos",
+              "lemma": "desafío",
+              "en": "challenges"
+            },
+            {
+              "surface": "vendiendo",
+              "lemma": "vender",
+              "en": "selling"
+            },
+            {
+              "surface": "pasteles",
+              "lemma": "pastel",
+              "en": "cakes"
+            }
+          ]
+        },
+        {
+          "es": "Los coordinadores del programa quedaron impresionados por la madurez de la historia de Fiona, que trata temas profundos como el alcoholismo.",
+          "en": "The program coordinators were impressed by the maturity of Fiona's story, which addresses deep themes like alcoholism.",
+          "words": [
+            {
+              "surface": "coordinadores",
+              "lemma": "coordinador",
+              "en": "coordinators"
+            },
+            {
+              "surface": "impresionados",
+              "lemma": "impresionado",
+              "en": "impressed"
+            },
+            {
+              "surface": "madurez",
+              "lemma": "madurez",
+              "en": "maturity"
+            },
+            {
+              "surface": "trata",
+              "lemma": "tratar",
+              "en": "addresses"
+            },
+            {
+              "surface": "profundos",
+              "lemma": "profundo",
+              "en": "deep"
+            },
+            {
+              "surface": "alcoholismo",
+              "lemma": "alcoholismo",
+              "en": "alcoholism"
+            }
+          ]
+        },
+        {
+          "es": "Fiona sueña con ir a la universidad para estudiar medicina y construir una casa grande con una habitación llena de libros.",
+          "en": "Fiona dreams of going to university to study medicine and building a big house with a room full of books.",
+          "words": [
+            {
+              "surface": "sueña",
+              "lemma": "soñar",
+              "en": "dreams"
+            },
+            {
+              "surface": "universidad",
+              "lemma": "universidad",
+              "en": "university"
+            },
+            {
+              "surface": "estudiar",
+              "lemma": "estudiar",
+              "en": "study"
+            },
+            {
+              "surface": "medicina",
+              "lemma": "medicina",
+              "en": "medicine"
+            },
+            {
+              "surface": "construir",
+              "lemma": "construir",
+              "en": "building"
+            },
+            {
+              "surface": "habitación",
+              "lemma": "habitación",
+              "en": "room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-5",
+      "headline": {
+        "es": "Demócratas ganan la mayoría más grande en la Cámara desde 1992",
+        "en": "Democrats win largest House majority since 1992"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El Partido Demócrata ganó la mayoría más grande en la Cámara de Representantes desde 1992 después de que Chuck Hubbard derrotó a la representante republicana Virginia Foxx en Carolina del Norte.",
+          "en": "The Democratic Party won the largest majority in the House of Representatives since 1992 after Chuck Hubbard defeated Republican Representative Virginia Foxx in North Carolina.",
+          "words": [
+            {
+              "surface": "Partido",
+              "lemma": "partido",
+              "en": "party"
+            },
+            {
+              "surface": "mayoría",
+              "lemma": "mayoría",
+              "en": "majority"
+            },
+            {
+              "surface": "Cámara",
+              "lemma": "cámara",
+              "en": "chamber"
+            },
+            {
+              "surface": "Representantes",
+              "lemma": "representante",
+              "en": "representatives"
+            },
+            {
+              "surface": "derrotó",
+              "lemma": "derrotar",
+              "en": "defeated"
+            }
+          ]
+        },
+        {
+          "es": "Hubbard ganó a Foxx por solo trescientos treinta votos, en una de las elecciones más cerradas de las elecciones intermedias recientes.",
+          "en": "Hubbard beat Foxx by only three hundred thirty votes, in one of the closest elections of the recent midterm elections.",
+          "words": [
+            {
+              "surface": "ganó",
+              "lemma": "ganar",
+              "en": "beat"
+            },
+            {
+              "surface": "votos",
+              "lemma": "voto",
+              "en": "votes"
+            },
+            {
+              "surface": "cerradas",
+              "lemma": "cerrado",
+              "en": "close"
+            },
+            {
+              "surface": "elecciones",
+              "lemma": "elección",
+              "en": "elections"
+            },
+            {
+              "surface": "intermedias",
+              "lemma": "intermedio",
+              "en": "midterm"
+            }
+          ]
+        },
+        {
+          "es": "Los Demócratas ahora tienen al menos doscientos cincuenta y ocho escaños en la Cámara, mientras que los Republicanos tienen al menos ciento setenta y tres escaños.",
+          "en": "Democrats now have at least two hundred fifty-eight seats in the House, while Republicans have at least one hundred seventy-three seats.",
+          "words": [
+            {
+              "surface": "escaños",
+              "lemma": "escaño",
+              "en": "seats"
+            }
+          ]
+        },
+        {
+          "es": "Hubbard enfatizó durante su campaña el costo de vida cada vez más alto en los Estados Unidos durante la guerra con Irán, un tema importante para los votantes.",
+          "en": "Hubbard emphasized during his campaign the rising cost of living in the United States during the war with Iran, an important issue for voters.",
+          "words": [
+            {
+              "surface": "enfatizó",
+              "lemma": "enfatizar",
+              "en": "emphasized"
+            },
+            {
+              "surface": "campaña",
+              "lemma": "campaña",
+              "en": "campaign"
+            },
+            {
+              "surface": "costo",
+              "lemma": "costo",
+              "en": "cost"
+            },
+            {
+              "surface": "votantes",
+              "lemma": "votante",
+              "en": "voters"
+            }
+          ]
+        },
+        {
+          "es": "Con la mayoría en la Cámara y el control del Senado, los Demócratas podrán investigar conflictos de interés y pasar leyes más fácilmente, aunque el presidente Trump aún puede rechazarlas.",
+          "en": "With the majority in the House and control of the Senate, Democrats will be able to investigate conflicts of interest and pass laws more easily, although President Trump can still reject them.",
+          "words": [
+            {
+              "surface": "investigar",
+              "lemma": "investigar",
+              "en": "investigate"
+            },
+            {
+              "surface": "conflictos",
+              "lemma": "conflicto",
+              "en": "conflicts"
+            },
+            {
+              "surface": "interés",
+              "lemma": "interés",
+              "en": "interest"
+            },
+            {
+              "surface": "leyes",
+              "lemma": "ley",
+              "en": "laws"
+            },
+            {
+              "surface": "rechazarlas",
+              "lemma": "rechazar",
+              "en": "reject them"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-6",
+      "headline": {
+        "es": "Negociaciones sobre cambio climático fracasan por desacuerdo sobre combustibles fósiles",
+        "en": "Climate change talks fall apart over fossil fuels disagreement"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment"
+      },
+      "sentences": [
+        {
+          "es": "Las negociaciones internacionales sobre cambio climático en Antalya, Turquía, fracasaron porque los países no se pusieron de acuerdo sobre cómo abordar los combustibles fósiles.",
+          "en": "International climate negotiations in Antalya, Turkey, failed because countries could not agree on how to address fossil fuels.",
+          "words": [
+            {
+              "surface": "negociaciones",
+              "lemma": "negociación",
+              "en": "negotiations"
+            },
+            {
+              "surface": "cambio",
+              "lemma": "cambio",
+              "en": "change"
+            },
+            {
+              "surface": "climático",
+              "lemma": "climático",
+              "en": "climate"
+            },
+            {
+              "surface": "fracasaron",
+              "lemma": "fracasar",
+              "en": "failed"
+            },
+            {
+              "surface": "acuerdo",
+              "lemma": "acuerdo",
+              "en": "agreement"
+            },
+            {
+              "surface": "abordar",
+              "lemma": "abordar",
+              "en": "address"
+            },
+            {
+              "surface": "combustibles",
+              "lemma": "combustible",
+              "en": "fuels"
+            },
+            {
+              "surface": "fósiles",
+              "lemma": "fósil",
+              "en": "fossil"
+            }
+          ]
+        },
+        {
+          "es": "Los delegados de casi doscientos países no llegaron a un acuerdo final sobre objetivos de electrificación y financiamiento para países en desarrollo.",
+          "en": "Delegates from nearly two hundred countries failed to reach a final agreement on electrification targets and financing for developing countries.",
+          "words": [
+            {
+              "surface": "delegados",
+              "lemma": "delegado",
+              "en": "delegates"
+            },
+            {
+              "surface": "acuerdo",
+              "lemma": "acuerdo",
+              "en": "agreement"
+            },
+            {
+              "surface": "objetivos",
+              "lemma": "objetivo",
+              "en": "targets"
+            },
+            {
+              "surface": "electrificación",
+              "lemma": "electrificación",
+              "en": "electrification"
+            },
+            {
+              "surface": "financiamiento",
+              "lemma": "financiamiento",
+              "en": "financing"
+            }
+          ]
+        },
+        {
+          "es": "La Unión Europea rechazó cualquier resultado final que no mencionara explícitamente una transición lejos de los combustibles fósiles, que causan aproximadamente el setenta y tres por ciento de las emisiones globales.",
+          "en": "The European Union rejected any final outcome that did not explicitly mention a transition away from fossil fuels, which cause approximately seventy-three percent of global emissions.",
+          "words": [
+            {
+              "surface": "Unión",
+              "lemma": "unión",
+              "en": "union"
+            },
+            {
+              "surface": "Europea",
+              "lemma": "europeo",
+              "en": "European"
+            },
+            {
+              "surface": "rechazó",
+              "lemma": "rechazar",
+              "en": "rejected"
+            },
+            {
+              "surface": "resultado",
+              "lemma": "resultado",
+              "en": "outcome"
+            },
+            {
+              "surface": "mencionara",
+              "lemma": "mencionar",
+              "en": "mention"
+            },
+            {
+              "surface": "transición",
+              "lemma": "transición",
+              "en": "transition"
+            },
+            {
+              "surface": "emisiones",
+              "lemma": "emisión",
+              "en": "emissions"
+            }
+          ]
+        },
+        {
+          "es": "Esta fue la primera cumbre de la ONU sobre clima donde se reconoció formalmente que el mundo superará el límite de calentamiento de uno punto cinco grados Celsius.",
+          "en": "This was the first UN climate summit where it was formally acknowledged that the world will surpass the warming limit of one point five degrees Celsius.",
+          "words": [
+            {
+              "surface": "cumbre",
+              "lemma": "cumbre",
+              "en": "summit"
+            },
+            {
+              "surface": "ONU",
+              "lemma": "ONU",
+              "en": "UN"
+            },
+            {
+              "surface": "reconoció",
+              "lemma": "reconocer",
+              "en": "acknowledged"
+            },
+            {
+              "surface": "superará",
+              "lemma": "superar",
+              "en": "surpass"
+            },
+            {
+              "surface": "límite",
+              "lemma": "límite",
+              "en": "limit"
+            },
+            {
+              "surface": "calentamiento",
+              "lemma": "calentamiento",
+              "en": "warming"
+            },
+            {
+              "surface": "grados",
+              "lemma": "grado",
+              "en": "degrees"
+            },
+            {
+              "surface": "Celsius",
+              "lemma": "Celsius",
+              "en": "Celsius"
+            }
+          ]
+        },
+        {
+          "es": "Más de cincuenta países han creado su propia conferencia separada dedicada a eliminar gradualmente los combustibles fósiles, porque están frustrados con el proceso de negociación de la ONU.",
+          "en": "More than fifty countries have created their own separate conference dedicated to phasing out fossil fuels, because they are frustrated with the UN negotiation process.",
+          "words": [
+            {
+              "surface": "creado",
+              "lemma": "crear",
+              "en": "created"
+            },
+            {
+              "surface": "conferencia",
+              "lemma": "conferencia",
+              "en": "conference"
+            },
+            {
+              "surface": "separada",
+              "lemma": "separado",
+              "en": "separate"
+            },
+            {
+              "surface": "dedicada",
+              "lemma": "dedicado",
+              "en": "dedicated"
+            },
+            {
+              "surface": "eliminar",
+              "lemma": "eliminar",
+              "en": "phasing out"
+            },
+            {
+              "surface": "gradualmente",
+              "lemma": "gradualmente",
+              "en": "gradually"
+            },
+            {
+              "surface": "frustrados",
+              "lemma": "frustrado",
+              "en": "frustrated"
+            },
+            {
+              "surface": "proceso",
+              "lemma": "proceso",
+              "en": "process"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
