@@ -1,0 +1,566 @@
+{
+  "date": "2026-11-23",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-24T02:50:20.252Z",
+  "stories": [
+    {
+      "id": "2026-11-23-1",
+      "headline": {
+        "es": "Nvidia reacciona al regreso de Jensen Huang como director",
+        "en": "Nvidia reacts to Jensen Huang's return as CEO"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Jensen Huang regresa como director de la empresa Nvidia.",
+          "en": "Jensen Huang returns as CEO of the company Nvidia.",
+          "words": [
+            {
+              "surface": "director",
+              "lemma": "director",
+              "en": "CEO"
+            }
+          ]
+        },
+        {
+          "es": "Trump dice que él hizo un acuerdo para que Huang vuelva a su puesto.",
+          "en": "Trump says that he made a deal for Huang to return to his position.",
+          "words": [
+            {
+              "surface": "acuerdo",
+              "lemma": "acuerdo",
+              "en": "deal"
+            }
+          ]
+        },
+        {
+          "es": "Los empleados de Nvidia tienen diferentes opiniones sobre este cambio.",
+          "en": "Nvidia employees have different opinions about this change.",
+          "words": [
+            {
+              "surface": "empleados",
+              "lemma": "empleado",
+              "en": "employees"
+            },
+            {
+              "surface": "opiniones",
+              "lemma": "opinión",
+              "en": "opinions"
+            }
+          ]
+        },
+        {
+          "es": "La reportera de la BBC habla con personas en la oficina central de Nvidia.",
+          "en": "The BBC reporter speaks with people at Nvidia's headquarters.",
+          "words": [
+            {
+              "surface": "reportera",
+              "lemma": "reportero",
+              "en": "reporter"
+            },
+            {
+              "surface": "oficina central",
+              "lemma": "oficina central",
+              "en": "headquarters"
+            }
+          ]
+        },
+        {
+          "es": "Este regreso es importante para la compañía y para el mercado de tecnología.",
+          "en": "This return is important for the company and for the technology market.",
+          "words": [
+            {
+              "surface": "mercado",
+              "lemma": "mercado",
+              "en": "market"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-2",
+      "headline": {
+        "es": "Representante de California renuncia por acusaciones de mala conducta sexual",
+        "en": "California Representative resigns over sexual misconduct allegations"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
+      },
+      "sentences": [
+        {
+          "es": "El representante Jimmy Gomez de California decide renunciar a su puesto.",
+          "en": "California Representative Jimmy Gomez decides to resign from his position.",
+          "words": [
+            {
+              "surface": "representante",
+              "lemma": "representante",
+              "en": "representative"
+            },
+            {
+              "surface": "renunciar",
+              "lemma": "renunciar",
+              "en": "resign"
+            }
+          ]
+        },
+        {
+          "es": "Un reporte de ética de la Cámara dice que Gomez hizo avances sexuales no deseados.",
+          "en": "A House ethics report says that Gomez made unwelcome sexual advances.",
+          "words": [
+            {
+              "surface": "reporte",
+              "lemma": "reporte",
+              "en": "report"
+            },
+            {
+              "surface": "ética",
+              "lemma": "ética",
+              "en": "ethics"
+            },
+            {
+              "surface": "Cámara",
+              "lemma": "cámara",
+              "en": "House"
+            },
+            {
+              "surface": "avances",
+              "lemma": "avance",
+              "en": "advances"
+            }
+          ]
+        },
+        {
+          "es": "Sus acciones violaron las reglas de la Cámara de Representantes.",
+          "en": "His actions violated the rules of the House of Representatives.",
+          "words": [
+            {
+              "surface": "violaron",
+              "lemma": "violar",
+              "en": "violated"
+            },
+            {
+              "surface": "reglas",
+              "lemma": "regla",
+              "en": "rules"
+            }
+          ]
+        },
+        {
+          "es": "El reporte menciona acusaciones de mala conducta sexual contra Gomez.",
+          "en": "The report mentions allegations of sexual misconduct against Gomez.",
+          "words": [
+            {
+              "surface": "acusaciones",
+              "lemma": "acusación",
+              "en": "allegations"
+            },
+            {
+              "surface": "mala conducta",
+              "lemma": "mala conducta",
+              "en": "misconduct"
+            }
+          ]
+        },
+        {
+          "es": "Gomez acepta renunciar después de que el reporte se hace público.",
+          "en": "Gomez accepts resigning after the report becomes public.",
+          "words": [
+            {
+              "surface": "acepta",
+              "lemma": "aceptar",
+              "en": "accepts"
+            },
+            {
+              "surface": "público",
+              "lemma": "público",
+              "en": "public"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-3",
+      "headline": {
+        "es": "Nvidia reinstala a Jensen Huang como director mientras Trump dice que hizo el acuerdo",
+        "en": "Nvidia reinstates Jensen Huang as CEO as Trump says he made the deal"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "La junta directiva de Nvidia decide traer de vuelta a Jensen Huang como director ejecutivo.",
+          "en": "Nvidia's board of directors decides to bring back Jensen Huang as chief executive officer.",
+          "words": [
+            {
+              "surface": "junta directiva",
+              "lemma": "junta directiva",
+              "en": "board of directors"
+            },
+            {
+              "surface": "director ejecutivo",
+              "lemma": "director ejecutivo",
+              "en": "chief executive officer"
+            }
+          ]
+        },
+        {
+          "es": "Expertos dicen que la Casa Blanca presionó mucho a la junta para que Huang regresara.",
+          "en": "Experts say that the White House pressured the board greatly for Huang to return.",
+          "words": [
+            {
+              "surface": "presionó",
+              "lemma": "presionar",
+              "en": "pressured"
+            }
+          ]
+        },
+        {
+          "es": "Algunos políticos republicanos y demócratas están preocupados por esta decisión.",
+          "en": "Some Republican and Democratic politicians are worried about this decision.",
+          "words": [
+            {
+              "surface": "preocupados",
+              "lemma": "preocupado",
+              "en": "worried"
+            }
+          ]
+        },
+        {
+          "es": "Trump tiene inversiones grandes en Nvidia y se beneficia si el precio de las acciones sube.",
+          "en": "Trump has large investments in Nvidia and benefits if the stock price goes up.",
+          "words": [
+            {
+              "surface": "inversiones",
+              "lemma": "inversión",
+              "en": "investments"
+            },
+            {
+              "surface": "acciones",
+              "lemma": "acción",
+              "en": "stock"
+            }
+          ]
+        },
+        {
+          "es": "Huang debe hablar con comités del Congreso en diciembre para explicar lo que pasó.",
+          "en": "Huang must speak with Congressional committees in December to explain what happened.",
+          "words": [
+            {
+              "surface": "comités",
+              "lemma": "comité",
+              "en": "committees"
+            },
+            {
+              "surface": "Congreso",
+              "lemma": "congreso",
+              "en": "Congress"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-4",
+      "headline": {
+        "es": "Invitados a la cena de moneda de meme de Trump dicen que no fue bien",
+        "en": "Guests at Trump's meme coin dinner say it didn't go well"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well"
+      },
+      "sentences": [
+        {
+          "es": "Trump organiza una cena para los dueños principales de su criptomoneda.",
+          "en": "Trump organizes a dinner for the main holders of his cryptocurrency.",
+          "words": [
+            {
+              "surface": "organiza",
+              "lemma": "organizar",
+              "en": "organizes"
+            },
+            {
+              "surface": "dueños",
+              "lemma": "dueño",
+              "en": "holders"
+            },
+            {
+              "surface": "criptomoneda",
+              "lemma": "criptomoneda",
+              "en": "cryptocurrency"
+            }
+          ]
+        },
+        {
+          "es": "Este evento causa mucha controversia en el público y en los medios.",
+          "en": "This event causes much controversy in the public and in the media.",
+          "words": [
+            {
+              "surface": "controversia",
+              "lemma": "controversia",
+              "en": "controversy"
+            },
+            {
+              "surface": "medios",
+              "lemma": "medio",
+              "en": "media"
+            }
+          ]
+        },
+        {
+          "es": "Dos personas que asisten a la cena hablan sobre su experiencia.",
+          "en": "Two people who attend the dinner speak about their experience.",
+          "words": [
+            {
+              "surface": "asisten",
+              "lemma": "asistir",
+              "en": "attend"
+            },
+            {
+              "surface": "experiencia",
+              "lemma": "experiencia",
+              "en": "experience"
+            }
+          ]
+        },
+        {
+          "es": "Los invitados dicen que la cena no resultó como esperaban.",
+          "en": "The guests say that the dinner did not turn out as they expected.",
+          "words": [
+            {
+              "surface": "invitados",
+              "lemma": "invitado",
+              "en": "guests"
+            },
+            {
+              "surface": "resultó",
+              "lemma": "resultar",
+              "en": "turned out"
+            },
+            {
+              "surface": "esperaban",
+              "lemma": "esperar",
+              "en": "expected"
+            }
+          ]
+        },
+        {
+          "es": "Sus historias muestran los problemas que ocurrieron durante el evento.",
+          "en": "Their stories show the problems that occurred during the event.",
+          "words": [
+            {
+              "surface": "historias",
+              "lemma": "historia",
+              "en": "stories"
+            },
+            {
+              "surface": "problemas",
+              "lemma": "problema",
+              "en": "problems"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-5",
+      "headline": {
+        "es": "El Rey Carlos y Elton John rinden homenaje a Molly Meldrum",
+        "en": "King Charles and Elton John pay tribute to Molly Meldrum"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Molly Meldrum, una leyenda de la música australiana, muere a los 83 años.",
+          "en": "Molly Meldrum, an Australian music legend, dies at age 83.",
+          "words": [
+            {
+              "surface": "leyenda",
+              "lemma": "leyenda",
+              "en": "legend"
+            },
+            {
+              "surface": "muere",
+              "lemma": "morir",
+              "en": "dies"
+            }
+          ]
+        },
+        {
+          "es": "Meldrum fue un promotor musical y presentador que ayudó a definir la música australiana.",
+          "en": "Meldrum was a music promoter and broadcaster who helped define Australian music.",
+          "words": [
+            {
+              "surface": "promotor",
+              "lemma": "promotor",
+              "en": "promoter"
+            },
+            {
+              "surface": "presentador",
+              "lemma": "presentador",
+              "en": "broadcaster"
+            }
+          ]
+        },
+        {
+          "es": "El Rey Carlos lo llama un gigante verdadero de la industria musical.",
+          "en": "King Charles calls him a true giant of the music industry.",
+          "words": [
+            {
+              "surface": "gigante",
+              "lemma": "gigante",
+              "en": "giant"
+            },
+            {
+              "surface": "industria",
+              "lemma": "industria",
+              "en": "industry"
+            }
+          ]
+        },
+        {
+          "es": "Meldrum entrevistó a muchas estrellas famosas durante su carrera en televisión.",
+          "en": "Meldrum interviewed many famous stars during his television career.",
+          "words": [
+            {
+              "surface": "entrevistó",
+              "lemma": "entrevistar",
+              "en": "interviewed"
+            },
+            {
+              "surface": "estrellas",
+              "lemma": "estrella",
+              "en": "stars"
+            },
+            {
+              "surface": "carrera",
+              "lemma": "carrera",
+              "en": "career"
+            }
+          ]
+        },
+        {
+          "es": "Elton John y otros artistas lo recuerdan como un ícono importante de Australia.",
+          "en": "Elton John and other artists remember him as an important icon of Australia.",
+          "words": [
+            {
+              "surface": "recuerdan",
+              "lemma": "recordar",
+              "en": "remember"
+            },
+            {
+              "surface": "ícono",
+              "lemma": "ícono",
+              "en": "icon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-6",
+      "headline": {
+        "es": "Mujeres en tecnología tienen preocupaciones sobre el regreso de Huang",
+        "en": "Women in tech have concerns about Huang's return"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia"
+      },
+      "sentences": [
+        {
+          "es": "Mujeres que trabajan en tecnología están preocupadas por el regreso de Jensen Huang a Nvidia.",
+          "en": "Women who work in technology are worried about Jensen Huang's return to Nvidia.",
+          "words": [
+            {
+              "surface": "preocupadas",
+              "lemma": "preocupado",
+              "en": "worried"
+            }
+          ]
+        },
+        {
+          "es": "Estas mujeres han trabajado para promover la diversidad en las empresas de tecnología.",
+          "en": "These women have worked to promote diversity in technology companies.",
+          "words": [
+            {
+              "surface": "promover",
+              "lemma": "promover",
+              "en": "promote"
+            },
+            {
+              "surface": "diversidad",
+              "lemma": "diversidad",
+              "en": "diversity"
+            },
+            {
+              "surface": "empresas",
+              "lemma": "empresa",
+              "en": "companies"
+            }
+          ]
+        },
+        {
+          "es": "Dicen que el regreso de Huang envía un mensaje negativo sobre los valores de Silicon Valley.",
+          "en": "They say that Huang's return sends a negative message about Silicon Valley's values.",
+          "words": [
+            {
+              "surface": "envía",
+              "lemma": "enviar",
+              "en": "sends"
+            },
+            {
+              "surface": "mensaje",
+              "lemma": "mensaje",
+              "en": "message"
+            },
+            {
+              "surface": "valores",
+              "lemma": "valor",
+              "en": "values"
+            }
+          ]
+        },
+        {
+          "es": "Creen que solo el dinero importa en la industria tecnológica, no la ética.",
+          "en": "They believe that only money matters in the technology industry, not ethics.",
+          "words": [
+            {
+              "surface": "ética",
+              "lemma": "ética",
+              "en": "ethics"
+            }
+          ]
+        },
+        {
+          "es": "Este regreso preocupa a las mujeres que luchan por cambios en la tecnología.",
+          "en": "This return worries women who fight for change in technology.",
+          "words": [
+            {
+              "surface": "luchan",
+              "lemma": "luchar",
+              "en": "fight"
+            },
+            {
+              "surface": "cambios",
+              "lemma": "cambio",
+              "en": "change"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
