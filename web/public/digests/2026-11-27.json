@@ -1,0 +1,604 @@
+{
+  "date": "2026-11-27",
+  "level": "A2",
+  "spanishVariant": "es-MX",
+  "generatedAt": "2026-11-27T23:58:22.567Z",
+  "stories": [
+    {
+      "id": "2026-11-27-1",
+      "headline": {
+        "es": "Activistas uigures dicen que el mundo no los escucha por los intereses económicos de China",
+        "en": "Uyghur activists say the world is not listening to them because of China's economic interests"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Un activista uigur llamado Dolkun Isa vive en Alemania desde hace casi treinta años y nota que cada vez menos personas protestan por los derechos humanos en China.",
+          "en": "A Uyghur activist named Dolkun Isa has lived in Germany for almost thirty years and notices that fewer and fewer people are protesting for human rights in China.",
+          "words": [
+            {
+              "surface": "activista",
+              "lemma": "activista",
+              "en": "activist"
+            },
+            {
+              "surface": "uigur",
+              "lemma": "uigur",
+              "en": "Uyghur"
+            },
+            {
+              "surface": "derechos humanos",
+              "lemma": "derecho humano",
+              "en": "human rights"
+            }
+          ]
+        },
+        {
+          "es": "En 2018, China detuvo a muchos uigures y musulmanes en campos de internamiento en la provincia de Xinjiang, y el mundo protestó mucho contra esto.",
+          "en": "In 2018, China detained many Uyghurs and Muslims in internment camps in Xinjiang province, and the world protested strongly against this.",
+          "words": [
+            {
+              "surface": "detuvo",
+              "lemma": "detener",
+              "en": "detained"
+            },
+            {
+              "surface": "internamiento",
+              "lemma": "internamiento",
+              "en": "internment"
+            },
+            {
+              "surface": "provincia",
+              "lemma": "provincia",
+              "en": "province"
+            }
+          ]
+        },
+        {
+          "es": "Ahora, China tiene mucho poder económico en el mundo porque vende autos eléctricos, paneles solares y otros productos a muchos países.",
+          "en": "Now, China has great economic power in the world because it sells electric vehicles, solar panels and other products to many countries.",
+          "words": [
+            {
+              "surface": "poder económico",
+              "lemma": "poder económico",
+              "en": "economic power"
+            },
+            {
+              "surface": "autos eléctricos",
+              "lemma": "auto eléctrico",
+              "en": "electric vehicles"
+            },
+            {
+              "surface": "paneles solares",
+              "lemma": "panel solar",
+              "en": "solar panels"
+            }
+          ]
+        },
+        {
+          "es": "Los activistas dicen que China ofrece dinero y reuniones familiares a los exiliados para que dejen de protestar y den información sobre otros activistas.",
+          "en": "Activists say that China offers money and family reunions to exiles so they stop protesting and provide information about other activists.",
+          "words": [
+            {
+              "surface": "exiliados",
+              "lemma": "exiliado",
+              "en": "exiles"
+            }
+          ]
+        },
+        {
+          "es": "Muchas personas han dejado de protestar porque tienen miedo de lo que le pueda pasar a sus familias que viven en China.",
+          "en": "Many people have stopped protesting because they are afraid of what might happen to their families who live in China.",
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-2",
+      "headline": {
+        "es": "Una tormenta poderosa causa apagones en la costa este de Estados Unidos",
+        "en": "A powerful storm causes blackouts on the US East Coast"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+      },
+      "sentences": [
+        {
+          "es": "Una tormenta muy fuerte pasó por la costa este y el medio oeste de Estados Unidos en el Día de Acción de Gracias y dejó sin electricidad a cientos de miles de personas.",
+          "en": "A very strong storm passed through the US East Coast and Midwest on Thanksgiving and left hundreds of thousands of people without electricity.",
+          "words": [
+            {
+              "surface": "tormenta",
+              "lemma": "tormenta",
+              "en": "storm"
+            },
+            {
+              "surface": "Acción de Gracias",
+              "lemma": "Acción de Gracias",
+              "en": "Thanksgiving"
+            }
+          ]
+        },
+        {
+          "es": "Cientos de vuelos fueron cancelados y miles fueron retrasados durante uno de los días más ocupados del año para viajar.",
+          "en": "Hundreds of flights were canceled and thousands were delayed during one of the busiest days of the year for travel.",
+          "words": [
+            {
+              "surface": "vuelos",
+              "lemma": "vuelo",
+              "en": "flights"
+            },
+            {
+              "surface": "cancelados",
+              "lemma": "cancelar",
+              "en": "canceled"
+            },
+            {
+              "surface": "retrasados",
+              "lemma": "retrasar",
+              "en": "delayed"
+            }
+          ]
+        },
+        {
+          "es": "Las inundaciones causaron la mayoría de los daños, y en Nueva Jersey cerraron varios puentes y en Virginia las personas navegaban en kayak por las calles.",
+          "en": "Flooding caused most of the damage, and in New Jersey several bridges were closed and in Virginia people were kayaking through the streets.",
+          "words": [
+            {
+              "surface": "inundaciones",
+              "lemma": "inundación",
+              "en": "flooding"
+            },
+            {
+              "surface": "daños",
+              "lemma": "daño",
+              "en": "damage"
+            },
+            {
+              "surface": "navegaban",
+              "lemma": "navegar",
+              "en": "were paddling/kayaking"
+            }
+          ]
+        },
+        {
+          "es": "A pesar de la inflación y la preocupación por el costo de vida, los estadounidenses esperan gastar un récord de dinero en el Viernes Negro este año.",
+          "en": "Despite inflation and concerns about the cost of living, Americans are expected to spend a record amount of money on Black Friday this year.",
+          "words": [
+            {
+              "surface": "inflación",
+              "lemma": "inflación",
+              "en": "inflation"
+            },
+            {
+              "surface": "costo de vida",
+              "lemma": "costo de vida",
+              "en": "cost of living"
+            },
+            {
+              "surface": "Viernes Negro",
+              "lemma": "Viernes Negro",
+              "en": "Black Friday"
+            },
+            {
+              "surface": "récord",
+              "lemma": "récord",
+              "en": "record"
+            }
+          ]
+        },
+        {
+          "es": "Las personas están cortando otros gastos para poder gastar más dinero durante las compras de las fiestas, y muchas personas prefieren comprar en las tiendas en lugar de en línea.",
+          "en": "People are cutting other expenses so they can spend more money during holiday shopping, and many people prefer to shop in stores rather than online.",
+          "words": [
+            {
+              "surface": "cortando",
+              "lemma": "cortar",
+              "en": "cutting"
+            },
+            {
+              "surface": "gastos",
+              "lemma": "gasto",
+              "en": "expenses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-3",
+      "headline": {
+        "es": "Fiscales piden 25 años de prisión para hombre que vendía veneno en línea",
+        "en": "Prosecutors seek 25-year prison sentence for man who sold poison online"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "Kenneth Law es un hombre canadiense que vendía sustancias tóxicas a través de internet en foros sobre suicidio en 40 países diferentes.",
+          "en": "Kenneth Law is a Canadian man who sold toxic substances through the internet in suicide forums in 40 different countries.",
+          "words": [
+            {
+              "surface": "sustancias tóxicas",
+              "lemma": "sustancia tóxica",
+              "en": "toxic substances"
+            },
+            {
+              "surface": "foros",
+              "lemma": "foro",
+              "en": "forums"
+            }
+          ]
+        },
+        {
+          "es": "Law admitió culpabilidad en mayo por ayudar a 14 personas a morir por suicidio en Ontario, Canadá, aunque reconoce que causó la muerte de muchas más personas en Inglaterra y Gales.",
+          "en": "Law pleaded guilty in May to aiding 14 people in suicide deaths in Ontario, Canada, although he admits to causing the deaths of many more people in England and Wales.",
+          "words": [
+            {
+              "surface": "admitió culpabilidad",
+              "lemma": "admitir culpabilidad",
+              "en": "pleaded guilty"
+            },
+            {
+              "surface": "Ontario",
+              "lemma": "Ontario",
+              "en": "Ontario"
+            }
+          ]
+        },
+        {
+          "es": "Los fiscales dicen que Law es un depredador que aprovechaba a personas vulnerables que necesitaban ayuda pero encontraron sus productos para morir.",
+          "en": "Prosecutors say that Law is a predator who took advantage of vulnerable people who needed help but found his products for death.",
+          "words": [
+            {
+              "surface": "fiscales",
+              "lemma": "fiscal",
+              "en": "prosecutors"
+            },
+            {
+              "surface": "depredador",
+              "lemma": "depredador",
+              "en": "predator"
+            },
+            {
+              "surface": "vulnerables",
+              "lemma": "vulnerable",
+              "en": "vulnerable"
+            }
+          ]
+        },
+        {
+          "es": "La defensa de Law argumenta que él no fue la causa de los problemas de salud mental de sus víctimas, sino que tenía una creencia equivocada de que estaba ayudando.",
+          "en": "Law's defense argues that he was not the cause of his victims' mental health problems, but rather had a misguided belief that he was helping.",
+          "words": [
+            {
+              "surface": "defensa",
+              "lemma": "defensa",
+              "en": "defense"
+            },
+            {
+              "surface": "salud mental",
+              "lemma": "salud mental",
+              "en": "mental health"
+            },
+            {
+              "surface": "equivocada",
+              "lemma": "equivocado",
+              "en": "misguided"
+            }
+          ]
+        },
+        {
+          "es": "Los fiscales piden 25 años de prisión para Law, mientras que su abogado pide solo 12 años, y la sentencia final se decidirá en una fecha posterior.",
+          "en": "Prosecutors are asking for 25 years in prison for Law, while his lawyer is asking for only 12 years, and the final sentence will be decided at a later date.",
+          "words": [
+            {
+              "surface": "sentencia",
+              "lemma": "sentencia",
+              "en": "sentence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-4",
+      "headline": {
+        "es": "Actor francés Gérard Depardieu debe ir a juicio por violación y agresión sexual",
+        "en": "French actor Gérard Depardieu ordered to stand trial for rape and sexual assault"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france"
+      },
+      "sentences": [
+        {
+          "es": "Gérard Depardieu, un famoso actor francés de 77 años, debe ir a juicio por acusaciones de violación y agresión sexual contra una actriz joven.",
+          "en": "Gérard Depardieu, a famous 77-year-old French actor, must stand trial on charges of rape and sexual assault against a young actress.",
+          "words": [
+            {
+              "surface": "violación",
+              "lemma": "violación",
+              "en": "rape"
+            },
+            {
+              "surface": "agresión sexual",
+              "lemma": "agresión sexual",
+              "en": "sexual assault"
+            }
+          ]
+        },
+        {
+          "es": "Una actriz llamada Charlotte Arnould acusó a Depardieu en 2018 de violarla en su casa en París cuando ella tenía 22 años.",
+          "en": "An actress named Charlotte Arnould accused Depardieu in 2018 of raping her at his home in Paris when she was 22 years old.",
+          "words": []
+        },
+        {
+          "es": "Hace poco, Depardieu aceptó una condena anterior por agresión sexual en un set de cine en 2021 y pidió disculpas públicamente por sus acciones.",
+          "en": "Recently, Depardieu accepted a previous conviction for sexual assault on a film set in 2021 and publicly apologized for his actions.",
+          "words": [
+            {
+              "surface": "condena",
+              "lemma": "condena",
+              "en": "conviction"
+            },
+            {
+              "surface": "set de cine",
+              "lemma": "set de cine",
+              "en": "film set"
+            }
+          ]
+        },
+        {
+          "es": "El caso de Depardieu es importante en Francia porque muestra cómo el país está enfrentando el problema de la violencia sexual, algo que ha sido resistido por muchas personas en el arte.",
+          "en": "Depardieu's case is important in France because it shows how the country is facing the problem of sexual violence, something that has been resisted by many people in the arts.",
+          "words": [
+            {
+              "surface": "violencia sexual",
+              "lemma": "violencia sexual",
+              "en": "sexual violence"
+            }
+          ]
+        },
+        {
+          "es": "Depardieu fue una estrella de cine durante cincuenta años, pero ahora sus acusaciones de mala conducta sexual han opacado su legado como actor.",
+          "en": "Depardieu was a movie star for fifty years, but now his accusations of sexual misconduct have overshadowed his legacy as an actor.",
+          "words": [
+            {
+              "surface": "estrella de cine",
+              "lemma": "estrella de cine",
+              "en": "movie star"
+            },
+            {
+              "surface": "mala conducta sexual",
+              "lemma": "mala conducta sexual",
+              "en": "sexual misconduct"
+            },
+            {
+              "surface": "opacado",
+              "lemma": "opacar",
+              "en": "overshadowed"
+            },
+            {
+              "surface": "legado",
+              "lemma": "legado",
+              "en": "legacy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-5",
+      "headline": {
+        "es": "Candidatos españoles hacen sus últimos discursos antes de las elecciones",
+        "en": "Spanish candidates make their final speeches before elections"
+      },
+      "source": {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+      },
+      "sentences": [
+        {
+          "es": "El partido Vox, que se opone a la inmigración, hizo un mitin grande en Valencia con miles de personas que apoyan sus políticas sobre migración.",
+          "en": "The Vox party, which opposes immigration, held a large rally in Valencia with thousands of people who support its policies on migration.",
+          "words": [
+            {
+              "surface": "inmigración",
+              "lemma": "inmigración",
+              "en": "immigration"
+            },
+            {
+              "surface": "mitin",
+              "lemma": "mitin",
+              "en": "rally"
+            },
+            {
+              "surface": "migración",
+              "lemma": "migración",
+              "en": "migration"
+            }
+          ]
+        },
+        {
+          "es": "El Primer Ministro Sánchez y su aliada Ada Colau enfatizaron los derechos de las mujeres en sus discursos finales de campaña.",
+          "en": "Prime Minister Sánchez and his ally Ada Colau emphasized women's rights in their final campaign speeches.",
+          "words": [
+            {
+              "surface": "Primer Ministro",
+              "lemma": "Primer Ministro",
+              "en": "Prime Minister"
+            },
+            {
+              "surface": "aliada",
+              "lemma": "aliado",
+              "en": "ally"
+            },
+            {
+              "surface": "derechos",
+              "lemma": "derecho",
+              "en": "rights"
+            }
+          ]
+        },
+        {
+          "es": "El líder del partido conservador Feijóo terminó su campaña en Sevilla, una región importante porque tiene muchos escaños en el parlamento español.",
+          "en": "Conservative party leader Feijóo ended his campaign in Seville, an important region because it has many seats in the Spanish parliament.",
+          "words": [
+            {
+              "surface": "escaños",
+              "lemma": "escaño",
+              "en": "seats"
+            },
+            {
+              "surface": "parlamento",
+              "lemma": "parlamento",
+              "en": "parliament"
+            }
+          ]
+        },
+        {
+          "es": "Feijóo dice que quiere gobernar con una mayoría y apoyo parlamentario de Vox, pero insiste que nunca ha hablado con Abascal sobre dar poder ministerial a ese partido.",
+          "en": "Feijóo says he wants to govern with a majority and parliamentary support from Vox, but insists he has never spoken with Abascal about giving ministerial power to that party.",
+          "words": [
+            {
+              "surface": "gobernar",
+              "lemma": "gobernar",
+              "en": "govern"
+            },
+            {
+              "surface": "mayoría",
+              "lemma": "mayoría",
+              "en": "majority"
+            },
+            {
+              "surface": "poder ministerial",
+              "lemma": "poder ministerial",
+              "en": "ministerial power"
+            }
+          ]
+        },
+        {
+          "es": "Sánchez dijo que estas elecciones son sobre llevar a España hacia adelante, no hacia atrás, y sus seguidores jóvenes dicen que temen un regreso a la dictadura.",
+          "en": "Sánchez said that these elections are about moving Spain forward, not backward, and his young supporters say they fear a return to dictatorship.",
+          "words": [
+            {
+              "surface": "dictadura",
+              "lemma": "dictadura",
+              "en": "dictatorship"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-6",
+      "headline": {
+        "es": "Tormenta masiva causa apagones y el Viernes Negro trae récord de compras",
+        "en": "Massive storm causes blackouts and Black Friday brings record shopping"
+      },
+      "source": {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday"
+      },
+      "sentences": [
+        {
+          "es": "Una tormenta grande que se extendió desde el medio oeste hasta Nueva York dejó a casi un millón de personas sin electricidad en el Día de Acción de Gracias.",
+          "en": "A massive storm that stretched from the Midwest to New York left almost a million people without electricity on Thanksgiving.",
+          "words": [
+            {
+              "surface": "tormenta",
+              "lemma": "tormenta",
+              "en": "storm"
+            },
+            {
+              "surface": "Acción de Gracias",
+              "lemma": "Acción de Gracias",
+              "en": "Thanksgiving"
+            }
+          ]
+        },
+        {
+          "es": "Más de 400 vuelos fueron cancelados y más de 2,000 fueron retrasados en todo el país durante uno de los días más ocupados del año para viajar.",
+          "en": "More than 400 flights were canceled and more than 2,000 were delayed across the country during one of the busiest travel days of the year.",
+          "words": [
+            {
+              "surface": "vuelos",
+              "lemma": "vuelo",
+              "en": "flights"
+            },
+            {
+              "surface": "cancelados",
+              "lemma": "cancelar",
+              "en": "canceled"
+            },
+            {
+              "surface": "retrasados",
+              "lemma": "retrasar",
+              "en": "delayed"
+            }
+          ]
+        },
+        {
+          "es": "Varias áreas sufrieron inundaciones graves, incluyendo partes de Virginia y Nueva Jersey donde el agua llegó a 2 o 3 pies de altura.",
+          "en": "Several areas suffered severe flooding, including parts of Virginia and New Jersey where water reached 2 to 3 feet in height.",
+          "words": [
+            {
+              "surface": "inundaciones",
+              "lemma": "inundación",
+              "en": "flooding"
+            },
+            {
+              "surface": "graves",
+              "lemma": "grave",
+              "en": "severe"
+            }
+          ]
+        },
+        {
+          "es": "El desfile de Acción de Gracias de Macy's fue pospuesto por primera vez en su historia y ahora ocurrirá el sábado en lugar del jueves.",
+          "en": "Macy's Thanksgiving Day Parade was postponed for the first time in its history and will now take place on Saturday instead of Thursday.",
+          "words": [
+            {
+              "surface": "desfile",
+              "lemma": "desfile",
+              "en": "parade"
+            },
+            {
+              "surface": "pospuesto",
+              "lemma": "posponer",
+              "en": "postponed"
+            }
+          ]
+        },
+        {
+          "es": "A pesar de la inflación y los altos precios, los estadounidenses esperan gastar más de un billón de dólares en compras de fiestas este año, con muchas personas usando inteligencia artificial para ayudarse a encontrar regalos.",
+          "en": "Despite inflation and high prices, Americans are expected to spend over one trillion dollars on holiday shopping this year, with many people using artificial intelligence to help find gifts.",
+          "words": [
+            {
+              "surface": "inflación",
+              "lemma": "inflación",
+              "en": "inflation"
+            },
+            {
+              "surface": "billón",
+              "lemma": "billón",
+              "en": "trillion"
+            },
+            {
+              "surface": "inteligencia artificial",
+              "lemma": "inteligencia artificial",
+              "en": "artificial intelligence"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
